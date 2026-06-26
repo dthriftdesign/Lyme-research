@@ -1,0 +1,37 @@
+{
+  "topic_id": 4,
+  "relationships": [
+    {
+      "relationship_id": "R012",
+      "to_topic_id": 1,
+      "type": "shared-mechanism",
+      "description": "Lyme arthritis provides the human proof-of-concept that Borrelia induces organ-specific autoimmunity (ECGF, Annexin A2); the Lyme-OCD hypothesis needs the same template in the brain.",
+      "evidence_sources": ["T4-S005"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R013",
+      "to_topic_id": 6,
+      "type": "shared-mechanism",
+      "description": "Bransfield's psychoimmunology links the same neuroinflammatory/autoimmune mechanisms to mood disturbance and suicidality.",
+      "evidence_sources": ["T4-S004"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R014",
+      "to_topic_id": 3,
+      "type": "shared-mechanism",
+      "description": "Dopaminergic/striatal circuitry and compulsive behaviors connect stimulant formication/picking to OCD-spectrum mechanisms.",
+      "evidence_sources": ["T4-S005"],
+      "strength": "weak"
+    },
+    {
+      "relationship_id": "R015",
+      "to_topic_id": 2,
+      "type": "symptom-overlap",
+      "description": "Illness fears (Lyme/Morgellons) can become the content of OCD, an attribution loop linking the two topics.",
+      "evidence_sources": ["T4-S001"],
+      "strength": "weak"
+    }
+  ]
+}
