@@ -1,0 +1,132 @@
+{
+  "topic_id": 3,
+  "topic_title": "Lyme, Morgellons, and amphetamines",
+  "sources": [
+    {
+      "source_id": "T3-S001",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Neurologic Manifestations of Chronic Methamphetamine Abuse",
+      "authors": ["Rusyniak DE"],
+      "year": 2013,
+      "journal_or_publisher": "Psychiatric Clinics of North America",
+      "doi": "10.1016/j.psc.2013.02.005",
+      "pmid": "23931803",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3764482/",
+      "key_findings": "Reviews methamphetamine neurotoxicity and psychosis, including formication ('meth mites') as a frequent complaint in heavy users, driven by dopaminergic dysregulation.",
+      "relevance_notes": "Mainstream basis for stimulant-induced formication and its mechanism."
+    },
+    {
+      "source_id": "T3-S002",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Amphetamine-Induced Delusional Infestation",
+      "authors": ["(case report authors)"],
+      "year": 2017,
+      "journal_or_publisher": "American Journal of Psychiatry Residents' Journal",
+      "doi": "10.1176/appi.ajp-rj.2017.121204",
+      "pmid": null,
+      "url": "https://psychiatryonline.org/doi/10.1176/appi.ajp-rj.2017.121204",
+      "key_findings": "Case discussion of delusional infestation precipitated by amphetamine use, illustrating the secondary (drug-induced) form.",
+      "relevance_notes": "Directly documents amphetamine as a cause of the Morgellons-like infestation picture."
+    },
+    {
+      "source_id": "T3-S003",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "A Comparison of Methamphetamine-Induced Psychosis and Schizophrenia: A Review of Positive, Negative, and Cognitive Symptomatology",
+      "authors": ["(review authors)"],
+      "year": 2018,
+      "journal_or_publisher": "Frontiers in Psychiatry",
+      "doi": "10.3389/fpsyt.2018.00491",
+      "pmid": null,
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2018.00491/full",
+      "key_findings": "Methamphetamine-induced psychosis shows disproportionately high tactile and visual hallucinations relative to schizophrenia; prevalence of stimulant psychosis ~26-46% in dependent users.",
+      "relevance_notes": "Epidemiology and the prominence of tactile hallucinations in stimulant psychosis."
+    },
+    {
+      "source_id": "T3-S004",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Delusional Infestation",
+      "authors": ["Freudenmann RW", "Lepping P"],
+      "year": 2009,
+      "journal_or_publisher": "Clinical Microbiology Reviews",
+      "doi": "10.1128/CMR.00018-09",
+      "pmid": "19822895",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19822895/",
+      "key_findings": "Distinguishes primary from secondary (drug/medical/psychiatric) delusional infestation; cocaine and amphetamines are recognized precipitants; antipsychotics treat it.",
+      "relevance_notes": "Frames stimulant-induced DI as a secondary form and informs management."
+    },
+    {
+      "source_id": "T3-S005",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Clinical, Epidemiologic, Histopathologic and Molecular Features of an Unexplained Dermopathy",
+      "authors": ["Pearson ML", "Selby JV", "Katz KA", "Cantrell V", "Braden CR", "Parise ME", "et al."],
+      "year": 2012,
+      "journal_or_publisher": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0029908",
+      "pmid": "22295070",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22295070/",
+      "key_findings": "CDC Morgellons study noted detectable drugs in a notable share of the cohort alongside a delusional-infestation-like picture.",
+      "relevance_notes": "The drug-detection signal linking Morgellons cohorts to substance use."
+    },
+    {
+      "source_id": "T3-S006",
+      "type": "peer_reviewed",
+      "consensus_status": "fringe",
+      "title": "Morgellons disease: a filamentous borrelial dermatitis",
+      "authors": ["Middelveen MJ", "Stricker RB"],
+      "year": 2016,
+      "journal_or_publisher": "International Journal of General Medicine",
+      "doi": "10.2147/IJGM.S116608",
+      "pmid": null,
+      "url": "https://www.tandfonline.com/doi/full/10.2147/IJGM.S116608",
+      "key_findings": "Argues Morgellons is an organic borrelial dermatitis, the competing explanation to stimulant-induced DI.",
+      "relevance_notes": "Minority organic-etiology position that contests drug-attribution of all cases."
+    }
+  ],
+  "forum_excerpts": [
+    {
+      "excerpt_id": "T3-F001",
+      "platform": "Bluelight.org",
+      "thread_url": "https://www.bluelight.org/",
+      "approximate_date": "2010-2024",
+      "paraphrased_content": "Stimulant users describe formication ('meth mites'/'coke bugs') and compulsive picking during binges, generally understood as a reversible drug effect that fades with sleep or abstinence.",
+      "pattern_tag": "stimulant-formication-self-aware",
+      "corroborates_sources": ["T3-S001", "T3-S002", "T3-S003"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T3-F002",
+      "platform": "r/MorgellonsDisease",
+      "thread_url": "https://www.reddit.com/r/MorgellonsDisease/",
+      "approximate_date": "2016-2024",
+      "paraphrased_content": "Identical crawling/biting sensations and skin-picking attributed to Borrelia/parasites, with stimulant use rarely mentioned.",
+      "pattern_tag": "same-symptom-infection-attribution",
+      "corroborates_sources": ["T3-S002", "T3-S004"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T3-F003",
+      "platform": "r/StopSpeeding",
+      "thread_url": "https://www.reddit.com/r/StopSpeeding/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "Recovery-forum posters report formication and infestation feelings resolving within days to weeks of stimulant abstinence, sometimes to their surprise.",
+      "pattern_tag": "resolution-after-abstinence",
+      "corroborates_sources": ["T3-S001", "T3-S004"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T3-F004",
+      "platform": "r/AdderallAddiction",
+      "thread_url": "https://www.reddit.com/r/AdderallAddiction/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "Some prescribed-amphetamine users describe mild skin-crawling at higher doses or with sleep deprivation, resolving with dose reduction.",
+      "pattern_tag": "prescription-stimulant-dose-formication",
+      "corroborates_sources": ["T3-S003"],
+      "contradicts_sources": []
+    }
+  ]
+}

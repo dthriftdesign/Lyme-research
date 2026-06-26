@@ -1,0 +1,29 @@
+{
+  "topic_id": 3,
+  "relationships": [
+    {
+      "relationship_id": "R009",
+      "to_topic_id": 2,
+      "type": "differential-diagnosis",
+      "description": "Stimulant-induced delusional infestation is the primary differential and a likely subgroup explanation for Morgellons; phenomenology is identical.",
+      "evidence_sources": ["T3-S002", "T3-S004"],
+      "strength": "strong"
+    },
+    {
+      "relationship_id": "R010",
+      "to_topic_id": 4,
+      "type": "shared-mechanism",
+      "description": "Compulsive skin-picking (excoriation) and dopaminergic/striatal circuitry connect stimulant formication to OCD-spectrum mechanisms.",
+      "evidence_sources": ["T3-S001"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R011",
+      "to_topic_id": 5,
+      "type": "symptom-overlap",
+      "description": "Delusional versus genuine infestation runs through both stimulant DI and parasitic-infection topics.",
+      "evidence_sources": ["T3-S004"],
+      "strength": "moderate"
+    }
+  ]
+}
