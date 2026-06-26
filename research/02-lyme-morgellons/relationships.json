@@ -1,0 +1,37 @@
+{
+  "topic_id": 2,
+  "relationships": [
+    {
+      "relationship_id": "R005",
+      "to_topic_id": 3,
+      "type": "differential-diagnosis",
+      "description": "Stimulant-induced formication produces crawling sensations and skin-picking phenomenologically identical to Morgellons, a documented confound and possible subgroup explanation.",
+      "evidence_sources": ["T2-S002"],
+      "strength": "strong"
+    },
+    {
+      "relationship_id": "R006",
+      "to_topic_id": 1,
+      "type": "shared-mechanism",
+      "description": "Both topics invoke Borrelia persistence and biofilm (Sapi) as mechanism; Lyme arthritis is the better-evidenced test bed for those claims.",
+      "evidence_sources": ["T2-S010"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R007",
+      "to_topic_id": 5,
+      "type": "symptom-overlap",
+      "description": "Morgellons 'infestation' phenomenology overlaps with genuine-versus-perceived parasitic infection debates and delusional infestation.",
+      "evidence_sources": ["T2-S002"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R008",
+      "to_topic_id": 4,
+      "type": "shared-mechanism",
+      "description": "Both Morgellons (as DI) and Lyme-OCD involve neuropsychiatric symptom generation attributed by patients to infection and by mainstream medicine to brain-based mechanisms.",
+      "evidence_sources": ["T2-S002"],
+      "strength": "weak"
+    }
+  ]
+}
