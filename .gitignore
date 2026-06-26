@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node / frontend
+web/node_modules/
+web/dist/
+.DS_Store
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+
+# Generated database (regenerate with scripts/seed_db.py).
+# Tracked exports live in data/export/ and web/src/data/.
+data/lyme.db
