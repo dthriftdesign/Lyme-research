@@ -366,5 +366,128 @@
     "evidence_sources": [
       "T9-S008"
     ]
+  },
+  {
+    "relationship_id": "R034",
+    "from_topic_id": 10,
+    "to_topic_id": 1,
+    "type": "shared-mechanism",
+    "description": "Lyme arthritis is the best-evidenced test bed for the persistence-vs-postinfectious debate and supplies the human autoimmunity proof underlying chronic-Lyme mechanism arguments.",
+    "strength": "strong",
+    "evidence_sources": [
+      "T10-S009"
+    ]
+  },
+  {
+    "relationship_id": "R035",
+    "from_topic_id": 10,
+    "to_topic_id": 5,
+    "type": "comorbidity",
+    "description": "Missed or under-treated co-infection (especially Babesia) is a real cause of 'treatment-resistant'/chronic Lyme, a point where mainstream and patients agree.",
+    "strength": "strong",
+    "evidence_sources": [
+      "T10-S011"
+    ]
+  },
+  {
+    "relationship_id": "R036",
+    "from_topic_id": 10,
+    "to_topic_id": 6,
+    "type": "shared-mechanism",
+    "description": "Chronic-illness burden and medical invalidation drive the despair and suicide-risk load central to the chronic-Lyme experience.",
+    "strength": "strong",
+    "evidence_sources": [
+      "T10-S001"
+    ]
+  },
+  {
+    "relationship_id": "R037",
+    "from_topic_id": 10,
+    "to_topic_id": 8,
+    "type": "shared-mechanism",
+    "description": "Borrelia-induced humoral immune suppression is a mainstream mechanism invoked to explain persistent/relapsing chronic-Lyme symptoms and reinfection.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T10-S005"
+    ]
+  },
+  {
+    "relationship_id": "R038",
+    "from_topic_id": 10,
+    "to_topic_id": 11,
+    "type": "shared-mechanism",
+    "description": "Congenital/early-life acquisition (Topic 11) is proposed as an origin for lifelong 'chronic Lyme' in patients without a known tick bite.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T10-S008"
+    ]
+  },
+  {
+    "relationship_id": "R039",
+    "from_topic_id": 10,
+    "to_topic_id": 9,
+    "type": "contrasting",
+    "description": "The institutional-distrust / cover-up narrative attaches to chronic Lyme via the guideline and insurance disputes.",
+    "strength": "weak",
+    "evidence_sources": [
+      "T10-S001"
+    ]
+  },
+  {
+    "relationship_id": "R040",
+    "from_topic_id": 10,
+    "to_topic_id": 4,
+    "type": "symptom-overlap",
+    "description": "Neuropsychiatric symptoms (cognitive fog, mood, OCD-spectrum) are part of the chronic-Lyme symptom complex.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T10-S005"
+    ]
+  },
+  {
+    "relationship_id": "R041",
+    "from_topic_id": 11,
+    "to_topic_id": 7,
+    "type": "shared-mechanism",
+    "description": "The congenital-syphilis analogy is the scientific backbone of the vertical/sexual-transmission questions: a related spirochete (Treponema) transmits transplacentally and sexually, motivating the question for Borrelia while its divergent biology limits it.",
+    "strength": "strong",
+    "evidence_sources": [
+      "T11-S008",
+      "T11-S002"
+    ]
+  },
+  {
+    "relationship_id": "R042",
+    "from_topic_id": 11,
+    "to_topic_id": 10,
+    "type": "shared-mechanism",
+    "description": "Congenital/early-life acquisition is proposed as an origin for lifelong 'chronic Lyme' in patients without a known tick bite.",
+    "strength": "strong",
+    "evidence_sources": [
+      "T11-S002",
+      "T11-S009"
+    ]
+  },
+  {
+    "relationship_id": "R043",
+    "from_topic_id": 11,
+    "to_topic_id": 2,
+    "type": "shared-mechanism",
+    "description": "The same research group (Middelveen & Stricker) supplies both the Morgellons borrelial-dermatitis claims and the sexual-transmission detection claims; shared methods and contamination concerns.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T11-S006"
+    ]
+  },
+  {
+    "relationship_id": "R044",
+    "from_topic_id": 11,
+    "to_topic_id": 5,
+    "type": "comorbidity",
+    "description": "Vertical transmission of tick-borne co-infections (e.g., Babesia) alongside Borrelia is even less studied than Lyme itself.",
+    "strength": "weak",
+    "evidence_sources": [
+      "T11-S003"
+    ]
   }
 ]

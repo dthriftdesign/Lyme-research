@@ -1,0 +1,61 @@
+{
+  "topic_id": 10,
+  "relationships": [
+    {
+      "relationship_id": "R034",
+      "to_topic_id": 1,
+      "type": "shared-mechanism",
+      "description": "Lyme arthritis is the best-evidenced test bed for the persistence-vs-postinfectious debate and supplies the human autoimmunity proof underlying chronic-Lyme mechanism arguments.",
+      "evidence_sources": ["T10-S009"],
+      "strength": "strong"
+    },
+    {
+      "relationship_id": "R035",
+      "to_topic_id": 5,
+      "type": "comorbidity",
+      "description": "Missed or under-treated co-infection (especially Babesia) is a real cause of 'treatment-resistant'/chronic Lyme, a point where mainstream and patients agree.",
+      "evidence_sources": ["T10-S011"],
+      "strength": "strong"
+    },
+    {
+      "relationship_id": "R036",
+      "to_topic_id": 6,
+      "type": "shared-mechanism",
+      "description": "Chronic-illness burden and medical invalidation drive the despair and suicide-risk load central to the chronic-Lyme experience.",
+      "evidence_sources": ["T10-S001"],
+      "strength": "strong"
+    },
+    {
+      "relationship_id": "R037",
+      "to_topic_id": 8,
+      "type": "shared-mechanism",
+      "description": "Borrelia-induced humoral immune suppression is a mainstream mechanism invoked to explain persistent/relapsing chronic-Lyme symptoms and reinfection.",
+      "evidence_sources": ["T10-S005"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R038",
+      "to_topic_id": 11,
+      "type": "shared-mechanism",
+      "description": "Congenital/early-life acquisition (Topic 11) is proposed as an origin for lifelong 'chronic Lyme' in patients without a known tick bite.",
+      "evidence_sources": ["T10-S008"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R039",
+      "to_topic_id": 9,
+      "type": "contrasting",
+      "description": "The institutional-distrust / cover-up narrative attaches to chronic Lyme via the guideline and insurance disputes.",
+      "evidence_sources": ["T10-S001"],
+      "strength": "weak"
+    },
+    {
+      "relationship_id": "R040",
+      "to_topic_id": 4,
+      "type": "symptom-overlap",
+      "description": "Neuropsychiatric symptoms (cognitive fog, mood, OCD-spectrum) are part of the chronic-Lyme symptom complex.",
+      "evidence_sources": ["T10-S005"],
+      "strength": "moderate"
+    }
+  ]
+}

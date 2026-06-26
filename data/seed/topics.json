@@ -53,6 +53,18 @@
       "slug": "lyme-bioweapon",
       "title": "Lyme as a bioweapon",
       "summary": "Separates documented history (US Cold War tick-weaponization research; Burgdorfer's classified work; 2019 DoD-IG amendment) from the speculative 'escape' thesis. Ancient-DNA evidence (Otzi, 15-My amber) refutes an engineered organism; ecology explains the epidemic."
+    },
+    {
+      "topic_id": 10,
+      "slug": "chronic-lyme",
+      "title": "Chronic and late-stage Lyme",
+      "summary": "The project's keystone controversy. Separates three things routinely merged: recognized late disseminated Lyme; recognized Post-Treatment Lyme Disease Syndrome (PTLDS, ~10-20% of treated patients, real but post-infectious); and the contested 'chronic Lyme disease' label (ongoing infection treatable with prolonged antibiotics). The illness is real; the persistent-active-infection mechanism is unproven; controlled trials show no durable benefit from long antibiotics."
+    },
+    {
+      "topic_id": 11,
+      "slug": "lyme-transmission",
+      "title": "How Lyme is transmitted (tick, congenital, sexual)",
+      "summary": "Beyond the established tick-bite route: can Lyme pass in utero or sexually? Mainstream accepts the spirochete can rarely cross the placenta (documented since 1985) but rejects a defined congenital syndrome (removed from ICD-11) and sexual transmission. The congenital-syphilis analogy makes the vertical question scientifically serious; divergent transmission biology limits it. A missing tick-bite history is normal, not evidence of an exotic route."
     }
   ]
 }

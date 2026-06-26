@@ -1,9 +1,15 @@
 # Meta-Insights — Cross-Topic Synthesis
 
-> Written after all nine topics, holding them in mind together. This is the
-> project's top layer: patterns that only appear when the topics are viewed as a
-> web rather than nine reports. Hypotheses are labeled. See each topic's
-> `insights.md` and `relationships.json` for the grounding.
+> Written holding all topics in mind together. This is the project's top layer:
+> patterns that only appear when the topics are viewed as a web rather than
+> separate reports. Hypotheses are labeled. See each topic's `insights.md` and
+> `relationships.json` for the grounding.
+>
+> *Originally written after the first nine topics; Topics 10 (chronic/late-stage
+> Lyme) and 11 (transmission routes) were added later. Topic 10 is in many ways
+> the keystone the other patient-side controversies feed into, and Topic 11
+> supplies the congenital/early-life acquisition route that several other topics
+> implicitly assume.*
 
 ## 1. One epistemic engine drives most of the controversies
 
@@ -20,6 +26,8 @@ Across topics, the *same* dispute recurs with different nouns:
 | 7 HIV/syphilis | cross-reactive serology | diagnostic artifact | deep biological kinship |
 | 8 WBC | immune disturbance | defined humoral suppression | chronic immunodeficiency (CD57) |
 | 9 Bioweapon | the epidemic's rise | natural ecology | engineered/escaped agent |
+| 10 Chronic Lyme | persistent post-Lyme illness | post-infectious (PTLDS) | ongoing active infection |
+| 11 Transmission | Lyme without a known bite | unnoticed tick bite | congenital / sexual route |
 
 The constant is **"real phenomenon, disputed cause,"** and the minority almost
 always prefers the **more external, more infectious, more actionable** cause. The

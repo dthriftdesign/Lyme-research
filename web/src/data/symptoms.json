@@ -1,5 +1,23 @@
 [
   {
+    "symptom_id": 20,
+    "name": "Adverse pregnancy outcome / neonatal illness (gestational Lyme)",
+    "body_system": "reproductive / neonatal",
+    "description": "Fetal death, prematurity, or neonatal illness associated mainly with untreated maternal Lyme; documented transplacental spirochete transfer.",
+    "topics": [
+      {
+        "symptom_id": 20,
+        "topic_id": 11,
+        "frequency": "rare",
+        "mechanism_explanation": "Transplacental crossing of B. burgdorferi (documented since 1985); adverse outcomes associated with untreated maternal infection and reduced by treatment."
+      }
+    ],
+    "sources": [
+      "T11-S002",
+      "T11-S003"
+    ]
+  },
+  {
     "symptom_id": 8,
     "name": "Air hunger / shortness of breath",
     "body_system": "respiratory",
@@ -32,6 +50,30 @@
     ],
     "sources": [
       "T7-S006"
+    ]
+  },
+  {
+    "symptom_id": 19,
+    "name": "Chronic multi-system illness without a known tick bite",
+    "body_system": "constitutional",
+    "description": "A multi-system chronic-illness picture in a patient with no recalled tick exposure, often prompting congenital or sexual-transmission inferences.",
+    "topics": [
+      {
+        "symptom_id": 19,
+        "topic_id": 10,
+        "frequency": "common",
+        "mechanism_explanation": "Often genuine PTLDS or misattributed alternative illness; a missing bite is expected since nymphal bites are usually unnoticed."
+      },
+      {
+        "symptom_id": 19,
+        "topic_id": 11,
+        "frequency": "common",
+        "mechanism_explanation": "Drives congenital/sexual-transmission hypotheses; a missing bite is normal and not evidence of an alternative route."
+      }
+    ],
+    "sources": [
+      "T10-S001",
+      "T11-S001"
     ]
   },
   {
@@ -258,6 +300,24 @@
     ]
   },
   {
+    "symptom_id": 17,
+    "name": "Persistent fatigue, pain, and brain fog after treatment",
+    "body_system": "constitutional / neuropsychiatric",
+    "description": "The core Post-Treatment Lyme Disease Syndrome (PTLDS) triad persisting >=6 months after recommended antibiotic treatment.",
+    "topics": [
+      {
+        "symptom_id": 17,
+        "topic_id": 10,
+        "frequency": "hallmark",
+        "mechanism_explanation": "Recognized PTLDS in ~10-20% of treated patients; post-infectious mechanism (immune activation, residual antigen, nerve injury) rather than ongoing active infection."
+      }
+    ],
+    "sources": [
+      "T10-S005",
+      "T10-S002"
+    ]
+  },
+  {
     "symptom_id": 15,
     "name": "Recurrent infections / viral reactivation",
     "body_system": "immunologic",
@@ -291,6 +351,23 @@
     "sources": [
       "T2-S001",
       "T2-S006"
+    ]
+  },
+  {
+    "symptom_id": 18,
+    "name": "Small-fiber neuropathy / dysautonomia",
+    "body_system": "neurological",
+    "description": "Objective small-fiber nerve dysfunction and autonomic symptoms documented in a subset of PTLDS patients.",
+    "topics": [
+      {
+        "symptom_id": 18,
+        "topic_id": 10,
+        "frequency": "occasional",
+        "mechanism_explanation": "Nerve injury/post-infectious neuropathy; objective finding countering a purely psychological interpretation."
+      }
+    ],
+    "sources": [
+      "T10-S007"
     ]
   },
   {

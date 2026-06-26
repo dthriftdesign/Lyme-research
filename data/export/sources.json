@@ -474,6 +474,413 @@
     "relevance_notes": "The shared data point that both camps cite."
   },
   {
+    "source_id": "T10-S001",
+    "topic_id": 10,
+    "type": "peer_reviewed",
+    "consensus_status": "mainstream",
+    "title": "A critical appraisal of 'chronic Lyme disease'",
+    "authors": [
+      "Feder HM Jr",
+      "Johnson BJB",
+      "O'Connell S",
+      "Shapiro ED",
+      "Steere AC",
+      "Wormser GP",
+      "et al."
+    ],
+    "year": 2007,
+    "journal_or_publisher": "New England Journal of Medicine",
+    "doi": "10.1056/NEJMra072023",
+    "pmid": "17914043",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17914043/",
+    "key_findings": "Landmark appraisal distinguishing documented Lyme and post-treatment symptoms from the loosely-defined 'chronic Lyme disease' label, warning it is often applied without evidence of infection and masks alternative diagnoses.",
+    "relevance_notes": "The defining mainstream statement separating the contested 'chronic Lyme' label from recognized entities."
+  },
+  {
+    "source_id": "T10-S002",
+    "topic_id": 10,
+    "type": "peer_reviewed",
+    "consensus_status": "mainstream",
+    "title": "Chronic Lyme disease: a review",
+    "authors": [
+      "Marques A"
+    ],
+    "year": 2008,
+    "journal_or_publisher": "Infectious Disease Clinics of North America",
+    "doi": "10.1016/j.idc.2007.12.011",
+    "pmid": "18452806",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18452806/",
+    "key_findings": "Reviews the terminology and evidence, distinguishing post-treatment Lyme disease syndrome (real, ~10-20% of treated patients) from unsubstantiated chronic-infection claims.",
+    "relevance_notes": "Authoritative review establishing the PTLDS-vs-chronic-Lyme distinction."
+  },
+  {
+    "source_id": "T10-S003",
+    "topic_id": 10,
+    "type": "guideline",
+    "consensus_status": "mainstream",
+    "title": "2020 IDSA/AAN/ACR Lyme Disease Guidelines (persistent symptoms / retreatment sections)",
+    "authors": [
+      "Lantos PM",
+      "Rumbaugh J",
+      "Bockenstedt LK",
+      "et al."
+    ],
+    "year": 2021,
+    "journal_or_publisher": "Clinical Infectious Diseases",
+    "doi": "10.1093/cid/ciaa1215",
+    "pmid": "33417672",
+    "url": "https://academic.oup.com/cid/article/72/1/e1/6010652",
+    "key_findings": "Recommends against prolonged or repeated antibiotics for persistent symptoms after treated Lyme; supports symptom-directed care.",
+    "relevance_notes": "Governing mainstream standard on chronic/persistent Lyme management."
+  },
+  {
+    "source_id": "T10-S004",
+    "topic_id": 10,
+    "type": "peer_reviewed",
+    "consensus_status": "mainstream",
+    "title": "Two controlled trials of antibiotic treatment in patients with persistent symptoms and a history of Lyme disease",
+    "authors": [
+      "Klempner MS",
+      "Hu LT",
+      "Evans J",
+      "Schmid CH",
+      "Johnson GM",
+      "Trevino RP",
+      "et al."
+    ],
+    "year": 2001,
+    "journal_or_publisher": "New England Journal of Medicine",
+    "doi": "10.1056/NEJM200107123450202",
+    "pmid": "11450676",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11450676/",
+    "key_findings": "Randomized trials found no durable benefit of prolonged antibiotics for persistent post-Lyme symptoms.",
+    "relevance_notes": "Core evidence against long-term antibiotics for chronic Lyme."
+  },
+  {
+    "source_id": "T10-S005",
+    "topic_id": 10,
+    "type": "peer_reviewed",
+    "consensus_status": "mainstream",
+    "title": "Posttreatment Lyme disease syndrome",
+    "authors": [
+      "Aucott JN"
+    ],
+    "year": 2015,
+    "journal_or_publisher": "Infectious Disease Clinics of North America",
+    "doi": "10.1016/j.idc.2015.02.012",
+    "pmid": "25999225",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25999225/",
+    "key_findings": "Characterizes PTLDS as a real syndrome of persistent fatigue, pain, and cognitive symptoms after treated Lyme, with unresolved post-infectious pathophysiology.",
+    "relevance_notes": "Mainstream framing of PTLDS as real but not active infection."
+  },
+  {
+    "source_id": "T10-S006",
+    "topic_id": 10,
+    "type": "peer_reviewed",
+    "consensus_status": "mainstream",
+    "title": "Association of Persistent Symptoms after Lyme Neuroborreliosis and Increased Levels of Interferon-alpha in Blood",
+    "authors": [
+      "(study authors)"
+    ],
+    "year": 2023,
+    "journal_or_publisher": "Emerging Infectious Diseases (CDC)",
+    "doi": "10.3201/eid2906.221685",
+    "pmid": null,
+    "url": "https://wwwnc.cdc.gov/eid/article/29/6/22-1685_article",
+    "key_findings": "Found elevated interferon-alpha in blood of patients with persistent symptoms after Lyme neuroborreliosis, suggesting a measurable immune correlate.",
+    "relevance_notes": "Objective biological correlate for persistent post-Lyme symptoms (mainstream)."
+  },
+  {
+    "source_id": "T10-S007",
+    "topic_id": 10,
+    "type": "peer_reviewed",
+    "consensus_status": "mainstream",
+    "title": "Association of small fiber neuropathy and post treatment Lyme disease syndrome",
+    "authors": [
+      "Novak P",
+      "Felsenstein D",
+      "Mao C",
+      "Octavien NR",
+      "Zubcevik N"
+    ],
+    "year": 2019,
+    "journal_or_publisher": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0212222",
+    "pmid": null,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6372188/",
+    "key_findings": "Documents objective small-fiber neuropathy in a subset of PTLDS patients, evidence of real nerve pathology.",
+    "relevance_notes": "Objective finding countering the 'purely psychological' view of PTLDS."
+  },
+  {
+    "source_id": "T10-S008",
+    "topic_id": 10,
+    "type": "peer_reviewed",
+    "consensus_status": "minority-research",
+    "title": "Chronic Lyme Disease: An Evidence-Based Definition by the ILADS Working Group",
+    "authors": [
+      "Shor S",
+      "Green C",
+      "Szantyr B",
+      "Phillips S",
+      "Liegner K",
+      "Burrascano JJ",
+      "et al."
+    ],
+    "year": 2019,
+    "journal_or_publisher": "Antibiotics (Basel)",
+    "doi": "10.3390/antibiotics8040269",
+    "pmid": null,
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6963229/",
+    "key_findings": "Proposes a formal ILADS definition of chronic Lyme disease grounded in persistence claims and individualized treatment.",
+    "relevance_notes": "Primary minority definition of the contested entity."
+  },
+  {
+    "source_id": "T10-S009",
+    "topic_id": 10,
+    "type": "peer_reviewed",
+    "consensus_status": "minority-research",
+    "title": "Persistence of Borrelia burgdorferi in Rhesus Macaques following Antibiotic Treatment of Disseminated Infection",
+    "authors": [
+      "Embers ME",
+      "Barthold SW",
+      "Borda JT",
+      "Bowers L",
+      "Doyle L",
+      "Hodzic E",
+      "et al."
+    ],
+    "year": 2012,
+    "journal_or_publisher": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0029914",
+    "pmid": "22253822",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22253822/",
+    "key_findings": "Recovered residual B. burgdorferi after antibiotic therapy in primates, cited to support post-treatment persistence.",
+    "relevance_notes": "Best animal evidence for persistence; human/clinical implication contested."
+  },
+  {
+    "source_id": "T10-S010",
+    "topic_id": 10,
+    "type": "peer_reviewed",
+    "consensus_status": "speculative",
+    "title": "Reassessing Chronic Lyme Disease and Post-Treatment Lyme Disease Syndrome as Focal Infections",
+    "authors": [
+      "(review authors)"
+    ],
+    "year": 2025,
+    "journal_or_publisher": "review (PMC)",
+    "doi": null,
+    "pmid": null,
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12476892/",
+    "key_findings": "Proposes reframing chronic Lyme/PTLDS as residual focal infection in privileged sites.",
+    "relevance_notes": "Recent hypothesis-level reframing; not established."
+  },
+  {
+    "source_id": "T10-S011",
+    "topic_id": 10,
+    "type": "peer_reviewed",
+    "consensus_status": "minority-research",
+    "title": "Empirical validation of the Horowitz Multiple Systemic Infectious Disease Syndrome Questionnaire for suspected Lyme disease",
+    "authors": [
+      "Citera M",
+      "Freeman PR",
+      "Horowitz RI"
+    ],
+    "year": 2017,
+    "journal_or_publisher": "International Journal of General Medicine",
+    "doi": "10.2147/IJGM.S140224",
+    "pmid": "28919803",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28919803/",
+    "key_findings": "Operationalizes the MSIDS multi-infection model that folds chronic Lyme into a multi-system framework.",
+    "relevance_notes": "Minority diagnostic framework frequently used to define chronic Lyme."
+  },
+  {
+    "source_id": "T11-S001",
+    "topic_id": 11,
+    "type": "guideline",
+    "consensus_status": "mainstream",
+    "title": "How Lyme Disease Spreads / Transmission (CDC)",
+    "authors": [
+      "Centers for Disease Control and Prevention"
+    ],
+    "year": 2024,
+    "journal_or_publisher": "US Centers for Disease Control and Prevention",
+    "doi": null,
+    "pmid": null,
+    "url": "https://www.cdc.gov/lyme/causes/index.html",
+    "key_findings": "States Lyme is transmitted by the bite of infected blacklegged ticks; no credible evidence of sexual transmission, person-to-person spread, or transmission via breast milk; the spirochete's biology is incompatible with sexual transmission.",
+    "relevance_notes": "Authoritative mainstream statement of transmission routes."
+  },
+  {
+    "source_id": "T11-S002",
+    "topic_id": 11,
+    "type": "peer_reviewed",
+    "consensus_status": "historical",
+    "title": "Maternal-fetal transmission of the Lyme disease spirochete, Borrelia burgdorferi",
+    "authors": [
+      "Schlesinger PA",
+      "Duray PH",
+      "Burke BA",
+      "Steere AC",
+      "Stillman MT"
+    ],
+    "year": 1985,
+    "journal_or_publisher": "Annals of Internal Medicine",
+    "doi": "10.7326/0003-4819-103-1-67",
+    "pmid": "4003991",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/4003991/",
+    "key_findings": "First documented maternal-fetal transmission: after untreated first-trimester maternal Lyme, spirochetes were found in fetal liver, spleen, bone marrow, heart, brain, and kidney at autopsy.",
+    "relevance_notes": "Foundational evidence that B. burgdorferi can cross the placenta."
+  },
+  {
+    "source_id": "T11-S003",
+    "topic_id": 11,
+    "type": "peer_reviewed",
+    "consensus_status": "mainstream",
+    "title": "A systematic review on the impact of gestational Lyme disease in humans on the fetus and newborn",
+    "authors": [
+      "Waddell LA",
+      "Greig J",
+      "Lindsay LR",
+      "Hinckley AF",
+      "Ogden NH"
+    ],
+    "year": 2018,
+    "journal_or_publisher": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0207067",
+    "pmid": null,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6231644/",
+    "key_findings": "Systematic review: adverse outcomes are associated mainly with untreated maternal Lyme; evidence is limited and confounded; no consistent congenital malformation syndrome proven; prompt treatment reduces risk.",
+    "relevance_notes": "Best mainstream synthesis of gestational Lyme evidence."
+  },
+  {
+    "source_id": "T11-S004",
+    "topic_id": 11,
+    "type": "peer_reviewed",
+    "consensus_status": "minority-research",
+    "title": "Maternal Lyme borreliosis and pregnancy outcome",
+    "authors": [
+      "Lakos A",
+      "Solymosi N"
+    ],
+    "year": 2010,
+    "journal_or_publisher": "International Journal of Infectious Diseases",
+    "doi": "10.1016/j.ijid.2009.07.019",
+    "pmid": "19926325",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19926325/",
+    "key_findings": "Observational study reporting more adverse pregnancy outcomes in maternal Lyme, particularly when untreated or inadequately treated.",
+    "relevance_notes": "Observational signal for vertical-transmission harm; confounded, minority-weighted."
+  },
+  {
+    "source_id": "T11-S005",
+    "topic_id": 11,
+    "type": "historical_document",
+    "consensus_status": "mainstream",
+    "title": "Evidence review for person-to-person transmission (NICE Lyme disease guideline NG95)",
+    "authors": [
+      "National Institute for Health and Care Excellence (NICE)"
+    ],
+    "year": 2018,
+    "journal_or_publisher": "NICE / NCBI Bookshelf",
+    "doi": null,
+    "pmid": null,
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK578131/",
+    "key_findings": "Systematic review found insufficient evidence for person-to-person transmission (sexual or congenital as a defined syndrome); 'congenital Lyme disease' was subsequently removed from ICD-11.",
+    "relevance_notes": "Basis for the mainstream position that a congenital Lyme syndrome and sexual transmission are not established."
+  },
+  {
+    "source_id": "T11-S006",
+    "topic_id": 11,
+    "type": "peer_reviewed",
+    "consensus_status": "fringe",
+    "title": "Culture and identification of Borrelia spirochetes in human vaginal and seminal secretions",
+    "authors": [
+      "Middelveen MJ",
+      "Burke J",
+      "Sapi E",
+      "Bandoski C",
+      "Filush KR",
+      "Wang Y",
+      "et al.",
+      "Stricker RB"
+    ],
+    "year": 2014,
+    "journal_or_publisher": "F1000Research",
+    "doi": "10.12688/f1000research.5778.3",
+    "pmid": "28690828",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28690828/",
+    "key_findings": "Reports culturing/detecting Borrelia in human semen and vaginal secretions, including in partner couples, argued as evidence for possible sexual transmission.",
+    "relevance_notes": "Primary sexual-transmission detection claim; single-group, contamination-vulnerable, unreplicated."
+  },
+  {
+    "source_id": "T11-S007",
+    "topic_id": 11,
+    "type": "peer_reviewed",
+    "consensus_status": "fringe",
+    "title": "Sexual transmission of Lyme disease: challenging the tickborne disease paradigm",
+    "authors": [
+      "Stricker RB",
+      "Middelveen MJ"
+    ],
+    "year": 2015,
+    "journal_or_publisher": "Expert Review of Anti-infective Therapy",
+    "doi": "10.1586/14787210.2015.1081056",
+    "pmid": "26313548",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26313548/",
+    "key_findings": "Commentary arguing detection of Borrelia in genital secretions challenges the tick-only transmission paradigm.",
+    "relevance_notes": "Minority commentary advancing the sexual-transmission hypothesis."
+  },
+  {
+    "source_id": "T11-S008",
+    "topic_id": 11,
+    "type": "book",
+    "consensus_status": "mainstream",
+    "title": "Congenital Syphilis (StatPearls)",
+    "authors": [
+      "StatPearls Publishing"
+    ],
+    "year": 2024,
+    "journal_or_publisher": "StatPearls / NCBI Bookshelf",
+    "doi": null,
+    "pmid": null,
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537087/",
+    "key_findings": "Congenital syphilis is a fully established disease: the spirochete Treponema pallidum is transmitted transplacentally (and sexually), causing defined fetal/neonatal disease.",
+    "relevance_notes": "Anchors the congenital-syphilis analogy that motivates the vertical/sexual-transmission questions for the related spirochete Borrelia."
+  },
+  {
+    "source_id": "T11-S009",
+    "topic_id": 11,
+    "type": "peer_reviewed",
+    "consensus_status": "minority-research",
+    "title": "Perinatal transmission of Borrelia burgdorferi: advancing scientific and clinical understanding of Lyme disease in pregnancy",
+    "authors": [
+      "(review authors)"
+    ],
+    "year": 2026,
+    "journal_or_publisher": "Frontiers in Medicine",
+    "doi": "10.3389/fmed.2026.1794120",
+    "pmid": null,
+    "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1794120/full",
+    "key_findings": "Reviews perinatal transmission of B. burgdorferi and argues for greater clinical and scientific attention to Lyme in pregnancy.",
+    "relevance_notes": "Recent minority-leaning push to advance the congenital-transmission science."
+  },
+  {
+    "source_id": "T11-S010",
+    "topic_id": 11,
+    "type": "peer_reviewed",
+    "consensus_status": "minority-research",
+    "title": "Borrelia burgdorferi and autoimmune mechanisms: implications for mimicry, misdiagnosis, and mismanagement in Lyme disease and autoimmune disorders",
+    "authors": [
+      "(review authors)"
+    ],
+    "year": 2024,
+    "journal_or_publisher": "review (PMC)",
+    "doi": null,
+    "pmid": null,
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11424747/",
+    "key_findings": "Reviews how Borrelia can mimic and possibly trigger autoimmune disease (including MS-like presentations), and the resulting misdiagnosis risk.",
+    "relevance_notes": "Basis for the contested Lyme-MS mimicry/association invoked in familial-autoimmunity arguments."
+  },
+  {
     "source_id": "T2-S001",
     "topic_id": 2,
     "type": "peer_reviewed",

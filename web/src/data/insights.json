@@ -225,5 +225,54 @@
       "T5-S007",
       "T2-S006"
     ]
+  },
+  {
+    "insight_id": 21,
+    "topic_id": 10,
+    "category": "emergent-pattern",
+    "title": "The controversy is a terminology collision",
+    "content": "Late disseminated Lyme, PTLDS, and 'chronic Lyme disease' get fused into one word; most arguments are really about which one is meant. Both camps largely agree post-Lyme illness is real and that prolonged antibiotics lack controlled support.",
+    "sources": [
+      "T10-S001",
+      "T10-S002",
+      "T10-S004"
+    ]
+  },
+  {
+    "insight_id": 22,
+    "topic_id": 10,
+    "category": "contradiction",
+    "title": "Right about the illness, contested on the mechanism",
+    "content": "PTLDS's recognition plus objective findings (small-fiber neuropathy, interferon-alpha) vindicate that the illness is real and biological, but do not vindicate the persistent-active-infection mechanism or prolonged antibiotics.",
+    "sources": [
+      "T10-S005",
+      "T10-S006",
+      "T10-S007",
+      "T10-S004"
+    ]
+  },
+  {
+    "insight_id": 23,
+    "topic_id": 11,
+    "category": "emergent-pattern",
+    "title": "The congenital-syphilis analogy cuts both ways",
+    "content": "A related spirochete (Treponema) transmits transplacentally and sexually, making the vertical/sexual questions for Borrelia legitimate. But syphilis does so via sustained spirochetemia and mucosal shedding that tick-adapted, briefly-bacteremic Borrelia lacks. The analogy both motivates and limits the hypothesis.",
+    "sources": [
+      "T11-S008",
+      "T11-S002",
+      "T11-S001"
+    ]
+  },
+  {
+    "insight_id": 24,
+    "topic_id": 11,
+    "category": "hypothesis",
+    "title": "'Insufficient evidence' is not 'proven false'",
+    "content": "Congenital Lyme was removed from ICD-11 for insufficient evidence, not disproof. The spirochete can cross the placenta (rare, esp. untreated), yet a defined congenital syndrome isn't established. The honest frame is 'possible, rare, under-studied, reduced by treating the mother.'",
+    "sources": [
+      "T11-S005",
+      "T11-S002",
+      "T11-S003"
+    ]
   }
 ]

@@ -21,6 +21,8 @@ Newest entries at the top.
 | 7 | Lyme + HIV + syphilis | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 8 | Lyme + HIV + syphilis + WBC | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 9 | Lyme as bioweapon | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 10 | Chronic & late-stage Lyme | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 11 | How Lyme is transmitted (tick/congenital/sexual) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ## Infrastructure status
 
@@ -37,9 +39,18 @@ Newest entries at the top.
 
 ## Database contents (after seed)
 
-- 85 sources · 38 forum excerpts · 33 cross-topic relationships
-- 16 symptoms (mapped to topics + sources) · 20 insights (per-topic + cross-topic)
+- 106 sources · 48 forum excerpts · 44 cross-topic relationships
+- 20 symptoms (mapped to topics + sources) · 24 insights (per-topic + cross-topic)
 - All inline `[T#-S###]` citations resolve; all relationships carry ≥1 evidence source.
+
+### Session 2 addendum — 2026-06-26
+- Added **Topic 10 (Chronic & late-stage Lyme)** — the keystone controversy;
+  carefully separates late disseminated Lyme / PTLDS / "chronic Lyme disease."
+- Added **Topic 11 (How Lyme is transmitted)** — tick-borne consensus plus
+  congenital/in-utero and sexual transmission, built around the
+  congenital-syphilis analogy; handled with extra epistemic care.
+- Updated seed (topics/symptoms/insights), re-seeded, validated (0/0), exported,
+  rebuilt and redeployed the frontend. Live site auto-updates via Pages workflow.
 
 ---
 

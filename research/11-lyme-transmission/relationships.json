@@ -1,0 +1,37 @@
+{
+  "topic_id": 11,
+  "relationships": [
+    {
+      "relationship_id": "R041",
+      "to_topic_id": 7,
+      "type": "shared-mechanism",
+      "description": "The congenital-syphilis analogy is the scientific backbone of the vertical/sexual-transmission questions: a related spirochete (Treponema) transmits transplacentally and sexually, motivating the question for Borrelia while its divergent biology limits it.",
+      "evidence_sources": ["T11-S008", "T11-S002"],
+      "strength": "strong"
+    },
+    {
+      "relationship_id": "R042",
+      "to_topic_id": 10,
+      "type": "shared-mechanism",
+      "description": "Congenital/early-life acquisition is proposed as an origin for lifelong 'chronic Lyme' in patients without a known tick bite.",
+      "evidence_sources": ["T11-S002", "T11-S009"],
+      "strength": "strong"
+    },
+    {
+      "relationship_id": "R043",
+      "to_topic_id": 2,
+      "type": "shared-mechanism",
+      "description": "The same research group (Middelveen & Stricker) supplies both the Morgellons borrelial-dermatitis claims and the sexual-transmission detection claims; shared methods and contamination concerns.",
+      "evidence_sources": ["T11-S006"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R044",
+      "to_topic_id": 5,
+      "type": "comorbidity",
+      "description": "Vertical transmission of tick-borne co-infections (e.g., Babesia) alongside Borrelia is even less studied than Lyme itself.",
+      "evidence_sources": ["T11-S003"],
+      "strength": "weak"
+    }
+  ]
+}

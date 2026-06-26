@@ -86,6 +86,184 @@
     ]
   },
   {
+    "excerpt_id": "T10-F001",
+    "topic_id": 10,
+    "platform": "Phoenix Rising",
+    "thread_url": "https://forums.phoenixrising.me/",
+    "approximate_date": "2014-2024",
+    "paraphrased_content": "Years of fatigue, pain, brain fog, and dysautonomia bouncing between specialists with ambiguous tests, before a chronic-Lyme diagnosis provides a unifying explanation and relief at being believed.",
+    "pattern_tag": "diagnostic-odyssey",
+    "source_links": [
+      {
+        "source_id": "T10-S002",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T10-S005",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T10-F002",
+    "topic_id": 10,
+    "platform": "LymeNet Flash",
+    "thread_url": "http://flash.lymenet.org/",
+    "approximate_date": "2008-2022",
+    "paraphrased_content": "Reports of feeling substantially better on extended/combination antibiotics and worse when stopping, read as proof of ongoing infection; others report no benefit or harm.",
+    "pattern_tag": "antibiotic-response-relapse",
+    "source_links": [
+      {
+        "source_id": "T10-S008",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T10-S009",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T10-S004",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T10-F003",
+    "topic_id": 10,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2018-2024",
+    "paraphrased_content": "Patients describe themselves as having late-stage or disseminated chronic Lyme, fearing irreversible neurological or cardiac damage and pursuing aggressive treatment.",
+    "pattern_tag": "late-stage-fear-of-permanence",
+    "source_links": [
+      {
+        "source_id": "T10-S003",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T10-F004",
+    "topic_id": 10,
+    "platform": "Phoenix Rising / r/cfs / r/longcovid",
+    "thread_url": "https://forums.phoenixrising.me/",
+    "approximate_date": "2016-2024",
+    "paraphrased_content": "Heavy cross-membership with ME/CFS, long-COVID, POTS, and mast-cell communities describing near-identical post-infectious symptom clusters and migrating between labels.",
+    "pattern_tag": "post-infectious-overlap",
+    "source_links": [
+      {
+        "source_id": "T10-S005",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T10-F005",
+    "topic_id": 10,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2015-2024",
+    "paraphrased_content": "Anger at the guideline/insurance system for not recognizing chronic Lyme, denied coverage for long antibiotics, and deep distrust of mainstream medicine.",
+    "pattern_tag": "invalidation-and-politics",
+    "source_links": [
+      {
+        "source_id": "T10-S001",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T10-S002",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T11-F001",
+    "topic_id": 11,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2018-2024",
+    "paraphrased_content": "Patients with Lyme symptoms and no recalled tick bite conclude they must have acquired it congenitally or sexually, treating the absent bite history as decisive.",
+    "pattern_tag": "no-bite-implies-other-route",
+    "source_links": [
+      {
+        "source_id": "T11-S001",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T11-F002",
+    "topic_id": 11,
+    "platform": "congenital-Lyme communities",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2016-2024",
+    "paraphrased_content": "Families where parent, child, and sometimes grandparent all have chronic-illness pictures interpret this as inherited/congenital Lyme and treat the whole family.",
+    "pattern_tag": "multigenerational-hereditary-belief",
+    "source_links": [
+      {
+        "source_id": "T11-S002",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T11-S009",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T11-F003",
+    "topic_id": 11,
+    "platform": "Lyme-in-pregnancy groups",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2017-2024",
+    "paraphrased_content": "Mothers with Lyme describe anxiety about passing it in pregnancy or breastfeeding; some report children with matching symptoms, others were reassured by treatment during pregnancy and healthy children.",
+    "pattern_tag": "maternal-transmission-anxiety",
+    "source_links": [
+      {
+        "source_id": "T11-S003",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T11-F004",
+    "topic_id": 11,
+    "platform": "LymeNet Flash",
+    "thread_url": "http://flash.lymenet.org/",
+    "approximate_date": "2014-2022",
+    "paraphrased_content": "Partners who both test positive (often with shared outdoor/tick exposure) interpret this as sexual transmission and cite detection of Borrelia in genital secretions.",
+    "pattern_tag": "couples-positive-sexual-belief",
+    "source_links": [
+      {
+        "source_id": "T11-S006",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T11-S007",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T11-S001",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T11-F005",
+    "topic_id": 11,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2018-2024",
+    "paraphrased_content": "Patients point to a parent or grandparent with MS, lupus, or another autoimmune illness as evidence of an inherited Lyme lineage.",
+    "pattern_tag": "relative-MS-as-hereditary-lyme",
+    "source_links": [
+      {
+        "source_id": "T11-S010",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
     "excerpt_id": "T2-F001",
     "topic_id": 2,
     "platform": "r/MorgellonsDisease",
