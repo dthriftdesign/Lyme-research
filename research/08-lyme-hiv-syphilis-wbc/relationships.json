@@ -1,0 +1,37 @@
+{
+  "topic_id": 8,
+  "relationships": [
+    {
+      "relationship_id": "R027",
+      "to_topic_id": 7,
+      "type": "shared-mechanism",
+      "description": "Direct continuation of the HIV/syphilis topic: serologic cross-talk and immune disruption are the shared substrate.",
+      "evidence_sources": ["T8-S008"],
+      "strength": "strong"
+    },
+    {
+      "relationship_id": "R028",
+      "to_topic_id": 5,
+      "type": "shared-mechanism",
+      "description": "Borrelia immunosuppression boosts Babesia and underlies co-infection synergy.",
+      "evidence_sources": ["T8-S008"],
+      "strength": "strong"
+    },
+    {
+      "relationship_id": "R029",
+      "to_topic_id": 1,
+      "type": "shared-mechanism",
+      "description": "Abnormal B-cell/germinal-center biology connects immune disruption to the autoantibody story in Lyme arthritis.",
+      "evidence_sources": ["T8-S002"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R030",
+      "to_topic_id": 6,
+      "type": "shared-mechanism",
+      "description": "Immune dysregulation is the upstream node for the neuroinflammatory mechanisms linked to mood and suicidality.",
+      "evidence_sources": ["T8-S001"],
+      "strength": "moderate"
+    }
+  ]
+}
