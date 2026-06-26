@@ -1,0 +1,146 @@
+{
+  "topic_id": 6,
+  "topic_title": "Lyme, parasitic co-infection, and suicide",
+  "sources": [
+    {
+      "source_id": "T6-S001",
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Suicide and Lyme and associated diseases",
+      "authors": ["Bransfield RC"],
+      "year": 2017,
+      "journal_or_publisher": "Neuropsychiatric Disease and Treatment",
+      "doi": "10.2147/NDT.S136137",
+      "pmid": "28670127",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5481283/",
+      "key_findings": "Argues infection-driven pro-inflammatory cytokines, inflammatory-metabolic changes, and quinolinic-acid/glutamate alterations increase suicidality, and that similar pathophysiology operates in Lyme and associated diseases.",
+      "relevance_notes": "Primary minority source proposing an infection-specific suicide contribution; mechanism mainstream, magnitude/attribution contested."
+    },
+    {
+      "source_id": "T6-S002",
+      "type": "peer_reviewed",
+      "consensus_status": "speculative",
+      "title": "Suicidal and homicidal tendencies after Lyme disease: an ignored problem",
+      "authors": ["(authors)"],
+      "year": 2017,
+      "journal_or_publisher": "Neuropsychiatric Disease and Treatment (Dove)",
+      "doi": null,
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5546819/",
+      "key_findings": "Extends the neuropsychiatric-Lyme thesis to suicidal and aggressive/externalizing behavior.",
+      "relevance_notes": "More speculative behavioral extension; flagged to avoid sensationalism, included for completeness."
+    },
+    {
+      "source_id": "T6-S003",
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "Lyme neuroborreliosis presenting with alexithymia and suicide attempts",
+      "authors": ["(case report authors)"],
+      "year": 2013,
+      "journal_or_publisher": "(case report)",
+      "doi": null,
+      "pmid": "24229748",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24229748/",
+      "key_findings": "Documents a neuroborreliosis case with suicidality that improved with treatment of the infection.",
+      "relevance_notes": "Case-level evidence that active CNS infection can produce reversible suicidality."
+    },
+    {
+      "source_id": "T6-S004",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Role of inflammation in suicide: from mechanisms to treatment",
+      "authors": ["Brundin L", "Bryleva EY", "Thirtamara Rajamani K"],
+      "year": 2017,
+      "journal_or_publisher": "Neuropsychopharmacology",
+      "doi": "10.1038/npp.2016.116",
+      "pmid": "27582499",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27582499/",
+      "key_findings": "Reviews inflammation and the kynurenine pathway in suicidality, including quinolinic acid as an NMDA agonist/excitotoxin.",
+      "relevance_notes": "Mainstream mechanistic backbone any infection-suicide hypothesis relies on."
+    },
+    {
+      "source_id": "T6-S005",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Connecting inflammation with glutamate agonism in suicidality (CSF quinolinic acid in suicide attempters)",
+      "authors": ["Erhardt S", "Lim CK", "Linderholm KR", "et al."],
+      "year": 2013,
+      "journal_or_publisher": "Neuropsychopharmacology",
+      "doi": "10.1038/npp.2012.248",
+      "pmid": null,
+      "url": "https://www.nature.com/articles/npp2012248",
+      "key_findings": "Found elevated CSF quinolinic acid in suicide attempters, linking inflammation to glutamatergic excitotoxicity in suicidality.",
+      "relevance_notes": "Direct human evidence for the quinolinic-acid/suicide link invoked by the Lyme hypothesis."
+    },
+    {
+      "source_id": "T6-S006",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Epidemiology of Suicide and the Psychiatric Perspective",
+      "authors": ["Bachmann S"],
+      "year": 2018,
+      "journal_or_publisher": "International Journal of Environmental Research and Public Health",
+      "doi": "10.3390/ijerph15071425",
+      "pmid": "29986446",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29986446/",
+      "key_findings": "Reviews suicide epidemiology and risk factors, including chronic illness, pain, and psychosocial stressors.",
+      "relevance_notes": "Mainstream basis for the chronic-illness/invalidation suicide-risk pathway."
+    },
+    {
+      "source_id": "T6-S007",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Concurrent Lyme disease and babesiosis: evidence for increased severity and duration of illness",
+      "authors": ["Krause PJ", "Telford SR 3rd", "Spielman A", "et al."],
+      "year": 1996,
+      "journal_or_publisher": "JAMA",
+      "doi": "10.1001/jama.1996.03530450047031",
+      "pmid": "8637139",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8637139/",
+      "key_findings": "Co-infection increases severity and duration of illness, amplifying chronic-illness burden.",
+      "relevance_notes": "Links the parasitic co-infection element of this topic to elevated illness burden."
+    }
+  ],
+  "forum_excerpts": [
+    {
+      "excerpt_id": "T6-F001",
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "A dominant theme of hopelessness driven by not being believed: years of negative tests, dismissive clinicians, and lost work/relationships described as central to the darkest periods.",
+      "pattern_tag": "invalidation-despair",
+      "corroborates_sources": ["T6-S006", "T6-S001"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T6-F002",
+      "platform": "r/lymedisease",
+      "thread_url": "https://www.reddit.com/r/lymedisease/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "Members describe sudden uncharacteristic mood collapse or intrusive dark thoughts that feel alien to their baseline self, attributed to infection/inflammation.",
+      "pattern_tag": "alien-to-baseline-mood-change",
+      "corroborates_sources": ["T6-S004", "T6-S001"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T6-F003",
+      "platform": "ProHealth Lyme forums",
+      "thread_url": "https://www.prohealth.com/forums",
+      "approximate_date": "2012-2022",
+      "paraphrased_content": "Reports that the lowest mental-health points coincided with the most severe physical phases (often attributed to Babesia), improving as physical illness improved.",
+      "pattern_tag": "mood-tracks-coinfection-severity",
+      "corroborates_sources": ["T6-S007", "T6-S006"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T6-F004",
+      "platform": "Phoenix Rising",
+      "thread_url": "https://forums.phoenixrising.me/",
+      "approximate_date": "2012-2024",
+      "paraphrased_content": "Many members credit peer communities with reducing isolation and providing hope and validation — a recurring protective counter-theme.",
+      "pattern_tag": "community-protective-factor",
+      "corroborates_sources": ["T6-S006"],
+      "contradicts_sources": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "topic_id": 6,
+  "relationships": [
+    {
+      "relationship_id": "R020",
+      "to_topic_id": 4,
+      "type": "shared-mechanism",
+      "description": "Same neuroinflammatory/psychoimmune model (Bransfield) underlies both Lyme-OCD and Lyme-associated suicidality; different symptom outputs.",
+      "evidence_sources": ["T6-S001"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R021",
+      "to_topic_id": 5,
+      "type": "comorbidity",
+      "description": "Co-infection severity (Babesia) amplifies both the biological and psychosocial suicide-risk routes.",
+      "evidence_sources": ["T6-S007"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R022",
+      "to_topic_id": 8,
+      "type": "shared-mechanism",
+      "description": "Immune dysregulation is the shared upstream node connecting suicidality mechanisms to WBC/immune disruption.",
+      "evidence_sources": ["T6-S004"],
+      "strength": "weak"
+    }
+  ]
+}
