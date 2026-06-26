@@ -1,0 +1,37 @@
+{
+  "topic_id": 1,
+  "relationships": [
+    {
+      "relationship_id": "R001",
+      "to_topic_id": 4,
+      "type": "shared-mechanism",
+      "description": "Infection-induced autoimmunity / molecular mimicry: the identified self-antigens in Lyme arthritis (ECGF, Annexin A2) parallel proposed anti-neuronal autoimmunity invoked for Lyme-associated OCD/neuropsychiatric disease.",
+      "evidence_sources": ["T1-S004", "T1-S006"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R002",
+      "to_topic_id": 2,
+      "type": "shared-mechanism",
+      "description": "Both topics invoke spirochetal persistence and biofilm (Sapi) as mechanism; Lyme arthritis is the better-evidenced test bed for persistence-vs-postinfectious interpretation.",
+      "evidence_sources": ["T1-S021", "T1-S008"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R003",
+      "to_topic_id": 5,
+      "type": "contrasting",
+      "description": "The persistence-vs-postinfectious epistemic structure recurs in parasitic-coinfection debates; arthritis offers a falsifying test (DMARD/synovectomy response) absent elsewhere.",
+      "evidence_sources": ["T1-S001", "T1-S018"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R004",
+      "to_topic_id": 9,
+      "type": "contrasting",
+      "description": "Lyme arthritis was the founding clinical syndrome (Lyme, CT, 1977) whose discovery history intersects the bioweapon narrative around Willy Burgdorfer and Plum Island.",
+      "evidence_sources": ["T1-S012"],
+      "strength": "weak"
+    }
+  ]
+}
