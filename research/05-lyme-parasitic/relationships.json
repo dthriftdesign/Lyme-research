@@ -1,0 +1,37 @@
+{
+  "topic_id": 5,
+  "relationships": [
+    {
+      "relationship_id": "R016",
+      "to_topic_id": 6,
+      "type": "comorbidity",
+      "description": "Co-infection severity and neurologic symptoms feed the neuropsychiatric burden linked to suicidality in tick-borne disease.",
+      "evidence_sources": ["T5-S001"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R017",
+      "to_topic_id": 1,
+      "type": "shared-mechanism",
+      "description": "The persistence-vs-postinfectious debate repeats with Babesia persistence as the parasitic analog of Borrelia persistence.",
+      "evidence_sources": ["T5-S001"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R018",
+      "to_topic_id": 2,
+      "type": "symptom-overlap",
+      "description": "Parasite-cleanse culture and 'infestation' beliefs overlap with delusional-infestation phenomenology in Morgellons.",
+      "evidence_sources": ["T5-S007"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R019",
+      "to_topic_id": 8,
+      "type": "shared-mechanism",
+      "description": "Babesia is intra-erythrocytic and immunomodulatory; co-infection alters immune/blood-cell responses relevant to the WBC-disruption topic.",
+      "evidence_sources": ["T5-S003"],
+      "strength": "moderate"
+    }
+  ]
+}

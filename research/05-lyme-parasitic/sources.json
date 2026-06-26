@@ -1,0 +1,146 @@
+{
+  "topic_id": 5,
+  "topic_title": "Lyme and parasitic infections",
+  "sources": [
+    {
+      "source_id": "T5-S001",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Concurrent Lyme disease and babesiosis: evidence for increased severity and duration of illness",
+      "authors": ["Krause PJ", "Telford SR 3rd", "Spielman A", "Sikand V", "Ryan R", "Christianson D", "et al."],
+      "year": 1996,
+      "journal_or_publisher": "JAMA",
+      "doi": "10.1001/jama.1996.03530450047031",
+      "pmid": "8637139",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8637139/",
+      "key_findings": "Co-infected patients had more symptoms and far longer illness (~50% symptomatic >=3 months vs ~4% with Lyme alone).",
+      "relevance_notes": "Landmark evidence that Babesia co-infection worsens and prolongs Lyme illness."
+    },
+    {
+      "source_id": "T5-S002",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Babesia microti-Borrelia burgdorferi Coinfection",
+      "authors": ["(review authors)"],
+      "year": 2019,
+      "journal_or_publisher": "Pathogens",
+      "doi": "10.3390/pathogens8030117",
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6789475/",
+      "key_findings": "Reviews shared-vector co-transmission; ~20% of Lyme patients report concurrent babesiosis and up to ~25% of babesiosis patients have Lyme in endemic areas.",
+      "relevance_notes": "Synthesis of co-infection epidemiology and biology."
+    },
+    {
+      "source_id": "T5-S003",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Investigating disease severity in an animal model of concurrent babesiosis and Lyme disease",
+      "authors": ["(study authors)"],
+      "year": 2019,
+      "journal_or_publisher": "International Journal for Parasitology",
+      "doi": "10.1016/j.ijpara.2018.12.006",
+      "pmid": null,
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC6399035",
+      "key_findings": "Animal model shows altered immune responses and increased severity in concurrent Babesia/Borrelia infection.",
+      "relevance_notes": "Mechanistic support for co-infection synergy."
+    },
+    {
+      "source_id": "T5-S004",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Beyond Human Babesiosis: Prevalence and Association of Babesia Coinfection with Mortality in the United States, 2015-2022",
+      "authors": ["(cohort study authors)"],
+      "year": 2024,
+      "journal_or_publisher": "Open Forum Infectious Diseases",
+      "doi": "10.1093/ofid/ofae504",
+      "pmid": null,
+      "url": "https://academic.oup.com/ofid/article/11/10/ofae504/7798103",
+      "key_findings": "Large retrospective cohort associating Babesia coinfection with worse outcomes including mortality signals.",
+      "relevance_notes": "Recent population-scale evidence on coinfection burden."
+    },
+    {
+      "source_id": "T5-S005",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Coinfection by Ixodes tick-borne pathogens: ecological, epidemiological, and clinical consequences",
+      "authors": ["Diuk-Wasser MA", "Vannier E", "Krause PJ"],
+      "year": 2016,
+      "journal_or_publisher": "Trends in Parasitology",
+      "doi": "10.1016/j.pt.2015.09.008",
+      "pmid": "26613664",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26613664/",
+      "key_findings": "Reviews ecology and clinical consequences of Ixodes-borne co-infections including Babesia.",
+      "relevance_notes": "Authoritative co-infection ecology/clinical review."
+    },
+    {
+      "source_id": "T5-S006",
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Empirical validation of the Horowitz Multiple Systemic Infectious Disease Syndrome Questionnaire for suspected Lyme disease",
+      "authors": ["Citera M", "Freeman PR", "Horowitz RI"],
+      "year": 2017,
+      "journal_or_publisher": "International Journal of General Medicine",
+      "doi": "10.2147/IJGM.S140224",
+      "pmid": "28919803",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28919803/",
+      "key_findings": "Validation study of a questionnaire operationalizing the MSIDS multi-co-infection model of chronic Lyme.",
+      "relevance_notes": "Primary minority/MSIDS source; co-infections real, treatment breadth contested."
+    },
+    {
+      "source_id": "T5-S007",
+      "type": "preprint",
+      "consensus_status": "fringe",
+      "title": "Protomyxzoa rheumatica / FL1953 (novel protozoan claim, Fry Laboratories)",
+      "authors": ["Fry SE", "et al."],
+      "year": 2012,
+      "journal_or_publisher": "Conference presentations / commercial laboratory (no robust peer-reviewed validation)",
+      "doi": null,
+      "pmid": null,
+      "url": null,
+      "key_findings": "Claims of a novel protozoan parasite in chronic-illness patients, promoted with associated commercial testing and antiparasitic treatment.",
+      "relevance_notes": "Flagged fringe/speculative: minimal independent validation, commercial conflict of interest; included to document the claim honestly, not to endorse it."
+    }
+  ],
+  "forum_excerpts": [
+    {
+      "excerpt_id": "T5-F001",
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2017-2024",
+      "paraphrased_content": "Posters describe air hunger, drenching night sweats, and waves of chills, and learn from communities that these point to Babesia; many push for Babesia testing.",
+      "pattern_tag": "babesia-air-hunger-sweats",
+      "corroborates_sources": ["T5-S001", "T5-S004"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T5-F002",
+      "platform": "ProHealth Lyme forums",
+      "thread_url": "https://www.prohealth.com/forums",
+      "approximate_date": "2010-2022",
+      "paraphrased_content": "Accounts of stalled recovery on Lyme antibiotics that improved only after adding antiparasitic therapy (e.g., atovaquone/azithromycin) for Babesia.",
+      "pattern_tag": "doxy-failure-resolved-by-babesia-treatment",
+      "corroborates_sources": ["T5-S001"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T5-F003",
+      "platform": "LymeNet Flash",
+      "thread_url": "http://flash.lymenet.org/",
+      "approximate_date": "2008-2022",
+      "paraphrased_content": "Members describe simultaneous treatment for a long list of co-infections (Babesia, Bartonella, Mycoplasma, viruses), citing the MSIDS model and combination protocols.",
+      "pattern_tag": "msids-multiple-coinfections",
+      "corroborates_sources": ["T5-S006"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T5-F004",
+      "platform": "r/Lyme and alternative-health forums",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2015-2024",
+      "paraphrased_content": "Use of ivermectin, antimalarials, and herbal 'parasite protocols,' with reports and photos of passing 'parasites'/'rope worms.'",
+      "pattern_tag": "empiric-antiparasitic-cleanses",
+      "corroborates_sources": [],
+      "contradicts_sources": ["T5-S007"]
+    }
+  ]
+}
