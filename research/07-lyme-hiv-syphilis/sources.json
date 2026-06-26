@@ -1,0 +1,160 @@
+{
+  "topic_id": 7,
+  "topic_title": "Lyme, HIV, and syphilis",
+  "sources": [
+    {
+      "source_id": "T7-S001",
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "Cross-reactivity in serological tests for Lyme disease and other spirochetal infections",
+      "authors": ["Magnarelli LA", "Anderson JF", "Johnson RC"],
+      "year": 1987,
+      "journal_or_publisher": "The Journal of Infectious Diseases",
+      "doi": "10.1093/infdis/156.1.183",
+      "pmid": "3298452",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3298452/",
+      "key_findings": "Documents antibody cross-reactivity among Borrelia, Treponema, and other spirochetes in serologic assays.",
+      "relevance_notes": "Foundational evidence for Lyme/syphilis serologic cross-reactivity."
+    },
+    {
+      "source_id": "T7-S002",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Evaluation of the fluorescent treponemal antibody-absorption (FTA-Abs) test specificity",
+      "authors": ["(study authors)"],
+      "year": 1991,
+      "journal_or_publisher": "(serology study)",
+      "doi": null,
+      "pmid": "1681646",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1681646/",
+      "key_findings": "Lyme borreliosis is an important cause of false-positive FTA-Abs reactions; isolated positive FTA-Abs found in a large fraction of Lyme sera.",
+      "relevance_notes": "Quantifies false-positive syphilis serology caused by Lyme."
+    },
+    {
+      "source_id": "T7-S003",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Antibody Cross-Reactivity in Serodiagnosis of Lyme Disease",
+      "authors": ["(review authors)"],
+      "year": 2023,
+      "journal_or_publisher": "Antibodies / review",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10594444/",
+      "key_findings": "Reviews cross-reactivity in Lyme serology caused by bacterial (relapsing-fever Borrelia, Treponema) and viral (EBV, CMV) infections.",
+      "relevance_notes": "Modern synthesis of the cross-reactivity problem."
+    },
+    {
+      "source_id": "T7-S004",
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "Borrelia burgdorferi in the nervous system: the new 'great imitator'",
+      "authors": ["Pachner AR"],
+      "year": 1988,
+      "journal_or_publisher": "Annals of the New York Academy of Sciences",
+      "doi": null,
+      "pmid": "3190104",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3190104/",
+      "key_findings": "Frames neuroborreliosis as the new great imitator by explicit analogy to neurosyphilis.",
+      "relevance_notes": "Origin of the Lyme-as-great-imitator framing central to this topic."
+    },
+    {
+      "source_id": "T7-S005",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Neurosyphilis: The Great Imitator",
+      "authors": ["(review authors)"],
+      "year": 2023,
+      "journal_or_publisher": "review (PMC)",
+      "doi": null,
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9851570/",
+      "key_findings": "Reviews neurosyphilis as the original great imitator with staged spirochetal CNS disease and psychiatric manifestations.",
+      "relevance_notes": "The syphilis template the Lyme parallel is built on."
+    },
+    {
+      "source_id": "T7-S006",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Atypical Lyme borreliosis in an HIV-infected man",
+      "authors": ["(case report authors)"],
+      "year": 1997,
+      "journal_or_publisher": "(case report)",
+      "doi": null,
+      "pmid": "9349345",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9349345/",
+      "key_findings": "HIV co-infected Lyme case with persistent erythema migrans, meningoradiculitis, and discordant serology (IFA negative, ELISA/Western blot positive); notes open question whether HIV alters Lyme course like it alters syphilis.",
+      "relevance_notes": "Anchors the HIV-Lyme serology/course intersection."
+    },
+    {
+      "source_id": "T7-S007",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Babesiosis as a cause of false-positive HIV serology",
+      "authors": ["(case report authors)"],
+      "year": 2018,
+      "journal_or_publisher": "(case report, PMC)",
+      "doi": null,
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6011427/",
+      "key_findings": "Tick-borne babesiosis can produce false-positive HIV serology, illustrating cross-assay reverberation of tick-borne infections.",
+      "relevance_notes": "Connects the parasitic co-infection (Topic 5) to HIV serology confounding."
+    },
+    {
+      "source_id": "T7-S008",
+      "type": "peer_reviewed",
+      "consensus_status": "fringe",
+      "title": "Plaques of Alzheimer's disease originate from cysts of Borrelia burgdorferi, the Lyme disease spirochete",
+      "authors": ["MacDonald AB"],
+      "year": 2006,
+      "journal_or_publisher": "Medical Hypotheses",
+      "doi": "10.1016/j.mehy.2006.02.035",
+      "pmid": "16675154",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16675154/",
+      "key_findings": "Hypothesizes Borrelia cystic forms contribute to Alzheimer's plaques, modeled on syphilitic general paresis.",
+      "relevance_notes": "Fringe extension of the spirochete-to-dementia template; hypothesis-level, under-replicated."
+    }
+  ],
+  "forum_excerpts": [
+    {
+      "excerpt_id": "T7-F001",
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2017-2024",
+      "paraphrased_content": "Members report an unexpected positive treponemal/FTA-Abs test with no syphilis risk, causing alarm and partner stress, ultimately attributed to Lyme cross-reactivity.",
+      "pattern_tag": "false-positive-syphilis-from-lyme",
+      "corroborates_sources": ["T7-S001", "T7-S002", "T7-S003"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T7-F002",
+      "platform": "LymeNet Flash",
+      "thread_url": "http://flash.lymenet.org/",
+      "approximate_date": "2008-2022",
+      "paraphrased_content": "Members invoke the syphilis analogy to argue Lyme needs long aggressive antibiotics like neurosyphilis, citing spirochetal persistence.",
+      "pattern_tag": "syphilis-analogy-treatment-advocacy",
+      "corroborates_sources": ["T7-S004", "T7-S005"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T7-F003",
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "Immunocompromised members describe atypical Lyme presentations and discordant test results, with difficulty obtaining a diagnosis.",
+      "pattern_tag": "atypical-lyme-immunocompromised",
+      "corroborates_sources": ["T7-S006"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T7-F004",
+      "platform": "conspiracy-adjacent forums",
+      "thread_url": "https://www.reddit.com/r/conspiracy/",
+      "approximate_date": "2015-2024",
+      "paraphrased_content": "A minority invoke framings linking Lyme, HIV, and syphilis as engineered, often cross-posting bioweapon material.",
+      "pattern_tag": "engineered-triad-conspiracy",
+      "corroborates_sources": [],
+      "contradicts_sources": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "topic_id": 7,
+  "relationships": [
+    {
+      "relationship_id": "R023",
+      "to_topic_id": 8,
+      "type": "shared-mechanism",
+      "description": "HIV/Borrelia immunomodulation and serologic behavior bridge directly to immune/WBC-disruption mechanisms.",
+      "evidence_sources": ["T7-S006", "T7-S007"],
+      "strength": "strong"
+    },
+    {
+      "relationship_id": "R024",
+      "to_topic_id": 1,
+      "type": "contrasting",
+      "description": "The syphilis analogy props up the Lyme persistence/long-treatment argument that arthritis data partly falsify.",
+      "evidence_sources": ["T7-S004"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R025",
+      "to_topic_id": 9,
+      "type": "contrasting",
+      "description": "The engineered Lyme/HIV/syphilis-triad conspiracy routes to the bioweapon topic; documented as a claim, not endorsed.",
+      "evidence_sources": ["T7-S008"],
+      "strength": "weak"
+    },
+    {
+      "relationship_id": "R026",
+      "to_topic_id": 6,
+      "type": "shared-mechanism",
+      "description": "Neurosyphilis's psychiatric manifestations are the historical template for spirochetal neuropsychiatry (mood, suicidality, dementia).",
+      "evidence_sources": ["T7-S005"],
+      "strength": "moderate"
+    }
+  ]
+}
