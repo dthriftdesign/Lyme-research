@@ -5,77 +5,77 @@
       "slug": "lyme-arthritis",
       "title": "Lyme and arthritis",
       "summary": "The most common late manifestation of Lyme disease. Centers on the two-phase model: antibiotic-responsive infectious synovitis vs. antibiotic-refractory, post-infectious autoimmunity (identified autoantigens ECGF, Annexin A2), set against the minority persistence hypothesis.",
-      "created_at": "2026-06-26 17:28:49"
+      "created_at": "2026-06-26 17:49:47"
     },
     {
       "topic_id": 2,
       "slug": "lyme-morgellons",
       "title": "Lyme and Morgellons",
       "summary": "A contested condition framed by mainstream medicine as delusional infestation (CDC study: textile-cellulose fibers) versus the minority 'filamentous borrelial dermatitis' hypothesis (Middelveen & Stricker: endogenous keratin/collagen filaments). Hinges on one unreplicated material-science fact.",
-      "created_at": "2026-06-26 17:28:49"
+      "created_at": "2026-06-26 17:49:47"
     },
     {
       "topic_id": 3,
       "slug": "lyme-morgellons-amphetamines",
       "title": "Lyme, Morgellons, and amphetamines",
       "summary": "Stimulant-induced formication / delusional infestation ('meth mites') as the primary differential and likely subgroup explanation for Morgellons, with harm-reduction framing and a striking attribution gap between drug and infection communities for an identical symptom.",
-      "created_at": "2026-06-26 17:28:49"
+      "created_at": "2026-06-26 17:49:47"
     },
     {
       "topic_id": 4,
       "slug": "lyme-ocd",
       "title": "Lyme and OCD",
       "summary": "Neuropsychiatric Lyme and whether Borrelia can trigger OCD via the infection-induced autoimmune basal-ganglia mechanism established for streptococcus (PANDAS/PANS). Mechanism mainstream; Borrelia-specific causation speculative; directionality confound central.",
-      "created_at": "2026-06-26 17:28:49"
+      "created_at": "2026-06-26 17:49:47"
     },
     {
       "topic_id": 5,
       "slug": "lyme-parasitic",
       "title": "Lyme and parasitic infections",
       "summary": "Mainstream Babesia co-infection (more severe, longer illness; often the real cause of 'treatment-resistant Lyme') cleanly separated from the minority MSIDS multi-co-infection model and fringe novel-parasite / 'rope worm' claims. Diagnostic validity is the fault line.",
-      "created_at": "2026-06-26 17:28:49"
+      "created_at": "2026-06-26 17:49:47"
     },
     {
       "topic_id": 6,
       "slug": "lyme-parasitic-suicide",
       "title": "Lyme, parasitic co-infection, and suicide",
       "summary": "A public-health question: does tick-borne infection elevate suicide risk above the chronic-illness baseline? Mechanism (inflammation/kynurenine/quinolinic acid) is mainstream; Bransfield's infection-specific magnitude is minority-research. Two additive routes: biological and psychosocial (invalidation).",
-      "created_at": "2026-06-26 17:28:49"
+      "created_at": "2026-06-26 17:49:47"
     },
     {
       "topic_id": 7,
       "slug": "lyme-hiv-syphilis",
       "title": "Lyme, HIV, and syphilis",
       "summary": "Spirochetal homology and the 'great imitator' parallel, Borrelia-Treponema serologic cross-reactivity (false-positive syphilis tests), and HIV effects on Lyme diagnosis/course. The syphilis analogy is chronic-Lyme advocacy's rhetorical backbone.",
-      "created_at": "2026-06-26 17:28:49"
+      "created_at": "2026-06-26 17:49:47"
     },
     {
       "topic_id": 8,
       "slug": "lyme-hiv-syphilis-wbc",
       "title": "Lyme, HIV, syphilis, and white blood cell disruption",
       "summary": "How each pathogen perturbs leukocytes: Borrelia's humoral suppression and defective germinal centers, Borrelia-driven cutaneous B-cell lymphoma (regresses on antibiotics), HIV CD4 depletion. The minority CD57 biomarker is unvalidated; immune disruption is the project's mechanistic spine.",
-      "created_at": "2026-06-26 17:28:49"
+      "created_at": "2026-06-26 17:49:47"
     },
     {
       "topic_id": 9,
       "slug": "lyme-bioweapon",
       "title": "Lyme as a bioweapon",
       "summary": "Separates documented history (US Cold War tick-weaponization research; Burgdorfer's classified work; 2019 DoD-IG amendment) from the speculative 'escape' thesis. Ancient-DNA evidence (Otzi, 15-My amber) refutes an engineered organism; ecology explains the epidemic.",
-      "created_at": "2026-06-26 17:28:49"
+      "created_at": "2026-06-26 17:49:47"
     },
     {
       "topic_id": 10,
       "slug": "chronic-lyme",
       "title": "Chronic and late-stage Lyme",
       "summary": "The project's keystone controversy. Separates three things routinely merged: recognized late disseminated Lyme; recognized Post-Treatment Lyme Disease Syndrome (PTLDS, ~10-20% of treated patients, real but post-infectious); and the contested 'chronic Lyme disease' label (ongoing infection treatable with prolonged antibiotics). The illness is real; the persistent-active-infection mechanism is unproven; controlled trials show no durable benefit from long antibiotics.",
-      "created_at": "2026-06-26 17:28:49"
+      "created_at": "2026-06-26 17:49:47"
     },
     {
       "topic_id": 11,
       "slug": "lyme-transmission",
       "title": "How Lyme is transmitted (tick, congenital, sexual)",
       "summary": "Beyond the established tick-bite route: can Lyme pass in utero or sexually? Mainstream accepts the spirochete can rarely cross the placenta (documented since 1985) but rejects a defined congenital syndrome (removed from ICD-11) and sexual transmission. The congenital-syphilis analogy makes the vertical question scientifically serious; divergent transmission biology limits it. A missing tick-bite history is normal, not evidence of an exotic route.",
-      "created_at": "2026-06-26 17:28:49"
+      "created_at": "2026-06-26 17:49:47"
     }
   ],
   "sources": [
@@ -3468,16 +3468,67 @@
   ],
   "symptoms": [
     {
-      "symptom_id": 20,
-      "name": "Adverse pregnancy outcome / neonatal illness (gestational Lyme)",
-      "body_system": "reproductive / neonatal",
-      "description": "Fetal death, prematurity, or neonatal illness associated mainly with untreated maternal Lyme; documented transplacental spirochete transfer.",
+      "symptom_id": 26,
+      "name": "'Alien to baseline' personality/mood change",
+      "body_system": "neuropsychiatric",
+      "description": "Mood or personality change that patients describe as fundamentally unlike their normal self.",
       "topics": [
         {
-          "symptom_id": 20,
+          "symptom_id": 26,
+          "topic_id": 6,
+          "frequency": "occasional",
+          "mechanism_explanation": "Candidate signal for an acute neuroinflammatory insult rather than primary mood disorder."
+        }
+      ],
+      "sources": [
+        "T6-S001"
+      ]
+    },
+    {
+      "symptom_id": 23,
+      "name": "Abrupt-onset neuropsychiatric symptoms (PANS-like)",
+      "body_system": "neuropsychiatric",
+      "description": "Sudden dramatic onset of OCD/tics, food restriction, separation anxiety, and rage after infection.",
+      "topics": [
+        {
+          "symptom_id": 23,
+          "topic_id": 4,
+          "frequency": "occasional",
+          "mechanism_explanation": "PANS/PANDAS phenotype; Lyme as a proposed (speculative) trigger alongside streptococcus."
+        }
+      ],
+      "sources": [
+        "T4-S005"
+      ]
+    },
+    {
+      "symptom_id": 7,
+      "name": "Acrodermatitis chronica atrophicans",
+      "body_system": "dermatological",
+      "description": "Late chronic skin atrophy, mainly European Borrelia species, a recognized late manifestation.",
+      "topics": [
+        {
+          "symptom_id": 7,
+          "topic_id": 10,
+          "frequency": "rare",
+          "mechanism_explanation": "Late disseminated Lyme manifestation (recognized late-stage entity)."
+        }
+      ],
+      "sources": [
+        "T10-S003"
+      ]
+    },
+    {
+      "symptom_id": 54,
+      "name": "Adverse pregnancy outcome / neonatal illness (gestational Lyme)",
+      "body_system": "reproductive-neonatal",
+      "description": "Prematurity, neonatal illness, or cardiovascular/neurologic abnormalities associated mainly with untreated maternal Lyme.",
+      "topics": [
+        {
+          "symptom_id": 54,
           "topic_id": 11,
           "frequency": "rare",
-          "mechanism_explanation": "Transplacental crossing of B. burgdorferi (documented since 1985); adverse outcomes associated with untreated maternal infection and reduced by treatment."
+          "mechanism_explanation": "Transplacental crossing of B. burgdorferi (documented since 1985); adverse outcomes associated with untreated maternal infection and reduced by treatment. A defined congenital syndrome is not established."
         }
       ],
       "sources": [
@@ -3486,13 +3537,13 @@
       ]
     },
     {
-      "symptom_id": 8,
+      "symptom_id": 39,
       "name": "Air hunger / shortness of breath",
       "body_system": "respiratory",
       "description": "Sensation of insufficient air; community-recognized signal of Babesia co-infection.",
       "topics": [
         {
-          "symptom_id": 8,
+          "symptom_id": 39,
           "topic_id": 5,
           "frequency": "common",
           "mechanism_explanation": "Associated with babesial co-infection; mechanism includes hemolysis/anemia and immune response."
@@ -3504,39 +3555,131 @@
       ]
     },
     {
-      "symptom_id": 14,
-      "name": "Atypical / seronegative presentation in immunosuppression",
-      "body_system": "immunologic/laboratory",
-      "description": "Discordant Lyme serology and atypical course in HIV or immunosuppressed hosts.",
+      "symptom_id": 36,
+      "name": "Anorexia / nausea",
+      "body_system": "constitutional",
+      "description": "Loss of appetite and nausea during active co-infection.",
       "topics": [
         {
-          "symptom_id": 14,
-          "topic_id": 7,
-          "frequency": "rare",
-          "mechanism_explanation": "Altered antibody response in immunosuppression yields discordant assays."
+          "symptom_id": 36,
+          "topic_id": 5,
+          "frequency": "occasional",
+          "mechanism_explanation": "Reported more frequently in Lyme-Babesia co-infection than Lyme alone."
         }
       ],
       "sources": [
-        "T7-S006"
+        "T5-S001"
       ]
     },
     {
-      "symptom_id": 19,
-      "name": "Chronic multi-system illness without a known tick bite",
-      "body_system": "constitutional",
-      "description": "A multi-system chronic-illness picture in a patient with no recalled tick exposure, often prompting congenital or sexual-transmission inferences.",
+      "symptom_id": 3,
+      "name": "Antibiotic-refractory synovitis",
+      "body_system": "musculoskeletal",
+      "description": "Persistent joint inflammation after appropriate oral and IV antibiotics.",
       "topics": [
         {
-          "symptom_id": 19,
+          "symptom_id": 3,
+          "topic_id": 1,
+          "frequency": "occasional",
+          "mechanism_explanation": "Post-infectious autoimmunity (HLA-restricted reactivity to identified autoantigens) with retained antigen; responds to DMARDs/synovectomy, not more antibiotics."
+        }
+      ],
+      "sources": [
+        "T1-S001",
+        "T1-S003",
+        "T1-S017"
+      ]
+    },
+    {
+      "symptom_id": 27,
+      "name": "Anxiety",
+      "body_system": "neuropsychiatric",
+      "description": "Generalized or health-focused anxiety.",
+      "topics": [
+        {
+          "symptom_id": 27,
+          "topic_id": 4,
+          "frequency": "common",
+          "mechanism_explanation": "Part of the neuropsychiatric-Lyme spectrum."
+        },
+        {
+          "symptom_id": 27,
+          "topic_id": 6,
+          "frequency": "common",
+          "mechanism_explanation": "Comorbid with chronic-illness distress and neuroinflammation."
+        },
+        {
+          "symptom_id": 27,
+          "topic_id": 10,
+          "frequency": "common",
+          "mechanism_explanation": "Common in chronic/persistent illness."
+        }
+      ],
+      "sources": [
+        "T4-S004",
+        "T6-S006",
+        "T10-S005"
+      ]
+    },
+    {
+      "symptom_id": 43,
+      "name": "Atypical / seronegative presentation in immunosuppression",
+      "body_system": "laboratory",
+      "description": "Discordant Lyme serology and atypical course in HIV or immunosuppressed hosts.",
+      "topics": [
+        {
+          "symptom_id": 43,
+          "topic_id": 7,
+          "frequency": "rare",
+          "mechanism_explanation": "Altered antibody response in immunosuppression yields discordant assays (e.g., IFA negative, Western blot positive)."
+        },
+        {
+          "symptom_id": 43,
+          "topic_id": 8,
+          "frequency": "occasional",
+          "mechanism_explanation": "Borrelia-induced humoral suppression can blunt serologic responses."
+        }
+      ],
+      "sources": [
+        "T7-S006",
+        "T8-S002"
+      ]
+    },
+    {
+      "symptom_id": 45,
+      "name": "Broadly suppressed humoral immunity",
+      "body_system": "immunologic",
+      "description": "Impaired durable antibody responses, including to unrelated antigens, after Borrelia infection.",
+      "topics": [
+        {
+          "symptom_id": 45,
+          "topic_id": 8,
+          "frequency": "common",
+          "mechanism_explanation": "Borrelia induces abnormal, short-lived germinal centers, suppressing long-lived humoral immunity and leaving hosts susceptible to reinfection."
+        }
+      ],
+      "sources": [
+        "T8-S002",
+        "T8-S003"
+      ]
+    },
+    {
+      "symptom_id": 38,
+      "name": "Chronic multi-system illness without a known tick bite",
+      "body_system": "constitutional",
+      "description": "A multi-system chronic-illness picture in a patient with no recalled tick exposure.",
+      "topics": [
+        {
+          "symptom_id": 38,
           "topic_id": 10,
           "frequency": "common",
           "mechanism_explanation": "Often genuine PTLDS or misattributed alternative illness; a missing bite is expected since nymphal bites are usually unnoticed."
         },
         {
-          "symptom_id": 19,
+          "symptom_id": 38,
           "topic_id": 11,
           "frequency": "common",
-          "mechanism_explanation": "Drives congenital/sexual-transmission hypotheses; a missing bite is normal and not evidence of an alternative route."
+          "mechanism_explanation": "Drives congenital/sexual-transmission inferences; a missing bite is normal and not evidence of an alternative route."
         }
       ],
       "sources": [
@@ -3545,36 +3688,43 @@
       ]
     },
     {
-      "symptom_id": 7,
-      "name": "Cognitive fog / impaired concentration",
+      "symptom_id": 19,
+      "name": "Cognitive fog / impaired concentration ('Lyme brain')",
       "body_system": "neuropsychiatric",
-      "description": "Memory and concentration difficulty ('Lyme encephalopathy').",
+      "description": "Memory, concentration, and word-finding difficulty.",
       "topics": [
         {
-          "symptom_id": 7,
+          "symptom_id": 19,
           "topic_id": 4,
           "frequency": "common",
-          "mechanism_explanation": "Neuroinflammation / cytokine-mediated effects, debated persistence."
+          "mechanism_explanation": "Neuroinflammation / cytokine-mediated effects ('Lyme encephalopathy')."
+        },
+        {
+          "symptom_id": 19,
+          "topic_id": 10,
+          "frequency": "hallmark",
+          "mechanism_explanation": "Core component of the PTLDS triad."
         }
       ],
       "sources": [
-        "T4-S006"
+        "T4-S006",
+        "T10-S005"
       ]
     },
     {
-      "symptom_id": 5,
+      "symptom_id": 10,
       "name": "Compulsive skin picking / excoriation",
       "body_system": "dermatological",
       "description": "Repetitive picking producing wounds and scarring, secondary to formication or compulsion.",
       "topics": [
         {
-          "symptom_id": 5,
+          "symptom_id": 10,
           "topic_id": 2,
           "frequency": "common",
           "mechanism_explanation": "Response to formication; self-excoriation produces the lesions."
         },
         {
-          "symptom_id": 5,
+          "symptom_id": 10,
           "topic_id": 3,
           "frequency": "common",
           "mechanism_explanation": "Stimulant-driven compulsive picking."
@@ -3586,13 +3736,31 @@
       ]
     },
     {
-      "symptom_id": 13,
+      "symptom_id": 12,
+      "name": "Cranial neuropathy (e.g., facial palsy)",
+      "body_system": "neurological",
+      "description": "Cranial nerve dysfunction, classically facial nerve palsy, in neuroborreliosis.",
+      "topics": [
+        {
+          "symptom_id": 12,
+          "topic_id": 7,
+          "frequency": "occasional",
+          "mechanism_explanation": "Spirochetal CNS/peripheral nerve involvement; overlaps the neurosyphilis 'great imitator' picture."
+        }
+      ],
+      "sources": [
+        "T7-S004",
+        "T7-S006"
+      ]
+    },
+    {
+      "symptom_id": 41,
       "name": "Cross-reactive positive treponemal (syphilis) test",
-      "body_system": "immunologic/laboratory",
+      "body_system": "laboratory",
       "description": "Unexpected positive FTA-Abs/treponemal serology due to Borrelia antibody cross-reactivity.",
       "topics": [
         {
-          "symptom_id": 13,
+          "symptom_id": 41,
           "topic_id": 7,
           "frequency": "occasional",
           "mechanism_explanation": "Shared spirochetal antigens cause Borrelia/Treponema serologic cross-reactivity."
@@ -3604,16 +3772,16 @@
       ]
     },
     {
-      "symptom_id": 16,
+      "symptom_id": 52,
       "name": "Cutaneous lymphoid proliferation / B-cell lymphoma",
       "body_system": "hematologic",
       "description": "Rare Borrelia-associated primary cutaneous marginal-zone B-cell lymphoma.",
       "topics": [
         {
-          "symptom_id": 16,
+          "symptom_id": 52,
           "topic_id": 8,
           "frequency": "rare",
-          "mechanism_explanation": "Chronic Borrelia antigenic stimulation drives clonal B-cell proliferation; can regress on antibiotics."
+          "mechanism_explanation": "Chronic Borrelia antigenic stimulation drives clonal B-cell proliferation; can regress on antibiotics (cf. H. pylori MALT lymphoma)."
         }
       ],
       "sources": [
@@ -3622,13 +3790,30 @@
       ]
     },
     {
-      "symptom_id": 11,
-      "name": "Depressed mood / suicidality",
-      "body_system": "neuropsychiatric",
-      "description": "Mood collapse, hopelessness, and suicidal ideation; sometimes described as alien to baseline self.",
+      "symptom_id": 44,
+      "name": "Decreased CD57 NK-cell subset",
+      "body_system": "laboratory",
+      "description": "Reduced CD57+ natural-killer-cell count, proposed by a minority as a chronic-Lyme marker.",
       "topics": [
         {
-          "symptom_id": 11,
+          "symptom_id": 44,
+          "topic_id": 8,
+          "frequency": "occasional",
+          "mechanism_explanation": "Minority biomarker (Stricker & Winger); not validated by mainstream immunology as a chronic-Lyme test."
+        }
+      ],
+      "sources": [
+        "T8-S006"
+      ]
+    },
+    {
+      "symptom_id": 24,
+      "name": "Depressed mood / suicidality",
+      "body_system": "neuropsychiatric",
+      "description": "Low mood, hopelessness, and suicidal ideation; sometimes described as alien to baseline self.",
+      "topics": [
+        {
+          "symptom_id": 24,
           "topic_id": 6,
           "frequency": "occasional",
           "mechanism_explanation": "Two routes: neuroinflammation/kynurenine-quinolinic acid (biological) and chronic illness + medical invalidation (psychosocial)."
@@ -3641,19 +3826,19 @@
       ]
     },
     {
-      "symptom_id": 9,
+      "symptom_id": 34,
       "name": "Drenching night sweats and chills",
       "body_system": "constitutional",
       "description": "Recurrent sweats, chills, and fever waves.",
       "topics": [
         {
-          "symptom_id": 9,
+          "symptom_id": 34,
           "topic_id": 5,
           "frequency": "common",
           "mechanism_explanation": "Characteristic of babesiosis co-infection; malaria-like protozoal illness."
         },
         {
-          "symptom_id": 9,
+          "symptom_id": 34,
           "topic_id": 6,
           "frequency": "occasional",
           "mechanism_explanation": "Severe co-infection phases coincide with worst mental-health periods."
@@ -3665,46 +3850,136 @@
       ]
     },
     {
-      "symptom_id": 10,
+      "symptom_id": 6,
+      "name": "Erythema migrans (expanding rash)",
+      "body_system": "dermatological",
+      "description": "Expanding, sometimes target-shaped skin rash at the site of an infected tick bite; the hallmark early sign of Lyme.",
+      "topics": [
+        {
+          "symptom_id": 6,
+          "topic_id": 11,
+          "frequency": "hallmark",
+          "mechanism_explanation": "Local spirochetal replication in skin after tick-borne inoculation; the classic early marker of transmission."
+        },
+        {
+          "symptom_id": 6,
+          "topic_id": 7,
+          "frequency": "occasional",
+          "mechanism_explanation": "Can be persistent or atypical in immunocompromised (HIV) hosts."
+        }
+      ],
+      "sources": [
+        "T11-S001",
+        "T7-S006"
+      ]
+    },
+    {
+      "symptom_id": 42,
+      "name": "False-positive HIV serology",
+      "body_system": "laboratory",
+      "description": "Positive HIV screening test attributable to a tick-borne infection rather than HIV.",
+      "topics": [
+        {
+          "symptom_id": 42,
+          "topic_id": 7,
+          "frequency": "rare",
+          "mechanism_explanation": "Babesiosis has been reported to cause false-positive HIV serology, illustrating cross-assay reverberation."
+        }
+      ],
+      "sources": [
+        "T7-S007"
+      ]
+    },
+    {
+      "symptom_id": 32,
       "name": "Fatigue",
       "body_system": "constitutional",
       "description": "Profound, persistent fatigue across tick-borne illness and co-infection.",
       "topics": [
         {
-          "symptom_id": 10,
+          "symptom_id": 32,
           "topic_id": 5,
           "frequency": "common",
           "mechanism_explanation": "Amplified by co-infection severity and duration."
         },
         {
-          "symptom_id": 10,
+          "symptom_id": 32,
           "topic_id": 6,
           "frequency": "common",
-          "mechanism_explanation": "Chronic-illness burden contributing to suicide risk load."
+          "mechanism_explanation": "Chronic-illness burden contributing to suicide-risk load."
+        },
+        {
+          "symptom_id": 32,
+          "topic_id": 10,
+          "frequency": "hallmark",
+          "mechanism_explanation": "Core component of the PTLDS triad; overlaps ME/CFS and long COVID."
         }
       ],
       "sources": [
         "T5-S001",
-        "T6-S006"
+        "T6-S006",
+        "T10-S005"
       ]
     },
     {
-      "symptom_id": 3,
+      "symptom_id": 55,
+      "name": "Fetal loss / stillbirth (untreated maternal Lyme)",
+      "body_system": "reproductive-neonatal",
+      "description": "Pregnancy loss reported in untreated or inadequately treated maternal Lyme.",
+      "topics": [
+        {
+          "symptom_id": 55,
+          "topic_id": 11,
+          "frequency": "rare",
+          "mechanism_explanation": "Documented in the foundational maternal-fetal transmission case and observational pregnancy-outcome data; confounded and reduced by treatment."
+        }
+      ],
+      "sources": [
+        "T11-S002",
+        "T11-S004"
+      ]
+    },
+    {
+      "symptom_id": 35,
+      "name": "Fever",
+      "body_system": "constitutional",
+      "description": "Elevated temperature, prominent in acute infection and co-infection.",
+      "topics": [
+        {
+          "symptom_id": 35,
+          "topic_id": 5,
+          "frequency": "common",
+          "mechanism_explanation": "Hallmark of acute babesiosis and disseminated infection."
+        },
+        {
+          "symptom_id": 35,
+          "topic_id": 7,
+          "frequency": "occasional",
+          "mechanism_explanation": "Feature of disseminated spirochetal infection."
+        }
+      ],
+      "sources": [
+        "T5-S004",
+        "T7-S006"
+      ]
+    },
+    {
+      "symptom_id": 8,
       "name": "Formication (crawling/biting skin sensation)",
-      "body_system": "neurological",
+      "body_system": "dermatological",
       "description": "Sensation of insects crawling on or under the skin; a real somatosensory experience regardless of cause.",
       "topics": [
         {
-          "symptom_id": 3,
+          "symptom_id": 8,
           "topic_id": 2,
           "frequency": "hallmark",
           "mechanism_explanation": "Central tactile misperception; framed by mainstream as delusional infestation, by minority as borrelial dermatitis."
         },
         {
-          "symptom_id": 3,
+          "symptom_id": 8,
           "topic_id": 3,
           "frequency": "common",
-          "mechanism_explanation": "Dopaminergic excess from stimulants producing tactile hallucinosis."
+          "mechanism_explanation": "Dopaminergic excess from stimulants producing tactile hallucinosis ('meth mites')."
         }
       ],
       "sources": [
@@ -3712,6 +3987,123 @@
         "T2-S006",
         "T3-S001",
         "T3-S003"
+      ]
+    },
+    {
+      "symptom_id": 18,
+      "name": "Headache",
+      "body_system": "neurological",
+      "description": "Persistent or recurrent headache.",
+      "topics": [
+        {
+          "symptom_id": 18,
+          "topic_id": 5,
+          "frequency": "common",
+          "mechanism_explanation": "Prominent in Babesia co-infection and acute illness."
+        },
+        {
+          "symptom_id": 18,
+          "topic_id": 7,
+          "frequency": "occasional",
+          "mechanism_explanation": "Feature of spirochetal CNS involvement."
+        }
+      ],
+      "sources": [
+        "T5-S001",
+        "T7-S005"
+      ]
+    },
+    {
+      "symptom_id": 49,
+      "name": "Hemolytic anemia",
+      "body_system": "hematologic",
+      "description": "Red-cell destruction causing anemia, characteristic of babesiosis.",
+      "topics": [
+        {
+          "symptom_id": 49,
+          "topic_id": 5,
+          "frequency": "common",
+          "mechanism_explanation": "Babesia parasitizes red cells, producing a malaria-like hemolytic illness."
+        }
+      ],
+      "sources": [
+        "T5-S004"
+      ]
+    },
+    {
+      "symptom_id": 31,
+      "name": "Illness-focused obsession / reassurance-seeking",
+      "body_system": "neuropsychiatric",
+      "description": "Compulsive symptom-checking, lab-test collecting, and reassurance-seeking centered on the illness itself.",
+      "topics": [
+        {
+          "symptom_id": 31,
+          "topic_id": 4,
+          "frequency": "occasional",
+          "mechanism_explanation": "Illness fears can become the content of OCD; directionality between cause and content is ambiguous."
+        }
+      ],
+      "sources": [
+        "T4-S001"
+      ]
+    },
+    {
+      "symptom_id": 28,
+      "name": "Insomnia / sleep disturbance",
+      "body_system": "neuropsychiatric",
+      "description": "Difficulty initiating or maintaining sleep, unrefreshing sleep.",
+      "topics": [
+        {
+          "symptom_id": 28,
+          "topic_id": 10,
+          "frequency": "common",
+          "mechanism_explanation": "Common PTLDS symptom and amplifier of pain/fatigue."
+        },
+        {
+          "symptom_id": 28,
+          "topic_id": 6,
+          "frequency": "occasional",
+          "mechanism_explanation": "Sleep disruption is a recognized suicide-risk amplifier."
+        }
+      ],
+      "sources": [
+        "T10-S005",
+        "T6-S006"
+      ]
+    },
+    {
+      "symptom_id": 21,
+      "name": "Intrusive thoughts",
+      "body_system": "neuropsychiatric",
+      "description": "Unwanted, distressing recurrent thoughts.",
+      "topics": [
+        {
+          "symptom_id": 21,
+          "topic_id": 4,
+          "frequency": "occasional",
+          "mechanism_explanation": "Part of the neuropsychiatric-Lyme spectrum described clinically."
+        }
+      ],
+      "sources": [
+        "T4-S001",
+        "T4-S004"
+      ]
+    },
+    {
+      "symptom_id": 4,
+      "name": "Joint stiffness",
+      "body_system": "musculoskeletal",
+      "description": "Stiffness of affected large joints, often out of proportion to pain.",
+      "topics": [
+        {
+          "symptom_id": 4,
+          "topic_id": 1,
+          "frequency": "common",
+          "mechanism_explanation": "Synovial inflammation and effusion."
+        }
+      ],
+      "sources": [
+        "T1-S002"
       ]
     },
     {
@@ -3724,7 +4116,7 @@
           "symptom_id": 1,
           "topic_id": 1,
           "frequency": "hallmark",
-          "mechanism_explanation": "Spirochetal synovitis then post-infectious autoimmune synovitis; knee involved in ~90% of Lyme arthritis."
+          "mechanism_explanation": "Spirochetal then post-infectious autoimmune synovitis; the knee is involved in ~90% of Lyme arthritis."
         }
       ],
       "sources": [
@@ -3733,33 +4125,157 @@
       ]
     },
     {
+      "symptom_id": 48,
+      "name": "Low CD4 T-cell count",
+      "body_system": "immunologic",
+      "description": "Depletion of CD4+ T lymphocytes, the archetypal immunodeficiency of HIV (comparison anchor).",
+      "topics": [
+        {
+          "symptom_id": 48,
+          "topic_id": 8,
+          "frequency": "hallmark",
+          "mechanism_explanation": "HIV depletes CD4+ T cells via direct cytopathicity, immune activation, and lymphoid destruction."
+        }
+      ],
+      "sources": [
+        "T8-S007"
+      ]
+    },
+    {
+      "symptom_id": 40,
+      "name": "Lyme carditis / heart block",
+      "body_system": "cardiovascular",
+      "description": "Atrioventricular conduction block and myocarditis in disseminated Lyme.",
+      "topics": [
+        {
+          "symptom_id": 40,
+          "topic_id": 10,
+          "frequency": "rare",
+          "mechanism_explanation": "Recognized disseminated Lyme manifestation; generally responds to antibiotics."
+        }
+      ],
+      "sources": [
+        "T10-S003"
+      ]
+    },
+    {
+      "symptom_id": 47,
+      "name": "Lymphadenopathy",
+      "body_system": "immunologic",
+      "description": "Enlarged lymph nodes during active infection.",
+      "topics": [
+        {
+          "symptom_id": 47,
+          "topic_id": 8,
+          "frequency": "occasional",
+          "mechanism_explanation": "Borrelia occupies lymph nodes and drives rapid B-cell proliferation with structural changes."
+        }
+      ],
+      "sources": [
+        "T8-S001"
+      ]
+    },
+    {
+      "symptom_id": 17,
+      "name": "MS-like neurologic presentation (mimic)",
+      "body_system": "neurological",
+      "description": "Demyelinating-appearing or relapsing neurologic disease resembling multiple sclerosis.",
+      "topics": [
+        {
+          "symptom_id": 17,
+          "topic_id": 11,
+          "frequency": "occasional",
+          "mechanism_explanation": "Borrelia can mimic and possibly trigger MS-like disease; a contested association invoked in familial-autoimmunity arguments."
+        },
+        {
+          "symptom_id": 17,
+          "topic_id": 7,
+          "frequency": "occasional",
+          "mechanism_explanation": "Neuroborreliosis as the 'new great imitator,' paralleling neurosyphilis."
+        }
+      ],
+      "sources": [
+        "T11-S010",
+        "T7-S004"
+      ]
+    },
+    {
+      "symptom_id": 13,
+      "name": "Meningitis / meningoradiculitis",
+      "body_system": "neurological",
+      "description": "Inflammation of meninges and nerve roots in early disseminated neuroborreliosis.",
+      "topics": [
+        {
+          "symptom_id": 13,
+          "topic_id": 7,
+          "frequency": "occasional",
+          "mechanism_explanation": "Direct CNS invasion; can be atypical in HIV co-infection."
+        }
+      ],
+      "sources": [
+        "T7-S006"
+      ]
+    },
+    {
       "symptom_id": 2,
-      "name": "Migratory joint pain",
+      "name": "Migratory joint pain (arthralgia)",
       "body_system": "musculoskeletal",
-      "description": "Pain that moves between joints early in disseminated infection before localizing.",
+      "description": "Pain that moves between joints early in disseminated infection, and diffuse arthralgia in chronic illness.",
       "topics": [
         {
           "symptom_id": 2,
           "topic_id": 1,
           "frequency": "common",
           "mechanism_explanation": "Hematogenous dissemination of spirochetes and systemic inflammatory response."
+        },
+        {
+          "symptom_id": 2,
+          "topic_id": 10,
+          "frequency": "common",
+          "mechanism_explanation": "Part of the persistent post-treatment symptom complex (PTLDS)."
         }
       ],
       "sources": [
-        "T1-S013"
+        "T1-S013",
+        "T10-S005"
       ]
     },
     {
-      "symptom_id": 6,
+      "symptom_id": 11,
+      "name": "Non-healing skin lesions / sores",
+      "body_system": "dermatological",
+      "description": "Chronic ulcerated or crusted lesions, often from repeated excoriation.",
+      "topics": [
+        {
+          "symptom_id": 11,
+          "topic_id": 2,
+          "frequency": "hallmark",
+          "mechanism_explanation": "Self-excoriation and impaired healing; secondary infection common."
+        },
+        {
+          "symptom_id": 11,
+          "topic_id": 3,
+          "frequency": "common",
+          "mechanism_explanation": "Stimulant-associated picking wounds."
+        }
+      ],
+      "sources": [
+        "T2-S001",
+        "T2-S002",
+        "T3-S001"
+      ]
+    },
+    {
+      "symptom_id": 20,
       "name": "Obsessions and compulsions",
       "body_system": "neuropsychiatric",
       "description": "Intrusive thoughts and compulsive behaviors; new-onset or worsened.",
       "topics": [
         {
-          "symptom_id": 6,
+          "symptom_id": 20,
           "topic_id": 4,
           "frequency": "occasional",
-          "mechanism_explanation": "Proposed infection-triggered autoimmune basal-ganglia dysfunction (PANDAS/PANS template); causation in Lyme speculative."
+          "mechanism_explanation": "Proposed infection-triggered autoimmune basal-ganglia dysfunction (PANDAS/PANS template); Borrelia-specific causation speculative."
         }
       ],
       "sources": [
@@ -3768,16 +4284,33 @@
       ]
     },
     {
-      "symptom_id": 17,
-      "name": "Persistent fatigue, pain, and brain fog after treatment",
-      "body_system": "constitutional / neuropsychiatric",
-      "description": "The core Post-Treatment Lyme Disease Syndrome (PTLDS) triad persisting >=6 months after recommended antibiotic treatment.",
+      "symptom_id": 16,
+      "name": "Orthostatic intolerance / POTS",
+      "body_system": "neurological",
+      "description": "Lightheadedness, tachycardia, and intolerance of upright posture.",
       "topics": [
         {
-          "symptom_id": 17,
+          "symptom_id": 16,
+          "topic_id": 10,
+          "frequency": "occasional",
+          "mechanism_explanation": "Autonomic dysfunction associated with PTLDS and overlapping post-infectious syndromes."
+        }
+      ],
+      "sources": [
+        "T10-S007"
+      ]
+    },
+    {
+      "symptom_id": 53,
+      "name": "Persistent fatigue, pain, and brain fog after treatment (PTLDS)",
+      "body_system": "constitutional",
+      "description": "The Post-Treatment Lyme Disease Syndrome triad persisting >=6 months after recommended antibiotic treatment.",
+      "topics": [
+        {
+          "symptom_id": 53,
           "topic_id": 10,
           "frequency": "hallmark",
-          "mechanism_explanation": "Recognized PTLDS in ~10-20% of treated patients; post-infectious mechanism (immune activation, residual antigen, nerve injury) rather than ongoing active infection."
+          "mechanism_explanation": "Recognized in ~10-20% of treated patients; post-infectious mechanism (immune activation, residual antigen, nerve injury) rather than ongoing active infection."
         }
       ],
       "sources": [
@@ -3786,16 +4319,74 @@
       ]
     },
     {
-      "symptom_id": 15,
-      "name": "Recurrent infections / viral reactivation",
-      "body_system": "immunologic",
-      "description": "Frequent infections, shingles, EBV/CMV reactivation attributed to weakened immunity.",
+      "symptom_id": 33,
+      "name": "Post-exertional malaise",
+      "body_system": "constitutional",
+      "description": "Disproportionate worsening of symptoms after physical or cognitive exertion.",
       "topics": [
         {
-          "symptom_id": 15,
+          "symptom_id": 33,
+          "topic_id": 10,
+          "frequency": "common",
+          "mechanism_explanation": "Shared with ME/CFS and long COVID; central to the post-infectious-syndrome overlap."
+        }
+      ],
+      "sources": [
+        "T10-S005"
+      ]
+    },
+    {
+      "symptom_id": 29,
+      "name": "Psychosis / paranoia (stimulant-associated)",
+      "body_system": "neuropsychiatric",
+      "description": "Paranoid ideation and psychotic symptoms in chronic stimulant use.",
+      "topics": [
+        {
+          "symptom_id": 29,
+          "topic_id": 3,
+          "frequency": "occasional",
+          "mechanism_explanation": "Dopaminergic dysregulation of stimulant psychosis, with prominent tactile/visual hallucinations."
+        }
+      ],
+      "sources": [
+        "T3-S003"
+      ]
+    },
+    {
+      "symptom_id": 14,
+      "name": "Radiculopathy / neuropathic pain",
+      "body_system": "neurological",
+      "description": "Nerve-root or peripheral nerve pain.",
+      "topics": [
+        {
+          "symptom_id": 14,
+          "topic_id": 7,
+          "frequency": "occasional",
+          "mechanism_explanation": "Neuroborreliosis nerve involvement."
+        },
+        {
+          "symptom_id": 14,
+          "topic_id": 10,
+          "frequency": "common",
+          "mechanism_explanation": "Persistent neuropathic pain reported in PTLDS."
+        }
+      ],
+      "sources": [
+        "T7-S006",
+        "T10-S005"
+      ]
+    },
+    {
+      "symptom_id": 46,
+      "name": "Recurrent infections / viral reactivation",
+      "body_system": "immunologic",
+      "description": "Frequent infections, shingles, or EBV/CMV reactivation attributed to weakened immunity.",
+      "topics": [
+        {
+          "symptom_id": 46,
           "topic_id": 8,
           "frequency": "common",
-          "mechanism_explanation": "Borrelia suppresses long-lived humoral immunity via defective germinal centers."
+          "mechanism_explanation": "Consistent with documented Borrelia humoral suppression; the broader 'immunodeficiency' framing is speculative."
         }
       ],
       "sources": [
@@ -3804,16 +4395,33 @@
       ]
     },
     {
-      "symptom_id": 4,
+      "symptom_id": 37,
+      "name": "Relapsing-remitting symptom course",
+      "body_system": "constitutional",
+      "description": "Cyclical waxing and waning of multi-system symptoms over time.",
+      "topics": [
+        {
+          "symptom_id": 37,
+          "topic_id": 10,
+          "frequency": "common",
+          "mechanism_explanation": "Vividly described by patients; maps imperfectly onto the static PTLDS definition."
+        }
+      ],
+      "sources": [
+        "T10-S005"
+      ]
+    },
+    {
+      "symptom_id": 9,
       "name": "Skin fibers / filaments at lesions",
       "body_system": "dermatological",
       "description": "Colored fibers seen at, under, or projecting from non-healing skin lesions.",
       "topics": [
         {
-          "symptom_id": 4,
+          "symptom_id": 9,
           "topic_id": 2,
           "frequency": "hallmark",
-          "mechanism_explanation": "Disputed: textile cellulose (CDC) vs endogenous keratin/collagen (minority)."
+          "mechanism_explanation": "Disputed origin: textile cellulose (CDC) vs endogenous keratin/collagen (minority)."
         }
       ],
       "sources": [
@@ -3822,16 +4430,16 @@
       ]
     },
     {
-      "symptom_id": 18,
+      "symptom_id": 15,
       "name": "Small-fiber neuropathy / dysautonomia",
       "body_system": "neurological",
       "description": "Objective small-fiber nerve dysfunction and autonomic symptoms documented in a subset of PTLDS patients.",
       "topics": [
         {
-          "symptom_id": 18,
+          "symptom_id": 15,
           "topic_id": 10,
           "frequency": "occasional",
-          "mechanism_explanation": "Nerve injury/post-infectious neuropathy; objective finding countering a purely psychological interpretation."
+          "mechanism_explanation": "Post-infectious nerve injury; an objective finding countering a purely psychological interpretation."
         }
       ],
       "sources": [
@@ -3839,21 +4447,106 @@
       ]
     },
     {
-      "symptom_id": 12,
+      "symptom_id": 51,
+      "name": "Splenomegaly",
+      "body_system": "hematologic",
+      "description": "Enlarged spleen during co-infection.",
+      "topics": [
+        {
+          "symptom_id": 51,
+          "topic_id": 5,
+          "frequency": "occasional",
+          "mechanism_explanation": "Reported more often in Lyme-Babesia co-infection than Lyme alone."
+        }
+      ],
+      "sources": [
+        "T5-S001"
+      ]
+    },
+    {
+      "symptom_id": 30,
+      "name": "Tactile / visual hallucinations",
+      "body_system": "neuropsychiatric",
+      "description": "Sensing things on/in the skin or seeing things not present, prominent in stimulant psychosis.",
+      "topics": [
+        {
+          "symptom_id": 30,
+          "topic_id": 3,
+          "frequency": "common",
+          "mechanism_explanation": "Tactile and visual hallucinations are disproportionately common in methamphetamine psychosis versus schizophrenia."
+        }
+      ],
+      "sources": [
+        "T3-S003"
+      ]
+    },
+    {
+      "symptom_id": 50,
+      "name": "Thrombocytopenia",
+      "body_system": "hematologic",
+      "description": "Low platelet count seen in acute babesiosis.",
+      "topics": [
+        {
+          "symptom_id": 50,
+          "topic_id": 5,
+          "frequency": "common",
+          "mechanism_explanation": "Hematologic effect of babesial infection."
+        }
+      ],
+      "sources": [
+        "T5-S004"
+      ]
+    },
+    {
+      "symptom_id": 22,
+      "name": "Tics",
+      "body_system": "neuropsychiatric",
+      "description": "Sudden repetitive movements or vocalizations, classically in PANS/PANDAS.",
+      "topics": [
+        {
+          "symptom_id": 22,
+          "topic_id": 4,
+          "frequency": "occasional",
+          "mechanism_explanation": "Autoimmune basal-ganglia mechanism in the PANDAS/PANS template invoked for infection-triggered cases."
+        }
+      ],
+      "sources": [
+        "T4-S005"
+      ]
+    },
+    {
+      "symptom_id": 25,
       "name": "Uncharacteristic rage / emotional lability",
       "body_system": "neuropsychiatric",
       "description": "Sudden mood/behavior change experienced as out of character.",
       "topics": [
         {
-          "symptom_id": 12,
+          "symptom_id": 25,
           "topic_id": 6,
           "frequency": "occasional",
-          "mechanism_explanation": "Proposed neuroinflammatory effect; behavioral/aggression claims are speculative."
+          "mechanism_explanation": "Proposed neuroinflammatory effect; behavioral/aggression claims are speculative and flagged."
         }
       ],
       "sources": [
         "T6-S001",
         "T6-S002"
+      ]
+    },
+    {
+      "symptom_id": 5,
+      "name": "Widespread musculoskeletal pain / myalgia",
+      "body_system": "musculoskeletal",
+      "description": "Diffuse muscle and joint pain without objective arthritis.",
+      "topics": [
+        {
+          "symptom_id": 5,
+          "topic_id": 10,
+          "frequency": "common",
+          "mechanism_explanation": "Core persistent symptom of PTLDS; overlaps fibromyalgia-like and post-infectious pain."
+        }
+      ],
+      "sources": [
+        "T10-S005"
       ]
     }
   ],

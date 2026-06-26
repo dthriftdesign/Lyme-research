@@ -4,76 +4,76 @@
     "slug": "lyme-arthritis",
     "title": "Lyme and arthritis",
     "summary": "The most common late manifestation of Lyme disease. Centers on the two-phase model: antibiotic-responsive infectious synovitis vs. antibiotic-refractory, post-infectious autoimmunity (identified autoantigens ECGF, Annexin A2), set against the minority persistence hypothesis.",
-    "created_at": "2026-06-26 17:28:49"
+    "created_at": "2026-06-26 17:49:47"
   },
   {
     "topic_id": 2,
     "slug": "lyme-morgellons",
     "title": "Lyme and Morgellons",
     "summary": "A contested condition framed by mainstream medicine as delusional infestation (CDC study: textile-cellulose fibers) versus the minority 'filamentous borrelial dermatitis' hypothesis (Middelveen & Stricker: endogenous keratin/collagen filaments). Hinges on one unreplicated material-science fact.",
-    "created_at": "2026-06-26 17:28:49"
+    "created_at": "2026-06-26 17:49:47"
   },
   {
     "topic_id": 3,
     "slug": "lyme-morgellons-amphetamines",
     "title": "Lyme, Morgellons, and amphetamines",
     "summary": "Stimulant-induced formication / delusional infestation ('meth mites') as the primary differential and likely subgroup explanation for Morgellons, with harm-reduction framing and a striking attribution gap between drug and infection communities for an identical symptom.",
-    "created_at": "2026-06-26 17:28:49"
+    "created_at": "2026-06-26 17:49:47"
   },
   {
     "topic_id": 4,
     "slug": "lyme-ocd",
     "title": "Lyme and OCD",
     "summary": "Neuropsychiatric Lyme and whether Borrelia can trigger OCD via the infection-induced autoimmune basal-ganglia mechanism established for streptococcus (PANDAS/PANS). Mechanism mainstream; Borrelia-specific causation speculative; directionality confound central.",
-    "created_at": "2026-06-26 17:28:49"
+    "created_at": "2026-06-26 17:49:47"
   },
   {
     "topic_id": 5,
     "slug": "lyme-parasitic",
     "title": "Lyme and parasitic infections",
     "summary": "Mainstream Babesia co-infection (more severe, longer illness; often the real cause of 'treatment-resistant Lyme') cleanly separated from the minority MSIDS multi-co-infection model and fringe novel-parasite / 'rope worm' claims. Diagnostic validity is the fault line.",
-    "created_at": "2026-06-26 17:28:49"
+    "created_at": "2026-06-26 17:49:47"
   },
   {
     "topic_id": 6,
     "slug": "lyme-parasitic-suicide",
     "title": "Lyme, parasitic co-infection, and suicide",
     "summary": "A public-health question: does tick-borne infection elevate suicide risk above the chronic-illness baseline? Mechanism (inflammation/kynurenine/quinolinic acid) is mainstream; Bransfield's infection-specific magnitude is minority-research. Two additive routes: biological and psychosocial (invalidation).",
-    "created_at": "2026-06-26 17:28:49"
+    "created_at": "2026-06-26 17:49:47"
   },
   {
     "topic_id": 7,
     "slug": "lyme-hiv-syphilis",
     "title": "Lyme, HIV, and syphilis",
     "summary": "Spirochetal homology and the 'great imitator' parallel, Borrelia-Treponema serologic cross-reactivity (false-positive syphilis tests), and HIV effects on Lyme diagnosis/course. The syphilis analogy is chronic-Lyme advocacy's rhetorical backbone.",
-    "created_at": "2026-06-26 17:28:49"
+    "created_at": "2026-06-26 17:49:47"
   },
   {
     "topic_id": 8,
     "slug": "lyme-hiv-syphilis-wbc",
     "title": "Lyme, HIV, syphilis, and white blood cell disruption",
     "summary": "How each pathogen perturbs leukocytes: Borrelia's humoral suppression and defective germinal centers, Borrelia-driven cutaneous B-cell lymphoma (regresses on antibiotics), HIV CD4 depletion. The minority CD57 biomarker is unvalidated; immune disruption is the project's mechanistic spine.",
-    "created_at": "2026-06-26 17:28:49"
+    "created_at": "2026-06-26 17:49:47"
   },
   {
     "topic_id": 9,
     "slug": "lyme-bioweapon",
     "title": "Lyme as a bioweapon",
     "summary": "Separates documented history (US Cold War tick-weaponization research; Burgdorfer's classified work; 2019 DoD-IG amendment) from the speculative 'escape' thesis. Ancient-DNA evidence (Otzi, 15-My amber) refutes an engineered organism; ecology explains the epidemic.",
-    "created_at": "2026-06-26 17:28:49"
+    "created_at": "2026-06-26 17:49:47"
   },
   {
     "topic_id": 10,
     "slug": "chronic-lyme",
     "title": "Chronic and late-stage Lyme",
     "summary": "The project's keystone controversy. Separates three things routinely merged: recognized late disseminated Lyme; recognized Post-Treatment Lyme Disease Syndrome (PTLDS, ~10-20% of treated patients, real but post-infectious); and the contested 'chronic Lyme disease' label (ongoing infection treatable with prolonged antibiotics). The illness is real; the persistent-active-infection mechanism is unproven; controlled trials show no durable benefit from long antibiotics.",
-    "created_at": "2026-06-26 17:28:49"
+    "created_at": "2026-06-26 17:49:47"
   },
   {
     "topic_id": 11,
     "slug": "lyme-transmission",
     "title": "How Lyme is transmitted (tick, congenital, sexual)",
     "summary": "Beyond the established tick-bite route: can Lyme pass in utero or sexually? Mainstream accepts the spirochete can rarely cross the placenta (documented since 1985) but rejects a defined congenital syndrome (removed from ICD-11) and sexual transmission. The congenital-syphilis analogy makes the vertical question scientifically serious; divergent transmission biology limits it. A missing tick-bite history is normal, not evidence of an exotic route.",
-    "created_at": "2026-06-26 17:28:49"
+    "created_at": "2026-06-26 17:49:47"
   }
 ]
