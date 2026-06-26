@@ -1,0 +1,160 @@
+{
+  "topic_id": 9,
+  "topic_title": "Lyme as a bioweapon",
+  "sources": [
+    {
+      "source_id": "T9-S001",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "New insights into the Tyrolean Iceman's origin and phenotype as inferred by whole-genome sequencing",
+      "authors": ["Keller A", "Graefen A", "Ball M", "Matzas M", "Boisguerin V", "Maixner F", "et al."],
+      "year": 2012,
+      "journal_or_publisher": "Nature Communications",
+      "doi": "10.1038/ncomms1701",
+      "pmid": "22426219",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22426219/",
+      "key_findings": "Whole-genome sequencing of the ~5,300-year-old Tyrolean Iceman recovered roughly two-thirds of a B. burgdorferi genome, the earliest documented human Lyme infection.",
+      "relevance_notes": "Direct evidence that Borrelia long predates modern bioweapons; refutes 'man-made organism.'"
+    },
+    {
+      "source_id": "T9-S002",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Spirochete-like cells in a Dominican amber Amblyomma tick (Arachnida: Ixodidae)",
+      "authors": ["Poinar G"],
+      "year": 2015,
+      "journal_or_publisher": "Historical Biology",
+      "doi": "10.1080/08912963.2014.897699",
+      "pmid": null,
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/08912963.2014.897699",
+      "key_findings": "Reports Borrelia-like spirochetes in 15-20-million-year-old amber ticks, indicating Lyme-group bacteria predate humanity.",
+      "relevance_notes": "Deep-time evidence that the organism is natural and ancient."
+    },
+    {
+      "source_id": "T9-S003",
+      "type": "book",
+      "consensus_status": "speculative",
+      "title": "Bitten: The Secret History of Lyme Disease and Biological Weapons",
+      "authors": ["Newby K"],
+      "year": 2019,
+      "journal_or_publisher": "Harper Wave",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.harpercollins.com/products/bitten-kris-newby",
+      "key_findings": "Documents Willy Burgdorfer's classified tick-borne bioweapon work and archival materials; argues (speculatively) for a possible link between weaponization research and the Lyme epidemic.",
+      "relevance_notes": "Real investigative archival work; the documented history is solid, the epidemic-link conclusion is contested/speculative."
+    },
+    {
+      "source_id": "T9-S004",
+      "type": "historical_document",
+      "consensus_status": "historical",
+      "title": "2019 House amendment (Rep. Christopher Smith) directing DoD Inspector General review of tick weaponization, 1950-1975 (FY2020 NDAA)",
+      "authors": ["US House of Representatives"],
+      "year": 2019,
+      "journal_or_publisher": "US Congress / Defense Authorization Act FY2020",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.lymedisease.org/lyme-bioweapon-amendment/",
+      "key_findings": "House passed an amendment requiring the DoD IG to review whether the military experimented with weaponizing disease-carrying ticks and whether any were released.",
+      "relevance_notes": "Documented legislative event; a request to investigate, not a finding."
+    },
+    {
+      "source_id": "T9-S005",
+      "type": "forum_meta",
+      "consensus_status": "mainstream",
+      "title": "Did Lawmakers Demand the Pentagon Disclose If It Developed Weaponized Ticks? (fact-check)",
+      "authors": ["Snopes"],
+      "year": 2019,
+      "journal_or_publisher": "Snopes",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.snopes.com/fact-check/weaponized-ticks/",
+      "key_findings": "Confirms the amendment is real while rating the broader 'Lyme as engineered epidemic' claim as unsupported.",
+      "relevance_notes": "Balanced fact-check separating documented event from speculative conclusion."
+    },
+    {
+      "source_id": "T9-S006",
+      "type": "forum_meta",
+      "consensus_status": "mainstream",
+      "title": "House measure on weaponized ticks revives discredited conspiracy theory",
+      "authors": ["Medill News Service"],
+      "year": 2019,
+      "journal_or_publisher": "Medill News Service (Northwestern)",
+      "doi": null,
+      "pmid": null,
+      "url": "https://dc.medill.northwestern.edu/blog/2019/08/08/house-measure-on-weaponized-ticks-revives-discredited-conspiracy-theory/",
+      "key_findings": "Journalistic context characterizing the bioweapon-origin theory as discredited while reporting the legislative action.",
+      "relevance_notes": "Mainstream journalistic framing."
+    },
+    {
+      "source_id": "T9-S007",
+      "type": "book",
+      "consensus_status": "fringe",
+      "title": "Lab 257: The Disturbing Story of the Government's Secret Plum Island Germ Laboratory",
+      "authors": ["Carroll MC"],
+      "year": 2004,
+      "journal_or_publisher": "William Morrow",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.harpercollins.com/products/lab-257-michael-christopher-carroll",
+      "key_findings": "Chronicles Plum Island secrecy and raises the proximity-based suspicion of a Lyme connection; Plum Island's documented work was on livestock diseases.",
+      "relevance_notes": "Source of the Plum Island narrative; proximity-and-secrecy reasoning, not evidence of Lyme origin."
+    },
+    {
+      "source_id": "T9-S008",
+      "type": "forum_meta",
+      "consensus_status": "mainstream",
+      "title": "Troublesome Ticks: Dispelling Bioweapon Rumors",
+      "authors": ["Contagion Live"],
+      "year": 2019,
+      "journal_or_publisher": "Contagion Live",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.contagionlive.com/view/troublesome-ticks-dispelling-bioweapon-rumors",
+      "key_findings": "Infectious-disease commentary explaining the natural ecology of the Lyme epidemic and refuting the bioweapon-origin claim while acknowledging historical research.",
+      "relevance_notes": "Mainstream ID framing and ecological explanation."
+    }
+  ],
+  "forum_excerpts": [
+    {
+      "excerpt_id": "T9-F001",
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2019-2024",
+      "paraphrased_content": "A surge of posts after Newby's 'Bitten' cite Burgdorfer's bioweapon work as proof the epidemic was engineered or released.",
+      "pattern_tag": "bitten-driven-escape-belief",
+      "corroborates_sources": ["T9-S003"],
+      "contradicts_sources": ["T9-S001", "T9-S002"]
+    },
+    {
+      "excerpt_id": "T9-F002",
+      "platform": "conspiracy-adjacent forums",
+      "thread_url": "https://www.reddit.com/r/conspiracy/",
+      "approximate_date": "2010-2024",
+      "paraphrased_content": "Repeated invocation of Plum Island's nearness to Lyme, CT and its secrecy as self-evident proof of origin.",
+      "pattern_tag": "plum-island-proximity",
+      "corroborates_sources": ["T9-S007"],
+      "contradicts_sources": ["T9-S001"]
+    },
+    {
+      "excerpt_id": "T9-F003",
+      "platform": "FOIA / archive forums",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2015-2024",
+      "paraphrased_content": "Users post declassified documents and archival records, occasionally surfacing genuinely obscure primary sources worth verifying.",
+      "pattern_tag": "foia-document-surfacing",
+      "corroborates_sources": ["T9-S004"],
+      "contradicts_sources": []
+    },
+    {
+      "excerpt_id": "T9-F004",
+      "platform": "LymeNet Flash",
+      "thread_url": "http://flash.lymenet.org/",
+      "approximate_date": "2008-2024",
+      "paraphrased_content": "Linking the IDSA/ILADS treatment controversy to an alleged government cover-up of a bioweapon origin, forming a grand-unifying narrative.",
+      "pattern_tag": "cover-up-grand-narrative",
+      "corroborates_sources": [],
+      "contradicts_sources": []
+    }
+  ]
+}

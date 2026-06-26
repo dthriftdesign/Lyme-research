@@ -1,0 +1,29 @@
+{
+  "topic_id": 9,
+  "relationships": [
+    {
+      "relationship_id": "R031",
+      "to_topic_id": 7,
+      "type": "contrasting",
+      "description": "The engineered Lyme/HIV/syphilis-triad conspiracy connects here; both share the structure of welding real history onto a false origin claim.",
+      "evidence_sources": ["T9-S003"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R032",
+      "to_topic_id": 1,
+      "type": "contrasting",
+      "description": "The bioweapon 'cover-up' narrative fuses the IDSA/ILADS treatment-guideline dispute into the origin story; discourse linkage, not biological.",
+      "evidence_sources": ["T9-S004"],
+      "strength": "weak"
+    },
+    {
+      "relationship_id": "R033",
+      "to_topic_id": 5,
+      "type": "contrasting",
+      "description": "Externalization of blame (government/institutions) parallels the infectious-over-autoimmune and hidden-parasite explanatory preferences seen elsewhere.",
+      "evidence_sources": ["T9-S008"],
+      "strength": "weak"
+    }
+  ]
+}
