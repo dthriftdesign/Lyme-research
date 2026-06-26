@@ -40,6 +40,23 @@ Pages). `vite.config.js` sets `base: './'` for subpath deployment.
 - `/meta-insights` — cross-topic synthesis
 - `/source/:id` — full citation, consensus badge, and everything referencing it
 
+## Deploying (GitHub Pages)
+
+A workflow at `.github/workflows/deploy-pages.yml` builds this app and deploys it.
+It is **inert until you turn Pages on**:
+
+1. Repo **Settings → Pages → Build and deployment → Source: "GitHub Actions"**.
+2. Re-run the workflow (Actions tab → "Deploy frontend to GitHub Pages" → Run
+   workflow), or push any change under `web/`.
+3. The site goes live at `https://<owner>.github.io/<repo>/`.
+
+Notes:
+- Enabling Pages makes the **site URL public** (anyone with the link), but does
+  **not** change repository visibility — a private repo stays private.
+- Access-controlled ("private") Pages requires GitHub Enterprise Cloud. For a
+  password-protected preview instead, deploy `web/dist/` to Netlify or Vercel
+  with their access-protection feature.
+
 ## Design notes
 
 Consensus statuses are color-coded consistently (see `src/lib/consensus.js`).
