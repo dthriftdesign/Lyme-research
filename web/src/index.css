@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-800 antialiased;
+  }
+}
+
+/* Rendered-markdown ("prose") styling kept lightweight and dependency-free. */
+.md h1 { @apply text-2xl font-bold mt-2 mb-4 text-slate-900; }
+.md h2 { @apply text-xl font-semibold mt-6 mb-2 text-slate-900 border-b border-slate-200 pb-1; }
+.md h3 { @apply text-lg font-semibold mt-4 mb-1 text-slate-800; }
+.md p  { @apply my-3 leading-relaxed; }
+.md ul { @apply list-disc ml-6 my-3 space-y-1; }
+.md ol { @apply list-decimal ml-6 my-3 space-y-1; }
+.md li { @apply leading-relaxed; }
+.md a  { @apply text-sky-700 underline decoration-sky-300 hover:decoration-sky-600; }
+.md code { @apply bg-slate-100 px-1 py-0.5 rounded text-sm; }
+.md blockquote { @apply border-l-4 border-slate-300 pl-4 italic text-slate-600 my-3; }
+.md table { @apply my-4 text-sm border-collapse; }
+.md th, .md td { @apply border border-slate-200 px-2 py-1 text-left; }
+.md th { @apply bg-slate-100; }
+.md strong { @apply font-semibold text-slate-900; }

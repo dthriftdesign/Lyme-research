@@ -98,9 +98,43 @@ def export():
     _write(os.path.join(EXPORT, "db.json"), combined)
     _write(os.path.join(WEB_DATA, "db.json"), combined)
 
+    _copy_markdown(topics)
+
     print("Exported to data/export/ and web/src/data/:")
     for k, v in combined.items():
         print(f"  {k:16s} {len(v)} records")
+
+
+MD_FILES = ["medical-consensus", "non-consensus", "patient-reports", "insights"]
+
+
+def _copy_markdown(topics):
+    """Copy each topic's four markdown files into web/src/data/markdown/<slug>/
+    so the frontend can render them, plus the cross-topic meta-insights."""
+    import glob as _glob
+    md_root = os.path.join(WEB_DATA, "markdown")
+    if os.path.exists(md_root):
+        shutil.rmtree(md_root)
+    os.makedirs(md_root, exist_ok=True)
+    research = os.path.join(ROOT, "research")
+    # map topic_id -> slug and directory
+    dir_by_id = {}
+    for d in sorted(_glob.glob(os.path.join(research, "[0-9][0-9]-*"))):
+        num = int(os.path.basename(d).split("-")[0])
+        dir_by_id[num] = d
+    for t in topics:
+        src_dir = dir_by_id.get(t["topic_id"])
+        if not src_dir:
+            continue
+        dst_dir = os.path.join(md_root, t["slug"])
+        os.makedirs(dst_dir, exist_ok=True)
+        for name in MD_FILES:
+            src = os.path.join(src_dir, name + ".md")
+            if os.path.exists(src):
+                shutil.copy(src, os.path.join(dst_dir, name + ".md"))
+    meta = os.path.join(research, "meta-insights.md")
+    if os.path.exists(meta):
+        shutil.copy(meta, os.path.join(md_root, "meta-insights.md"))
 
 
 def _write(path, payload):
