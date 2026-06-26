@@ -96,9 +96,9 @@
       "journal_or_publisher": "Conference presentations / commercial laboratory (no robust peer-reviewed validation)",
       "doi": null,
       "pmid": null,
-      "url": null,
-      "key_findings": "Claims of a novel protozoan parasite in chronic-illness patients, promoted with associated commercial testing and antiparasitic treatment.",
-      "relevance_notes": "Flagged fringe/speculative: minimal independent validation, commercial conflict of interest; included to document the claim honestly, not to endorse it."
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/?term=Protomyxzoa+rheumatica",
+      "key_findings": "Claims of a novel protozoan parasite (FL1953 / 'Protomyxzoa rheumatica') in chronic-illness patients, promoted with associated commercial testing and antiparasitic treatment.",
+      "relevance_notes": "Flagged fringe/speculative: the linked PubMed Central search documents the near-absence of independent peer-reviewed validation; commercial conflict of interest. Included to record the claim honestly, not to endorse it."
     }
   ],
   "forum_excerpts": [

@@ -1,0 +1,314 @@
+[
+  {
+    "symptom_id": 8,
+    "name": "Air hunger / shortness of breath",
+    "body_system": "respiratory",
+    "description": "Sensation of insufficient air; community-recognized signal of Babesia co-infection.",
+    "topics": [
+      {
+        "symptom_id": 8,
+        "topic_id": 5,
+        "frequency": "common",
+        "mechanism_explanation": "Associated with babesial co-infection; mechanism includes hemolysis/anemia and immune response."
+      }
+    ],
+    "sources": [
+      "T5-S001",
+      "T5-S004"
+    ]
+  },
+  {
+    "symptom_id": 14,
+    "name": "Atypical / seronegative presentation in immunosuppression",
+    "body_system": "immunologic/laboratory",
+    "description": "Discordant Lyme serology and atypical course in HIV or immunosuppressed hosts.",
+    "topics": [
+      {
+        "symptom_id": 14,
+        "topic_id": 7,
+        "frequency": "rare",
+        "mechanism_explanation": "Altered antibody response in immunosuppression yields discordant assays."
+      }
+    ],
+    "sources": [
+      "T7-S006"
+    ]
+  },
+  {
+    "symptom_id": 7,
+    "name": "Cognitive fog / impaired concentration",
+    "body_system": "neuropsychiatric",
+    "description": "Memory and concentration difficulty ('Lyme encephalopathy').",
+    "topics": [
+      {
+        "symptom_id": 7,
+        "topic_id": 4,
+        "frequency": "common",
+        "mechanism_explanation": "Neuroinflammation / cytokine-mediated effects, debated persistence."
+      }
+    ],
+    "sources": [
+      "T4-S006"
+    ]
+  },
+  {
+    "symptom_id": 5,
+    "name": "Compulsive skin picking / excoriation",
+    "body_system": "dermatological",
+    "description": "Repetitive picking producing wounds and scarring, secondary to formication or compulsion.",
+    "topics": [
+      {
+        "symptom_id": 5,
+        "topic_id": 2,
+        "frequency": "common",
+        "mechanism_explanation": "Response to formication; self-excoriation produces the lesions."
+      },
+      {
+        "symptom_id": 5,
+        "topic_id": 3,
+        "frequency": "common",
+        "mechanism_explanation": "Stimulant-driven compulsive picking."
+      }
+    ],
+    "sources": [
+      "T2-S002",
+      "T3-S001"
+    ]
+  },
+  {
+    "symptom_id": 13,
+    "name": "Cross-reactive positive treponemal (syphilis) test",
+    "body_system": "immunologic/laboratory",
+    "description": "Unexpected positive FTA-Abs/treponemal serology due to Borrelia antibody cross-reactivity.",
+    "topics": [
+      {
+        "symptom_id": 13,
+        "topic_id": 7,
+        "frequency": "occasional",
+        "mechanism_explanation": "Shared spirochetal antigens cause Borrelia/Treponema serologic cross-reactivity."
+      }
+    ],
+    "sources": [
+      "T7-S001",
+      "T7-S002"
+    ]
+  },
+  {
+    "symptom_id": 16,
+    "name": "Cutaneous lymphoid proliferation / B-cell lymphoma",
+    "body_system": "hematologic",
+    "description": "Rare Borrelia-associated primary cutaneous marginal-zone B-cell lymphoma.",
+    "topics": [
+      {
+        "symptom_id": 16,
+        "topic_id": 8,
+        "frequency": "rare",
+        "mechanism_explanation": "Chronic Borrelia antigenic stimulation drives clonal B-cell proliferation; can regress on antibiotics."
+      }
+    ],
+    "sources": [
+      "T8-S004",
+      "T8-S005"
+    ]
+  },
+  {
+    "symptom_id": 11,
+    "name": "Depressed mood / suicidality",
+    "body_system": "neuropsychiatric",
+    "description": "Mood collapse, hopelessness, and suicidal ideation; sometimes described as alien to baseline self.",
+    "topics": [
+      {
+        "symptom_id": 11,
+        "topic_id": 6,
+        "frequency": "occasional",
+        "mechanism_explanation": "Two routes: neuroinflammation/kynurenine-quinolinic acid (biological) and chronic illness + medical invalidation (psychosocial)."
+      }
+    ],
+    "sources": [
+      "T6-S001",
+      "T6-S004",
+      "T6-S006"
+    ]
+  },
+  {
+    "symptom_id": 9,
+    "name": "Drenching night sweats and chills",
+    "body_system": "constitutional",
+    "description": "Recurrent sweats, chills, and fever waves.",
+    "topics": [
+      {
+        "symptom_id": 9,
+        "topic_id": 5,
+        "frequency": "common",
+        "mechanism_explanation": "Characteristic of babesiosis co-infection; malaria-like protozoal illness."
+      },
+      {
+        "symptom_id": 9,
+        "topic_id": 6,
+        "frequency": "occasional",
+        "mechanism_explanation": "Severe co-infection phases coincide with worst mental-health periods."
+      }
+    ],
+    "sources": [
+      "T5-S001",
+      "T6-S007"
+    ]
+  },
+  {
+    "symptom_id": 10,
+    "name": "Fatigue",
+    "body_system": "constitutional",
+    "description": "Profound, persistent fatigue across tick-borne illness and co-infection.",
+    "topics": [
+      {
+        "symptom_id": 10,
+        "topic_id": 5,
+        "frequency": "common",
+        "mechanism_explanation": "Amplified by co-infection severity and duration."
+      },
+      {
+        "symptom_id": 10,
+        "topic_id": 6,
+        "frequency": "common",
+        "mechanism_explanation": "Chronic-illness burden contributing to suicide risk load."
+      }
+    ],
+    "sources": [
+      "T5-S001",
+      "T6-S006"
+    ]
+  },
+  {
+    "symptom_id": 3,
+    "name": "Formication (crawling/biting skin sensation)",
+    "body_system": "neurological",
+    "description": "Sensation of insects crawling on or under the skin; a real somatosensory experience regardless of cause.",
+    "topics": [
+      {
+        "symptom_id": 3,
+        "topic_id": 2,
+        "frequency": "hallmark",
+        "mechanism_explanation": "Central tactile misperception; framed by mainstream as delusional infestation, by minority as borrelial dermatitis."
+      },
+      {
+        "symptom_id": 3,
+        "topic_id": 3,
+        "frequency": "common",
+        "mechanism_explanation": "Dopaminergic excess from stimulants producing tactile hallucinosis."
+      }
+    ],
+    "sources": [
+      "T2-S002",
+      "T2-S006",
+      "T3-S001",
+      "T3-S003"
+    ]
+  },
+  {
+    "symptom_id": 1,
+    "name": "Knee swelling / large-joint effusion",
+    "body_system": "musculoskeletal",
+    "description": "Intermittent or persistent swelling of large joints (knee predominant), often with effusion disproportionate to pain.",
+    "topics": [
+      {
+        "symptom_id": 1,
+        "topic_id": 1,
+        "frequency": "hallmark",
+        "mechanism_explanation": "Spirochetal synovitis then post-infectious autoimmune synovitis; knee involved in ~90% of Lyme arthritis."
+      }
+    ],
+    "sources": [
+      "T1-S002",
+      "T1-S017"
+    ]
+  },
+  {
+    "symptom_id": 2,
+    "name": "Migratory joint pain",
+    "body_system": "musculoskeletal",
+    "description": "Pain that moves between joints early in disseminated infection before localizing.",
+    "topics": [
+      {
+        "symptom_id": 2,
+        "topic_id": 1,
+        "frequency": "common",
+        "mechanism_explanation": "Hematogenous dissemination of spirochetes and systemic inflammatory response."
+      }
+    ],
+    "sources": [
+      "T1-S013"
+    ]
+  },
+  {
+    "symptom_id": 6,
+    "name": "Obsessions and compulsions",
+    "body_system": "neuropsychiatric",
+    "description": "Intrusive thoughts and compulsive behaviors; new-onset or worsened.",
+    "topics": [
+      {
+        "symptom_id": 6,
+        "topic_id": 4,
+        "frequency": "occasional",
+        "mechanism_explanation": "Proposed infection-triggered autoimmune basal-ganglia dysfunction (PANDAS/PANS template); causation in Lyme speculative."
+      }
+    ],
+    "sources": [
+      "T4-S004",
+      "T4-S005"
+    ]
+  },
+  {
+    "symptom_id": 15,
+    "name": "Recurrent infections / viral reactivation",
+    "body_system": "immunologic",
+    "description": "Frequent infections, shingles, EBV/CMV reactivation attributed to weakened immunity.",
+    "topics": [
+      {
+        "symptom_id": 15,
+        "topic_id": 8,
+        "frequency": "common",
+        "mechanism_explanation": "Borrelia suppresses long-lived humoral immunity via defective germinal centers."
+      }
+    ],
+    "sources": [
+      "T8-S002",
+      "T8-S003"
+    ]
+  },
+  {
+    "symptom_id": 4,
+    "name": "Skin fibers / filaments at lesions",
+    "body_system": "dermatological",
+    "description": "Colored fibers seen at, under, or projecting from non-healing skin lesions.",
+    "topics": [
+      {
+        "symptom_id": 4,
+        "topic_id": 2,
+        "frequency": "hallmark",
+        "mechanism_explanation": "Disputed: textile cellulose (CDC) vs endogenous keratin/collagen (minority)."
+      }
+    ],
+    "sources": [
+      "T2-S001",
+      "T2-S006"
+    ]
+  },
+  {
+    "symptom_id": 12,
+    "name": "Uncharacteristic rage / emotional lability",
+    "body_system": "neuropsychiatric",
+    "description": "Sudden mood/behavior change experienced as out of character.",
+    "topics": [
+      {
+        "symptom_id": 12,
+        "topic_id": 6,
+        "frequency": "occasional",
+        "mechanism_explanation": "Proposed neuroinflammatory effect; behavioral/aggression claims are speculative."
+      }
+    ],
+    "sources": [
+      "T6-S001",
+      "T6-S002"
+    ]
+  }
+]

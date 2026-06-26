@@ -1,0 +1,660 @@
+[
+  {
+    "excerpt_id": "T1-F001",
+    "topic_id": 1,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2019-2024",
+    "paraphrased_content": "Posters describe early migratory joint pain (wrists/ankles/shoulders) that later settles into one or both knees with marked swelling and stiffness disproportionate to pain.",
+    "pattern_tag": "knee-dominant-large-joint-swelling",
+    "source_links": [
+      {
+        "source_id": "T1-S002",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T1-S013",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T1-F002",
+    "topic_id": 1,
+    "platform": "r/lymedisease",
+    "thread_url": "https://www.reddit.com/r/lymedisease/",
+    "approximate_date": "2018-2024",
+    "paraphrased_content": "Recurring accounts of knee swelling that does not fully resolve or returns after one or two antibiotic courses; posters typically read this as ongoing infection and seek more antibiotics.",
+    "pattern_tag": "refractory-arthritis-persistent-infection-interpretation",
+    "source_links": [
+      {
+        "source_id": "T1-S001",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T1-F003",
+    "topic_id": 1,
+    "platform": "HealingWell Lyme forum",
+    "thread_url": "https://www.healingwell.com/community/default.aspx?f=30",
+    "approximate_date": "2010-2020",
+    "paraphrased_content": "Occasional reports that intra-articular steroid injection or arthroscopic synovectomy resolved a knee that prolonged antibiotics had not, often expressed with surprise.",
+    "pattern_tag": "synovectomy-steroid-relief",
+    "source_links": [
+      {
+        "source_id": "T1-S001",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T1-S017",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T1-S010",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T1-F004",
+    "topic_id": 1,
+    "platform": "LymeNet Flash",
+    "thread_url": "http://flash.lymenet.org/",
+    "approximate_date": "2005-2018",
+    "paraphrased_content": "Reports of transient worsening of joint and systemic symptoms after starting antibiotics, labeled a Herxheimer reaction and interpreted as proof of active infection.",
+    "pattern_tag": "herx-as-infection-proof",
+    "source_links": []
+  },
+  {
+    "excerpt_id": "T1-F005",
+    "topic_id": 1,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2019-2024",
+    "paraphrased_content": "A subset insist on Lyme arthritis despite negative two-tier serology, pursuing specialty labs for confirmation.",
+    "pattern_tag": "seronegative-self-identification",
+    "source_links": [
+      {
+        "source_id": "T1-S001",
+        "link_type": "contradicts"
+      },
+      {
+        "source_id": "T1-S002",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T2-F001",
+    "topic_id": 2,
+    "platform": "r/MorgellonsDisease",
+    "thread_url": "https://www.reddit.com/r/MorgellonsDisease/",
+    "approximate_date": "2018-2024",
+    "paraphrased_content": "Members describe and photograph colored fibers/filaments at or under non-healing lesions, treating their apparent emergence from skin as proof of an organic disease.",
+    "pattern_tag": "fibers-emerging-from-skin",
+    "source_links": [
+      {
+        "source_id": "T2-S006",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T2-S001",
+        "link_type": "contradicts"
+      },
+      {
+        "source_id": "T2-S003",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T2-F002",
+    "topic_id": 2,
+    "platform": "r/MorgellonsDisease",
+    "thread_url": "https://www.reddit.com/r/MorgellonsDisease/",
+    "approximate_date": "2016-2024",
+    "paraphrased_content": "Persistent crawling/biting/stinging sensations under the skin, often worse at night, driving scratching and lesion formation.",
+    "pattern_tag": "formication",
+    "source_links": [
+      {
+        "source_id": "T2-S002",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T2-F003",
+    "topic_id": 2,
+    "platform": "Charles E. Holman Morgellons Disease Foundation community",
+    "thread_url": "https://thecehf.org/",
+    "approximate_date": "2010-2024",
+    "paraphrased_content": "Repeated accounts of being diagnosed with delusional parasitosis, offered antipsychotics, or refused testing, followed by a pivot to Lyme-literate or integrative practitioners.",
+    "pattern_tag": "labeled-delusional-leaves-mainstream-care",
+    "source_links": [
+      {
+        "source_id": "T2-S002",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T2-S007",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T2-F004",
+    "topic_id": 2,
+    "platform": "r/MorgellonsDisease",
+    "thread_url": "https://www.reddit.com/r/MorgellonsDisease/",
+    "approximate_date": "2015-2024",
+    "paraphrased_content": "Members report positive Lyme tests (often specialty labs) or tick-exposure histories and frame Morgellons as a skin manifestation of chronic Lyme.",
+    "pattern_tag": "co-occurring-lyme-diagnosis",
+    "source_links": [
+      {
+        "source_id": "T2-S008",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T2-F005",
+    "topic_id": 2,
+    "platform": "Charles E. Holman Morgellons Disease Foundation community",
+    "thread_url": "https://thecehf.org/",
+    "approximate_date": "2012-2024",
+    "paraphrased_content": "Mixed, uncontrolled reports: some members describe improvement of skin and systemic symptoms on prolonged antibiotic or antiparasitic courses; others report no benefit or harm.",
+    "pattern_tag": "antibiotic-relief-mixed",
+    "source_links": [
+      {
+        "source_id": "T2-S005",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T2-S011",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T3-F001",
+    "topic_id": 3,
+    "platform": "Bluelight.org",
+    "thread_url": "https://www.bluelight.org/",
+    "approximate_date": "2010-2024",
+    "paraphrased_content": "Stimulant users describe formication ('meth mites'/'coke bugs') and compulsive picking during binges, generally understood as a reversible drug effect that fades with sleep or abstinence.",
+    "pattern_tag": "stimulant-formication-self-aware",
+    "source_links": [
+      {
+        "source_id": "T3-S001",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T3-S002",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T3-S003",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T3-F002",
+    "topic_id": 3,
+    "platform": "r/MorgellonsDisease",
+    "thread_url": "https://www.reddit.com/r/MorgellonsDisease/",
+    "approximate_date": "2016-2024",
+    "paraphrased_content": "Identical crawling/biting sensations and skin-picking attributed to Borrelia/parasites, with stimulant use rarely mentioned.",
+    "pattern_tag": "same-symptom-infection-attribution",
+    "source_links": [
+      {
+        "source_id": "T3-S002",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T3-S004",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T3-F003",
+    "topic_id": 3,
+    "platform": "r/StopSpeeding",
+    "thread_url": "https://www.reddit.com/r/StopSpeeding/",
+    "approximate_date": "2018-2024",
+    "paraphrased_content": "Recovery-forum posters report formication and infestation feelings resolving within days to weeks of stimulant abstinence, sometimes to their surprise.",
+    "pattern_tag": "resolution-after-abstinence",
+    "source_links": [
+      {
+        "source_id": "T3-S001",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T3-S004",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T3-F004",
+    "topic_id": 3,
+    "platform": "r/AdderallAddiction",
+    "thread_url": "https://www.reddit.com/r/AdderallAddiction/",
+    "approximate_date": "2018-2024",
+    "paraphrased_content": "Some prescribed-amphetamine users describe mild skin-crawling at higher doses or with sleep deprivation, resolving with dose reduction.",
+    "pattern_tag": "prescription-stimulant-dose-formication",
+    "source_links": [
+      {
+        "source_id": "T3-S003",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T4-F001",
+    "topic_id": 4,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2019-2024",
+    "paraphrased_content": "Posters describe onset or worsening of intrusive thoughts, contamination fears, and checking alongside cognitive fog during Lyme illness, sometimes easing as they recover.",
+    "pattern_tag": "ocd-onset-during-lyme",
+    "source_links": [
+      {
+        "source_id": "T4-S001",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T4-S004",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T4-F002",
+    "topic_id": 4,
+    "platform": "PANS/PANDAS parent communities",
+    "thread_url": "https://www.reddit.com/r/PANS/",
+    "approximate_date": "2016-2024",
+    "paraphrased_content": "Parents describe sudden dramatic OCD/tic onset after infection (strep, sometimes tick exposure), with food restriction, separation anxiety, and rage.",
+    "pattern_tag": "abrupt-onset-pans-like-ocd",
+    "source_links": [
+      {
+        "source_id": "T4-S005",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T4-F003",
+    "topic_id": 4,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2018-2024",
+    "paraphrased_content": "Mixed reports that OCD symptoms eased on antibiotics for Lyme, or did not change or worsened; frequently co-occurring with SSRIs or therapy.",
+    "pattern_tag": "ocd-antibiotic-response-mixed",
+    "source_links": [
+      {
+        "source_id": "T4-S008",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T4-S007",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T4-F004",
+    "topic_id": 4,
+    "platform": "r/OCD",
+    "thread_url": "https://www.reddit.com/r/OCD/",
+    "approximate_date": "2019-2024",
+    "paraphrased_content": "A loop where Lyme/Morgellons fears become the content of OCD: compulsive symptom-checking, reassurance-seeking, and lab-test collecting.",
+    "pattern_tag": "illness-as-ocd-content",
+    "source_links": []
+  },
+  {
+    "excerpt_id": "T5-F001",
+    "topic_id": 5,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2017-2024",
+    "paraphrased_content": "Posters describe air hunger, drenching night sweats, and waves of chills, and learn from communities that these point to Babesia; many push for Babesia testing.",
+    "pattern_tag": "babesia-air-hunger-sweats",
+    "source_links": [
+      {
+        "source_id": "T5-S001",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T5-S004",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T5-F002",
+    "topic_id": 5,
+    "platform": "ProHealth Lyme forums",
+    "thread_url": "https://www.prohealth.com/forums",
+    "approximate_date": "2010-2022",
+    "paraphrased_content": "Accounts of stalled recovery on Lyme antibiotics that improved only after adding antiparasitic therapy (e.g., atovaquone/azithromycin) for Babesia.",
+    "pattern_tag": "doxy-failure-resolved-by-babesia-treatment",
+    "source_links": [
+      {
+        "source_id": "T5-S001",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T5-F003",
+    "topic_id": 5,
+    "platform": "LymeNet Flash",
+    "thread_url": "http://flash.lymenet.org/",
+    "approximate_date": "2008-2022",
+    "paraphrased_content": "Members describe simultaneous treatment for a long list of co-infections (Babesia, Bartonella, Mycoplasma, viruses), citing the MSIDS model and combination protocols.",
+    "pattern_tag": "msids-multiple-coinfections",
+    "source_links": [
+      {
+        "source_id": "T5-S006",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T5-F004",
+    "topic_id": 5,
+    "platform": "r/Lyme and alternative-health forums",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2015-2024",
+    "paraphrased_content": "Use of ivermectin, antimalarials, and herbal 'parasite protocols,' with reports and photos of passing 'parasites'/'rope worms.'",
+    "pattern_tag": "empiric-antiparasitic-cleanses",
+    "source_links": [
+      {
+        "source_id": "T5-S007",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T6-F001",
+    "topic_id": 6,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2018-2024",
+    "paraphrased_content": "A dominant theme of hopelessness driven by not being believed: years of negative tests, dismissive clinicians, and lost work/relationships described as central to the darkest periods.",
+    "pattern_tag": "invalidation-despair",
+    "source_links": [
+      {
+        "source_id": "T6-S006",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T6-S001",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T6-F002",
+    "topic_id": 6,
+    "platform": "r/lymedisease",
+    "thread_url": "https://www.reddit.com/r/lymedisease/",
+    "approximate_date": "2018-2024",
+    "paraphrased_content": "Members describe sudden uncharacteristic mood collapse or intrusive dark thoughts that feel alien to their baseline self, attributed to infection/inflammation.",
+    "pattern_tag": "alien-to-baseline-mood-change",
+    "source_links": [
+      {
+        "source_id": "T6-S004",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T6-S001",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T6-F003",
+    "topic_id": 6,
+    "platform": "ProHealth Lyme forums",
+    "thread_url": "https://www.prohealth.com/forums",
+    "approximate_date": "2012-2022",
+    "paraphrased_content": "Reports that the lowest mental-health points coincided with the most severe physical phases (often attributed to Babesia), improving as physical illness improved.",
+    "pattern_tag": "mood-tracks-coinfection-severity",
+    "source_links": [
+      {
+        "source_id": "T6-S007",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T6-S006",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T6-F004",
+    "topic_id": 6,
+    "platform": "Phoenix Rising",
+    "thread_url": "https://forums.phoenixrising.me/",
+    "approximate_date": "2012-2024",
+    "paraphrased_content": "Many members credit peer communities with reducing isolation and providing hope and validation — a recurring protective counter-theme.",
+    "pattern_tag": "community-protective-factor",
+    "source_links": [
+      {
+        "source_id": "T6-S006",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T7-F001",
+    "topic_id": 7,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2017-2024",
+    "paraphrased_content": "Members report an unexpected positive treponemal/FTA-Abs test with no syphilis risk, causing alarm and partner stress, ultimately attributed to Lyme cross-reactivity.",
+    "pattern_tag": "false-positive-syphilis-from-lyme",
+    "source_links": [
+      {
+        "source_id": "T7-S001",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T7-S002",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T7-S003",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T7-F002",
+    "topic_id": 7,
+    "platform": "LymeNet Flash",
+    "thread_url": "http://flash.lymenet.org/",
+    "approximate_date": "2008-2022",
+    "paraphrased_content": "Members invoke the syphilis analogy to argue Lyme needs long aggressive antibiotics like neurosyphilis, citing spirochetal persistence.",
+    "pattern_tag": "syphilis-analogy-treatment-advocacy",
+    "source_links": [
+      {
+        "source_id": "T7-S004",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T7-S005",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T7-F003",
+    "topic_id": 7,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2018-2024",
+    "paraphrased_content": "Immunocompromised members describe atypical Lyme presentations and discordant test results, with difficulty obtaining a diagnosis.",
+    "pattern_tag": "atypical-lyme-immunocompromised",
+    "source_links": [
+      {
+        "source_id": "T7-S006",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T7-F004",
+    "topic_id": 7,
+    "platform": "conspiracy-adjacent forums",
+    "thread_url": "https://www.reddit.com/r/conspiracy/",
+    "approximate_date": "2015-2024",
+    "paraphrased_content": "A minority invoke framings linking Lyme, HIV, and syphilis as engineered, often cross-posting bioweapon material.",
+    "pattern_tag": "engineered-triad-conspiracy",
+    "source_links": []
+  },
+  {
+    "excerpt_id": "T8-F001",
+    "topic_id": 8,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2012-2024",
+    "paraphrased_content": "Members track their CD57 count as a measure of chronic Lyme severity and treatment progress, sharing values and reading rises as improvement.",
+    "pattern_tag": "cd57-as-severity-tracker",
+    "source_links": [
+      {
+        "source_id": "T8-S006",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T8-S001",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T8-F002",
+    "topic_id": 8,
+    "platform": "Phoenix Rising",
+    "thread_url": "https://forums.phoenixrising.me/",
+    "approximate_date": "2012-2024",
+    "paraphrased_content": "Reports of recurrent colds, shingles, and EBV/CMV reactivation attributed to a chronic-Lyme 'weak immune system.'",
+    "pattern_tag": "reactivated-viruses-immune-suppression",
+    "source_links": [
+      {
+        "source_id": "T8-S002",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T8-S003",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T8-F003",
+    "topic_id": 8,
+    "platform": "r/lymedisease",
+    "thread_url": "https://www.reddit.com/r/lymedisease/",
+    "approximate_date": "2018-2024",
+    "paraphrased_content": "Members post CBC results (abnormal lymphocytes/atypical cells) and crowd-source interpretation, sometimes fearing lymphoma or immunodeficiency.",
+    "pattern_tag": "cbc-anxiety-lymphoma-fear",
+    "source_links": [
+      {
+        "source_id": "T8-S004",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T8-S005",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T8-F004",
+    "topic_id": 8,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2017-2024",
+    "paraphrased_content": "Members describe alarm over cross-reactive positive treponemal or (rarely) HIV screening tests later attributed to tick-borne infection.",
+    "pattern_tag": "cross-reactive-test-anxiety",
+    "source_links": [
+      {
+        "source_id": "T8-S008",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T9-F001",
+    "topic_id": 9,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2019-2024",
+    "paraphrased_content": "A surge of posts after Newby's 'Bitten' cite Burgdorfer's bioweapon work as proof the epidemic was engineered or released.",
+    "pattern_tag": "bitten-driven-escape-belief",
+    "source_links": [
+      {
+        "source_id": "T9-S003",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T9-S001",
+        "link_type": "contradicts"
+      },
+      {
+        "source_id": "T9-S002",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T9-F002",
+    "topic_id": 9,
+    "platform": "conspiracy-adjacent forums",
+    "thread_url": "https://www.reddit.com/r/conspiracy/",
+    "approximate_date": "2010-2024",
+    "paraphrased_content": "Repeated invocation of Plum Island's nearness to Lyme, CT and its secrecy as self-evident proof of origin.",
+    "pattern_tag": "plum-island-proximity",
+    "source_links": [
+      {
+        "source_id": "T9-S007",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T9-S001",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T9-F003",
+    "topic_id": 9,
+    "platform": "FOIA / archive forums",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2015-2024",
+    "paraphrased_content": "Users post declassified documents and archival records, occasionally surfacing genuinely obscure primary sources worth verifying.",
+    "pattern_tag": "foia-document-surfacing",
+    "source_links": [
+      {
+        "source_id": "T9-S004",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T9-F004",
+    "topic_id": 9,
+    "platform": "LymeNet Flash",
+    "thread_url": "http://flash.lymenet.org/",
+    "approximate_date": "2008-2024",
+    "paraphrased_content": "Linking the IDSA/ILADS treatment controversy to an alleged government cover-up of a bioweapon origin, forming a grand-unifying narrative.",
+    "pattern_tag": "cover-up-grand-narrative",
+    "source_links": []
+  }
+]

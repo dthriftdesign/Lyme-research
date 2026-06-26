@@ -1,0 +1,3290 @@
+{
+  "topics": [
+    {
+      "topic_id": 1,
+      "slug": "lyme-arthritis",
+      "title": "Lyme and arthritis",
+      "summary": "The most common late manifestation of Lyme disease. Centers on the two-phase model: antibiotic-responsive infectious synovitis vs. antibiotic-refractory, post-infectious autoimmunity (identified autoantigens ECGF, Annexin A2), set against the minority persistence hypothesis.",
+      "created_at": "2026-06-26 03:46:48"
+    },
+    {
+      "topic_id": 2,
+      "slug": "lyme-morgellons",
+      "title": "Lyme and Morgellons",
+      "summary": "A contested condition framed by mainstream medicine as delusional infestation (CDC study: textile-cellulose fibers) versus the minority 'filamentous borrelial dermatitis' hypothesis (Middelveen & Stricker: endogenous keratin/collagen filaments). Hinges on one unreplicated material-science fact.",
+      "created_at": "2026-06-26 03:46:48"
+    },
+    {
+      "topic_id": 3,
+      "slug": "lyme-morgellons-amphetamines",
+      "title": "Lyme, Morgellons, and amphetamines",
+      "summary": "Stimulant-induced formication / delusional infestation ('meth mites') as the primary differential and likely subgroup explanation for Morgellons, with harm-reduction framing and a striking attribution gap between drug and infection communities for an identical symptom.",
+      "created_at": "2026-06-26 03:46:48"
+    },
+    {
+      "topic_id": 4,
+      "slug": "lyme-ocd",
+      "title": "Lyme and OCD",
+      "summary": "Neuropsychiatric Lyme and whether Borrelia can trigger OCD via the infection-induced autoimmune basal-ganglia mechanism established for streptococcus (PANDAS/PANS). Mechanism mainstream; Borrelia-specific causation speculative; directionality confound central.",
+      "created_at": "2026-06-26 03:46:48"
+    },
+    {
+      "topic_id": 5,
+      "slug": "lyme-parasitic",
+      "title": "Lyme and parasitic infections",
+      "summary": "Mainstream Babesia co-infection (more severe, longer illness; often the real cause of 'treatment-resistant Lyme') cleanly separated from the minority MSIDS multi-co-infection model and fringe novel-parasite / 'rope worm' claims. Diagnostic validity is the fault line.",
+      "created_at": "2026-06-26 03:46:48"
+    },
+    {
+      "topic_id": 6,
+      "slug": "lyme-parasitic-suicide",
+      "title": "Lyme, parasitic co-infection, and suicide",
+      "summary": "A public-health question: does tick-borne infection elevate suicide risk above the chronic-illness baseline? Mechanism (inflammation/kynurenine/quinolinic acid) is mainstream; Bransfield's infection-specific magnitude is minority-research. Two additive routes: biological and psychosocial (invalidation).",
+      "created_at": "2026-06-26 03:46:48"
+    },
+    {
+      "topic_id": 7,
+      "slug": "lyme-hiv-syphilis",
+      "title": "Lyme, HIV, and syphilis",
+      "summary": "Spirochetal homology and the 'great imitator' parallel, Borrelia-Treponema serologic cross-reactivity (false-positive syphilis tests), and HIV effects on Lyme diagnosis/course. The syphilis analogy is chronic-Lyme advocacy's rhetorical backbone.",
+      "created_at": "2026-06-26 03:46:48"
+    },
+    {
+      "topic_id": 8,
+      "slug": "lyme-hiv-syphilis-wbc",
+      "title": "Lyme, HIV, syphilis, and white blood cell disruption",
+      "summary": "How each pathogen perturbs leukocytes: Borrelia's humoral suppression and defective germinal centers, Borrelia-driven cutaneous B-cell lymphoma (regresses on antibiotics), HIV CD4 depletion. The minority CD57 biomarker is unvalidated; immune disruption is the project's mechanistic spine.",
+      "created_at": "2026-06-26 03:46:48"
+    },
+    {
+      "topic_id": 9,
+      "slug": "lyme-bioweapon",
+      "title": "Lyme as a bioweapon",
+      "summary": "Separates documented history (US Cold War tick-weaponization research; Burgdorfer's classified work; 2019 DoD-IG amendment) from the speculative 'escape' thesis. Ancient-DNA evidence (Otzi, 15-My amber) refutes an engineered organism; ecology explains the epidemic.",
+      "created_at": "2026-06-26 03:46:48"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "T1-S001",
+      "topic_id": 1,
+      "type": "guideline",
+      "consensus_status": "mainstream",
+      "title": "Clinical Practice Guidelines by the IDSA, AAN, and ACR: 2020 Guidelines for the Prevention, Diagnosis and Treatment of Lyme Disease",
+      "authors": [
+        "Lantos PM",
+        "Rumbaugh J",
+        "Bockenstedt LK",
+        "Falck-Ytter YT",
+        "Aguero-Rosenfeld ME",
+        "Auwaerter PG",
+        "et al."
+      ],
+      "year": 2021,
+      "journal_or_publisher": "Clinical Infectious Diseases",
+      "doi": "10.1093/cid/ciaa1215",
+      "pmid": "33417672",
+      "url": "https://academic.oup.com/cid/article/72/1/e1/6010652",
+      "key_findings": "Recommends 28-day oral antibiotics for Lyme arthritis, IV ceftriaxone or a second oral course for partial responders, and DMARDs/synovectomy (not more antibiotics) for antibiotic-refractory arthritis, which it frames as post-infectious.",
+      "relevance_notes": "The governing mainstream treatment standard for Lyme arthritis."
+    },
+    {
+      "source_id": "T1-S002",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Diagnosis and Treatment of Lyme Arthritis",
+      "authors": [
+        "Arvikar SL",
+        "Steere AC"
+      ],
+      "year": 2015,
+      "journal_or_publisher": "Infectious Disease Clinics of North America",
+      "doi": "10.1016/j.idc.2015.02.004",
+      "pmid": "25999227",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25999227/",
+      "key_findings": "Reviews clinical picture (knee-predominant large-joint swelling, strong IgG seropositivity), diagnostics, and the antibiotic-responsive vs antibiotic-refractory distinction.",
+      "relevance_notes": "Authoritative mainstream clinical review of the topic."
+    },
+    {
+      "source_id": "T1-S003",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Antibiotic-refractory Lyme arthritis is associated with HLA-DR molecules that bind a Borrelia burgdorferi peptide",
+      "authors": [
+        "Steere AC",
+        "Klitz W",
+        "Drouin EE",
+        "Falk BA",
+        "Kwok WW",
+        "Nepom GT",
+        "Baxter-Lowe LA"
+      ],
+      "year": 2006,
+      "journal_or_publisher": "Journal of Experimental Medicine",
+      "doi": "10.1084/jem.20052471",
+      "pmid": "16585267",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16585267/",
+      "key_findings": "~79% of antibiotic-refractory patients carry an OspA-peptide-binding HLA-DR allele vs ~46% of responsive patients, implicating HLA-restricted autoimmunity in refractory disease.",
+      "relevance_notes": "Genetic-susceptibility cornerstone of the infection-induced-autoimmunity model."
+    },
+    {
+      "source_id": "T1-S004",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "A novel human autoantigen, endothelial cell growth factor, is a target of T and B cell responses in patients with Lyme disease",
+      "authors": [
+        "Drouin EE",
+        "Seward RJ",
+        "Strle K",
+        "McHugh G",
+        "Katchar K",
+        "Londono D",
+        "et al.",
+        "Steere AC"
+      ],
+      "year": 2013,
+      "journal_or_publisher": "Arthritis & Rheumatism",
+      "doi": "10.1002/art.37732",
+      "pmid": "23044924",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23044924/",
+      "key_findings": "Identifies endothelial cell growth factor (ECGF) as the first human autoantigen targeted by T and B cells in Lyme disease, especially antibiotic-refractory arthritis.",
+      "relevance_notes": "First molecular evidence of autoimmunity in human Lyme arthritis."
+    },
+    {
+      "source_id": "T1-S005",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Antibodies to Endothelial Cell Growth Factor and Obliterative Microvascular Lesions in the Synovium of Patients With Antibiotic-Refractory Lyme Arthritis",
+      "authors": [
+        "Londono D",
+        "Cadavid D",
+        "Drouin EE",
+        "Strle K",
+        "McHugh G",
+        "Aversa JM",
+        "Steere AC"
+      ],
+      "year": 2014,
+      "journal_or_publisher": "Arthritis & Rheumatology",
+      "doi": "10.1002/art.38618",
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4211115/",
+      "key_findings": "Anti-ECGF antibody responses correlate with obliterative microvascular lesions in refractory synovium, linking the autoimmune response to vascular pathology.",
+      "relevance_notes": "Connects autoantigen response to histologic damage."
+    },
+    {
+      "source_id": "T1-S006",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Annexin A2 is a target of autoimmune T and B cell responses associated with synovial fibroblast proliferation in patients with antibiotic-refractory Lyme arthritis",
+      "authors": [
+        "Pianta A",
+        "Drouin EE",
+        "Crowley JT",
+        "Arvikar S",
+        "Strle K",
+        "Costello CE",
+        "Steere AC"
+      ],
+      "year": 2015,
+      "journal_or_publisher": "Clinical Immunology",
+      "doi": "10.1016/j.clim.2015.07.005",
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4582008/",
+      "key_findings": "Annexin A2 is a second identified autoantigen, with responses tied to synovial fibroblast proliferation in refractory arthritis.",
+      "relevance_notes": "Extends the autoantigen panel beyond ECGF."
+    },
+    {
+      "source_id": "T1-S007",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Autoimmunity to synovial extracellular matrix proteins in patients with postinfectious Lyme arthritis",
+      "authors": [
+        "Sulka KB",
+        "Strle K",
+        "Crowley JT",
+        "Lochhead RB",
+        "Arvikar SL",
+        "Steere AC",
+        "et al."
+      ],
+      "year": 2023,
+      "journal_or_publisher": "Journal of Clinical Investigation",
+      "doi": "10.1172/JCI161170",
+      "pmid": null,
+      "url": "https://www.jci.org/articles/view/161170",
+      "key_findings": "Identifies T and B cell autoimmunity to synovial extracellular-matrix proteins (e.g., fibronectin-1, laminin) in postinfectious Lyme arthritis.",
+      "relevance_notes": "Broadens the autoimmune target set and reinforces the post-infectious model."
+    },
+    {
+      "source_id": "T1-S008",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Spirochete antigens persist near cartilage after murine Lyme borreliosis therapy",
+      "authors": [
+        "Bockenstedt LK",
+        "Gonzalez DG",
+        "Haberman AM",
+        "Belperron AA"
+      ],
+      "year": 2012,
+      "journal_or_publisher": "Journal of Clinical Investigation",
+      "doi": "10.1172/JCI58813",
+      "pmid": "22728937",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22728937/",
+      "key_findings": "Intravital microscopy shows B. burgdorferi antigen deposits persisting near cartilage after antibiotics clear live organisms, offering a non-infectious mechanism for refractory arthritis.",
+      "relevance_notes": "Keystone of the 'persistent antigen, not persistent infection' position."
+    },
+    {
+      "source_id": "T1-S009",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Borrelia burgdorferi peptidoglycan is a persistent antigen in patients with Lyme arthritis",
+      "authors": [
+        "Jutras BL",
+        "Lochhead RB",
+        "Kloos ZA",
+        "Biboy J",
+        "Strle K",
+        "Booth CJ",
+        "et al."
+      ],
+      "year": 2019,
+      "journal_or_publisher": "PNAS",
+      "doi": "10.1073/pnas.1904170116",
+      "pmid": null,
+      "url": "https://www.pnas.org/doi/full/10.1073/pnas.1904170116",
+      "key_findings": "Detects B. burgdorferi peptidoglycan in synovial fluid of Lyme arthritis patients; the cell-wall fragment is a slowly-cleared, inflammation-driving retained antigen.",
+      "relevance_notes": "Provides a concrete human antigen explaining post-treatment inflammation."
+    },
+    {
+      "source_id": "T1-S010",
+      "topic_id": 1,
+      "type": "guideline",
+      "consensus_status": "minority-research",
+      "title": "Evidence assessments and guideline recommendations in Lyme disease: the clinical management of known tick bites, erythema migrans rashes and persistent disease",
+      "authors": [
+        "Cameron DJ",
+        "Johnson LB",
+        "Maloney EL"
+      ],
+      "year": 2014,
+      "journal_or_publisher": "Expert Review of Anti-infective Therapy",
+      "doi": "10.1586/14787210.2014.940900",
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4196523/",
+      "key_findings": "ILADS GRADE analysis rates retreatment evidence very low quality and favors individualized care, including optional extended antibiotics with shared decision-making.",
+      "relevance_notes": "Primary minority/ILADS treatment-guideline position."
+    },
+    {
+      "source_id": "T1-S011",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Chronic Lyme Disease: An Evidence-Based Definition by the ILADS Working Group",
+      "authors": [
+        "Shor S",
+        "Green C",
+        "Szantyr B",
+        "Phillips S",
+        "Liegner K",
+        "Burrascano JJ",
+        "et al."
+      ],
+      "year": 2019,
+      "journal_or_publisher": "Antibiotics (Basel)",
+      "doi": "10.3390/antibiotics8040269",
+      "pmid": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6963229/",
+      "key_findings": "Proposes a formal ILADS definition of chronic Lyme disease grounded in persistence claims.",
+      "relevance_notes": "Frames the minority diagnostic category underlying extended-treatment practice."
+    },
+    {
+      "source_id": "T1-S012",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "Lyme arthritis: an epidemic of oligoarticular arthritis in children and adults in three Connecticut communities",
+      "authors": [
+        "Steere AC",
+        "Malawista SE",
+        "Snydman DR",
+        "Shope RE",
+        "Andiman WA",
+        "Ross MR",
+        "Steele FM"
+      ],
+      "year": 1977,
+      "journal_or_publisher": "Arthritis & Rheumatism",
+      "doi": "10.1002/art.1780200102",
+      "pmid": "836338",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/836338/",
+      "key_findings": "Original description of the Lyme, Connecticut arthritis cluster that defined the disease.",
+      "relevance_notes": "Foundational/historical anchor for the entire field."
+    },
+    {
+      "source_id": "T1-S013",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "Lyme disease",
+      "authors": [
+        "Steere AC"
+      ],
+      "year": 2001,
+      "journal_or_publisher": "New England Journal of Medicine",
+      "doi": "10.1056/NEJM200107123450207",
+      "pmid": "11450660",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11450660/",
+      "key_findings": "Classic review establishing the natural history including late arthritis in ~60% of untreated patients.",
+      "relevance_notes": "Canonical clinical reference for natural history."
+    },
+    {
+      "source_id": "T1-S014",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Two controlled trials of antibiotic treatment in patients with persistent symptoms and a history of Lyme disease",
+      "authors": [
+        "Klempner MS",
+        "Hu LT",
+        "Evans J",
+        "Schmid CH",
+        "Johnson GM",
+        "Trevino RP",
+        "et al."
+      ],
+      "year": 2001,
+      "journal_or_publisher": "New England Journal of Medicine",
+      "doi": "10.1056/NEJM200107123450202",
+      "pmid": "11450676",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11450676/",
+      "key_findings": "Randomized trials found no durable benefit of prolonged antibiotics for persistent post-Lyme symptoms.",
+      "relevance_notes": "Key evidence cited by mainstream bodies against extended antibiotics."
+    },
+    {
+      "source_id": "T1-S015",
+      "topic_id": 1,
+      "type": "guideline",
+      "consensus_status": "historical",
+      "title": "The clinical assessment, treatment, and prevention of Lyme disease, human granulocytic anaplasmosis, and babesiosis: IDSA clinical practice guidelines",
+      "authors": [
+        "Wormser GP",
+        "Dattwyler RJ",
+        "Shapiro ED",
+        "Halperin JJ",
+        "Steere AC",
+        "Klempner MS",
+        "et al."
+      ],
+      "year": 2006,
+      "journal_or_publisher": "Clinical Infectious Diseases",
+      "doi": "10.1086/508667",
+      "pmid": "17029130",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17029130/",
+      "key_findings": "Prior IDSA guideline; superseded by the 2020 IDSA/AAN/ACR guideline but historically central to the controversy.",
+      "relevance_notes": "Historical baseline for treatment standards and the ILADS/IDSA dispute."
+    },
+    {
+      "source_id": "T1-S016",
+      "topic_id": 1,
+      "type": "book",
+      "consensus_status": "mainstream",
+      "title": "Borrelia Burgdorferi (StatPearls)",
+      "authors": [
+        "StatPearls Publishing"
+      ],
+      "year": 2024,
+      "journal_or_publisher": "StatPearls / NCBI Bookshelf",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK532894/",
+      "key_findings": "Reference overview of B. burgdorferi microbiology, transmission, and disease including arthritis.",
+      "relevance_notes": "Background reference for the spirochete and clinical features."
+    },
+    {
+      "source_id": "T1-S017",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Lyme arthritis: linking infection, inflammation and autoimmunity",
+      "authors": [
+        "Lochhead RB",
+        "Strle K",
+        "Arvikar SL",
+        "Weis JJ",
+        "Steere AC"
+      ],
+      "year": 2021,
+      "journal_or_publisher": "Nature Reviews Rheumatology",
+      "doi": "10.1038/s41584-021-00648-5",
+      "pmid": "34226730",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34226730/",
+      "key_findings": "Synthesizes the two-phase (infectious then post-infectious autoimmune) model of Lyme arthritis.",
+      "relevance_notes": "Most current mainstream synthesis of pathogenesis."
+    },
+    {
+      "source_id": "T1-S018",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Persistence of Borrelia burgdorferi in Rhesus Macaques following Antibiotic Treatment of Disseminated Infection",
+      "authors": [
+        "Embers ME",
+        "Barthold SW",
+        "Borda JT",
+        "Bowers L",
+        "Doyle L",
+        "Hodzic E",
+        "et al."
+      ],
+      "year": 2012,
+      "journal_or_publisher": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0029914",
+      "pmid": "22253822",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22253822/",
+      "key_findings": "Recovered residual B. burgdorferi by xenodiagnosis/PCR in macaques after antibiotic therapy of disseminated infection.",
+      "relevance_notes": "Primate evidence cited by the persistence camp; organisms appear attenuated/non-cultivable."
+    },
+    {
+      "source_id": "T1-S019",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Persistence of Borrelia burgdorferi following antibiotic treatment in mice",
+      "authors": [
+        "Hodzic E",
+        "Feng S",
+        "Holden K",
+        "Freet KJ",
+        "Barthold SW"
+      ],
+      "year": 2008,
+      "journal_or_publisher": "Antimicrobial Agents and Chemotherapy",
+      "doi": "10.1128/AAC.01050-07",
+      "pmid": "18316520",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18316520/",
+      "key_findings": "Detected antibiotic-tolerant, largely non-cultivable spirochetes persisting in mice by xenodiagnosis and PCR after ceftriaxone.",
+      "relevance_notes": "Murine persistence evidence; interpretation (viable vs residual) is contested."
+    },
+    {
+      "source_id": "T1-S020",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Drug Combinations against Borrelia burgdorferi Persisters In Vitro: Eradication Achieved by Using Daptomycin, Cefoperazone and Doxycycline",
+      "authors": [
+        "Feng J",
+        "Auwaerter PG",
+        "Zhang Y"
+      ],
+      "year": 2015,
+      "journal_or_publisher": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0117207",
+      "pmid": null,
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117207",
+      "key_findings": "Identifies in-vitro persister subpopulations and a three-drug combination that eradicates them in culture.",
+      "relevance_notes": "In-vitro basis for combination/pulse antibiotic proposals; not validated clinically."
+    },
+    {
+      "source_id": "T1-S021",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Characterization of Biofilm Formation by Borrelia burgdorferi In Vitro",
+      "authors": [
+        "Sapi E",
+        "Bastian SL",
+        "Mpoy CM",
+        "Scott S",
+        "Rattelle A",
+        "Pabbati N",
+        "et al."
+      ],
+      "year": 2012,
+      "journal_or_publisher": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0048277",
+      "pmid": "23110225",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23110225/",
+      "key_findings": "Reports B. burgdorferi biofilm formation in vitro with EPS matrix, a recognized antimicrobial-tolerance mechanism.",
+      "relevance_notes": "Microbiology basis for biofilm-persistence claims; downstream clinical claims outrun the data."
+    },
+    {
+      "source_id": "T1-S022",
+      "topic_id": 1,
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "Detection of Borrelia burgdorferi DNA by polymerase chain reaction in synovial fluid from patients with Lyme arthritis",
+      "authors": [
+        "Nocton JJ",
+        "Dressler F",
+        "Rutledge BJ",
+        "Rys PN",
+        "Persing DH",
+        "Steere AC"
+      ],
+      "year": 1994,
+      "journal_or_publisher": "New England Journal of Medicine",
+      "doi": "10.1056/NEJM199401273300401",
+      "pmid": "8272083",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8272083/",
+      "key_findings": "B. burgdorferi DNA detectable in synovial fluid before treatment and generally cleared after; basis for both 'residual DNA' and 'persistence' readings.",
+      "relevance_notes": "The shared data point that both camps cite."
+    },
+    {
+      "source_id": "T2-S001",
+      "topic_id": 2,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Clinical, Epidemiologic, Histopathologic and Molecular Features of an Unexplained Dermopathy",
+      "authors": [
+        "Pearson ML",
+        "Selby JV",
+        "Katz KA",
+        "Cantrell V",
+        "Braden CR",
+        "Parise ME",
+        "et al."
+      ],
+      "year": 2012,
+      "journal_or_publisher": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0029908",
+      "pmid": "22295070",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22295070/",
+      "key_findings": "CDC study of 115 case-patients found no parasites/mycobacteria, fibers predominantly cellulose (cotton origin), and a clinical picture resembling delusional infestation; no infectious or environmental cause identified.",
+      "relevance_notes": "Largest, most rigorous study; backbone of the mainstream position."
+    },
+    {
+      "source_id": "T2-S002",
+      "topic_id": 2,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Delusional Infestation",
+      "authors": [
+        "Freudenmann RW",
+        "Lepping P"
+      ],
+      "year": 2009,
+      "journal_or_publisher": "Clinical Microbiology Reviews",
+      "doi": "10.1128/CMR.00018-09",
+      "pmid": "19822895",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19822895/",
+      "key_findings": "Comprehensive review of delusional infestation: fixed false belief of infestation, formication as a real sensory symptom, specimen sign, and antipsychotic treatment.",
+      "relevance_notes": "Defines the diagnostic category most Morgellons cases are mapped onto."
+    },
+    {
+      "source_id": "T2-S003",
+      "topic_id": 2,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Delusional Infestation, Including Delusions of Parasitosis: Results of Histologic Examination of Skin Biopsy and Patient-Provided Skin Specimens",
+      "authors": [
+        "Hylwa SA",
+        "Bury JE",
+        "Davis MD",
+        "Pittelkow M",
+        "Bostwick JM"
+      ],
+      "year": 2011,
+      "journal_or_publisher": "Archives of Dermatology",
+      "doi": "10.1001/archdermatol.2011.114",
+      "pmid": null,
+      "url": "https://mayoclinic.elsevierpure.com/en/publications/delusional-infestation-including-delusions-of-parasitosis-results/",
+      "key_findings": "Patient-provided specimens consisted of cutaneous debris, environmental detritus, or textile/plant material; no objective evidence of infestation.",
+      "relevance_notes": "Mainstream histologic basis for the textile-fiber interpretation."
+    },
+    {
+      "source_id": "T2-S004",
+      "topic_id": 2,
+      "type": "peer_reviewed",
+      "consensus_status": "fringe",
+      "title": "Exploring the association between Morgellons disease and Lyme disease: identification of Borrelia burgdorferi in Morgellons disease patients",
+      "authors": [
+        "Middelveen MJ",
+        "Bandoski C",
+        "Burke J",
+        "Sapi E",
+        "Filush KR",
+        "Wang Y",
+        "et al.",
+        "Stricker RB"
+      ],
+      "year": 2015,
+      "journal_or_publisher": "BMC Dermatology",
+      "doi": "10.1186/s12895-015-0023-0",
+      "pmid": null,
+      "url": "https://link.springer.com/article/10.1186/s12895-015-0023-0",
+      "key_findings": "Reports detection of B. burgdorferi in Morgellons skin specimens and argues for an association with Lyme disease.",
+      "relevance_notes": "Core minority claim of a borrelial etiology; single-group, contested."
+    },
+    {
+      "source_id": "T2-S005",
+      "topic_id": 2,
+      "type": "peer_reviewed",
+      "consensus_status": "fringe",
+      "title": "Morgellons disease: a filamentous borrelial dermatitis",
+      "authors": [
+        "Middelveen MJ",
+        "Stricker RB"
+      ],
+      "year": 2016,
+      "journal_or_publisher": "International Journal of General Medicine",
+      "doi": "10.2147/IJGM.S116608",
+      "pmid": null,
+      "url": "https://www.tandfonline.com/doi/full/10.2147/IJGM.S116608",
+      "key_findings": "Frames Morgellons as a spirochetal dermatitis analogous to bovine digital dermatitis, with endogenous keratin/collagen filaments.",
+      "relevance_notes": "Most developed statement of the borrelial-dermatitis hypothesis and the bovine analogy."
+    },
+    {
+      "source_id": "T2-S006",
+      "topic_id": 2,
+      "type": "peer_reviewed",
+      "consensus_status": "fringe",
+      "title": "Characterization and evolution of dermal filaments from patients with Morgellons disease",
+      "authors": [
+        "Middelveen MJ",
+        "Mayne PJ",
+        "Kahn DG",
+        "Stricker RB"
+      ],
+      "year": 2013,
+      "journal_or_publisher": "Clinical, Cosmetic and Investigational Dermatology",
+      "doi": "10.2147/CCID.S39017",
+      "pmid": "23326202",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23326202/",
+      "key_findings": "Reports Morgellons filaments are composed of keratin and collagen produced by keratinocytes/fibroblasts, not textile contaminants.",
+      "relevance_notes": "Directly contradicts the cellulose finding; the central empirical dispute."
+    },
+    {
+      "source_id": "T2-S007",
+      "topic_id": 2,
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "History of Morgellons disease: from delusion to definition",
+      "authors": [
+        "Middelveen MJ",
+        "Fesler MC",
+        "Stricker RB"
+      ],
+      "year": 2018,
+      "journal_or_publisher": "Clinical, Cosmetic and Investigational Dermatology",
+      "doi": "10.2147/CCID.S152343",
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5811176/",
+      "key_findings": "Argues Morgellons was prematurely psychiatrized and proposes a case definition for an organic dermopathy.",
+      "relevance_notes": "Minority framing/critique of the delusional-infestation consensus."
+    },
+    {
+      "source_id": "T2-S008",
+      "topic_id": 2,
+      "type": "peer_reviewed",
+      "consensus_status": "fringe",
+      "title": "Morgellons disease: Analysis of a population with clinically confirmed microscopic subcutaneous fibers of unknown etiology",
+      "authors": [
+        "Savely VR",
+        "Stricker RB"
+      ],
+      "year": 2010,
+      "journal_or_publisher": "Clinical, Cosmetic and Investigational Dermatology",
+      "doi": "10.2147/CCID.S9520",
+      "pmid": "21437061",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21437061/",
+      "key_findings": "Characterizes a self-selected Morgellons population reporting high rates of tick exposure, Lyme seropositivity, and systemic symptoms.",
+      "relevance_notes": "Source of the demographic/symptom overlap claim; selection-biased cohort."
+    },
+    {
+      "source_id": "T2-S009",
+      "topic_id": 2,
+      "type": "peer_reviewed",
+      "consensus_status": "fringe",
+      "title": "Association of spirochetal infection with Morgellons disease",
+      "authors": [
+        "Middelveen MJ",
+        "Burugu D",
+        "Poruri A",
+        "Burke J",
+        "Mayne PJ",
+        "Sapi E",
+        "Kahn DG",
+        "Stricker RB"
+      ],
+      "year": 2013,
+      "journal_or_publisher": "F1000Research",
+      "doi": "10.12688/f1000research.2-25.v1",
+      "pmid": "24715950",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24715950/",
+      "key_findings": "Reports spirochetes in Morgellons tissue and proposes a spirochetal etiology.",
+      "relevance_notes": "Additional single-group spirochete-detection claim."
+    },
+    {
+      "source_id": "T2-S010",
+      "topic_id": 2,
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Characterization of Biofilm Formation by Borrelia burgdorferi In Vitro",
+      "authors": [
+        "Sapi E",
+        "Bastian SL",
+        "Mpoy CM",
+        "Scott S",
+        "Rattelle A",
+        "Pabbati N",
+        "et al."
+      ],
+      "year": 2012,
+      "journal_or_publisher": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0048277",
+      "pmid": "23110225",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23110225/",
+      "key_findings": "Reports in-vitro B. burgdorferi biofilm formation, invoked to explain persistence in Morgellons skin.",
+      "relevance_notes": "Microbiology basis for biofilm-persistence claims applied to skin (unvalidated extension)."
+    },
+    {
+      "source_id": "T2-S011",
+      "topic_id": 2,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Morgellons disease: a review on current evidence and the need for consensus, standardized criteria, and future randomized controlled trials",
+      "authors": [
+        "(review authors)"
+      ],
+      "year": 2025,
+      "journal_or_publisher": "Archives of Dermatological Research",
+      "doi": "10.1007/s00403-025-04308-6",
+      "pmid": null,
+      "url": "https://link.springer.com/article/10.1007/s00403-025-04308-6",
+      "key_findings": "Recent review acknowledging heterogeneity, calling for standardized diagnostic criteria and controlled trials; notes lack of evidence for antibiotics.",
+      "relevance_notes": "Shows mainstream concession that the category is heterogeneous and under-studied."
+    },
+    {
+      "source_id": "T3-S001",
+      "topic_id": 3,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Neurologic Manifestations of Chronic Methamphetamine Abuse",
+      "authors": [
+        "Rusyniak DE"
+      ],
+      "year": 2013,
+      "journal_or_publisher": "Psychiatric Clinics of North America",
+      "doi": "10.1016/j.psc.2013.02.005",
+      "pmid": "23931803",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3764482/",
+      "key_findings": "Reviews methamphetamine neurotoxicity and psychosis, including formication ('meth mites') as a frequent complaint in heavy users, driven by dopaminergic dysregulation.",
+      "relevance_notes": "Mainstream basis for stimulant-induced formication and its mechanism."
+    },
+    {
+      "source_id": "T3-S002",
+      "topic_id": 3,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Amphetamine-Induced Delusional Infestation",
+      "authors": [
+        "(case report authors)"
+      ],
+      "year": 2017,
+      "journal_or_publisher": "American Journal of Psychiatry Residents' Journal",
+      "doi": "10.1176/appi.ajp-rj.2017.121204",
+      "pmid": null,
+      "url": "https://psychiatryonline.org/doi/10.1176/appi.ajp-rj.2017.121204",
+      "key_findings": "Case discussion of delusional infestation precipitated by amphetamine use, illustrating the secondary (drug-induced) form.",
+      "relevance_notes": "Directly documents amphetamine as a cause of the Morgellons-like infestation picture."
+    },
+    {
+      "source_id": "T3-S003",
+      "topic_id": 3,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "A Comparison of Methamphetamine-Induced Psychosis and Schizophrenia: A Review of Positive, Negative, and Cognitive Symptomatology",
+      "authors": [
+        "(review authors)"
+      ],
+      "year": 2018,
+      "journal_or_publisher": "Frontiers in Psychiatry",
+      "doi": "10.3389/fpsyt.2018.00491",
+      "pmid": null,
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2018.00491/full",
+      "key_findings": "Methamphetamine-induced psychosis shows disproportionately high tactile and visual hallucinations relative to schizophrenia; prevalence of stimulant psychosis ~26-46% in dependent users.",
+      "relevance_notes": "Epidemiology and the prominence of tactile hallucinations in stimulant psychosis."
+    },
+    {
+      "source_id": "T3-S004",
+      "topic_id": 3,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Delusional Infestation",
+      "authors": [
+        "Freudenmann RW",
+        "Lepping P"
+      ],
+      "year": 2009,
+      "journal_or_publisher": "Clinical Microbiology Reviews",
+      "doi": "10.1128/CMR.00018-09",
+      "pmid": "19822895",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19822895/",
+      "key_findings": "Distinguishes primary from secondary (drug/medical/psychiatric) delusional infestation; cocaine and amphetamines are recognized precipitants; antipsychotics treat it.",
+      "relevance_notes": "Frames stimulant-induced DI as a secondary form and informs management."
+    },
+    {
+      "source_id": "T3-S005",
+      "topic_id": 3,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Clinical, Epidemiologic, Histopathologic and Molecular Features of an Unexplained Dermopathy",
+      "authors": [
+        "Pearson ML",
+        "Selby JV",
+        "Katz KA",
+        "Cantrell V",
+        "Braden CR",
+        "Parise ME",
+        "et al."
+      ],
+      "year": 2012,
+      "journal_or_publisher": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0029908",
+      "pmid": "22295070",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22295070/",
+      "key_findings": "CDC Morgellons study noted detectable drugs in a notable share of the cohort alongside a delusional-infestation-like picture.",
+      "relevance_notes": "The drug-detection signal linking Morgellons cohorts to substance use."
+    },
+    {
+      "source_id": "T3-S006",
+      "topic_id": 3,
+      "type": "peer_reviewed",
+      "consensus_status": "fringe",
+      "title": "Morgellons disease: a filamentous borrelial dermatitis",
+      "authors": [
+        "Middelveen MJ",
+        "Stricker RB"
+      ],
+      "year": 2016,
+      "journal_or_publisher": "International Journal of General Medicine",
+      "doi": "10.2147/IJGM.S116608",
+      "pmid": null,
+      "url": "https://www.tandfonline.com/doi/full/10.2147/IJGM.S116608",
+      "key_findings": "Argues Morgellons is an organic borrelial dermatitis, the competing explanation to stimulant-induced DI.",
+      "relevance_notes": "Minority organic-etiology position that contests drug-attribution of all cases."
+    },
+    {
+      "source_id": "T4-S001",
+      "topic_id": 4,
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "Lyme disease: a neuropsychiatric illness",
+      "authors": [
+        "Fallon BA",
+        "Nields JA"
+      ],
+      "year": 1994,
+      "journal_or_publisher": "American Journal of Psychiatry",
+      "doi": "10.1176/ajp.151.11.1571",
+      "pmid": "7943444",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7943444/",
+      "key_findings": "Foundational review cataloguing the neuropsychiatric manifestations of Lyme disease, including obsessions/compulsions among many psychiatric presentations.",
+      "relevance_notes": "Classic anchor establishing the neuropsychiatric dimension of Lyme."
+    },
+    {
+      "source_id": "T4-S002",
+      "topic_id": 4,
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "Late-stage neuropsychiatric Lyme borreliosis: differential diagnosis and treatment",
+      "authors": [
+        "Fallon BA",
+        "Nields JA",
+        "Burrascano JJ",
+        "Liegner K",
+        "DelBene D",
+        "Liebowitz MR"
+      ],
+      "year": 1995,
+      "journal_or_publisher": "Psychosomatics",
+      "doi": null,
+      "pmid": "7638317",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7638317/",
+      "key_findings": "Reviews late neuropsychiatric Lyme presentations and their differential diagnosis and treatment.",
+      "relevance_notes": "Clinical framing of neuropsychiatric Lyme."
+    },
+    {
+      "source_id": "T4-S003",
+      "topic_id": 4,
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Obsessive-compulsive symptoms in adults with Lyme disease",
+      "authors": [
+        "(study authors)"
+      ],
+      "year": 2018,
+      "journal_or_publisher": "General Hospital Psychiatry",
+      "doi": "10.1016/j.genhosppsych.2017.08.006",
+      "pmid": null,
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0163834317304280",
+      "key_findings": "Reports obsessive-compulsive symptomatology among adults with Lyme disease.",
+      "relevance_notes": "One of few studies addressing OCD symptoms specifically in Lyme patients."
+    },
+    {
+      "source_id": "T4-S004",
+      "topic_id": 4,
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Neuropsychiatric Lyme Borreliosis: An Overview with a Focus on a Specialty Psychiatrist's Clinical Practice",
+      "authors": [
+        "Bransfield RC"
+      ],
+      "year": 2018,
+      "journal_or_publisher": "Healthcare (Basel)",
+      "doi": "10.3390/healthcare6030104",
+      "pmid": "30149626",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30149626/",
+      "key_findings": "Argues tick-borne infection produces a spectrum of neuropsychiatric symptoms (including OCD-spectrum) via psychoimmunologic mechanisms.",
+      "relevance_notes": "Primary minority/neuropsychiatric-Lyme position from a specialty psychiatrist."
+    },
+    {
+      "source_id": "T4-S005",
+      "topic_id": 4,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS): Clinical Description of the First 50 Cases",
+      "authors": [
+        "Swedo SE",
+        "Leonard HL",
+        "Garvey M",
+        "Mittleman B",
+        "Allen AJ",
+        "Perlmutter S",
+        "et al."
+      ],
+      "year": 1998,
+      "journal_or_publisher": "American Journal of Psychiatry",
+      "doi": "10.1176/ajp.155.2.264",
+      "pmid": "9464208",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9464208/",
+      "key_findings": "Defines an infection-triggered autoimmune basal-ganglia syndrome producing acute-onset OCD and tics via molecular mimicry.",
+      "relevance_notes": "The mechanistic template (PANDAS/PANS) that the Lyme-OCD hypothesis borrows."
+    },
+    {
+      "source_id": "T4-S006",
+      "topic_id": 4,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Neuropsychiatric Manifestations and Cognitive Decline in Patients With Long-Standing Lyme Disease: A Scoping Review",
+      "authors": [
+        "(review authors)"
+      ],
+      "year": 2024,
+      "journal_or_publisher": "Cureus / scoping review",
+      "doi": null,
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11095283/",
+      "key_findings": "Scoping review of neuropsychiatric and cognitive findings in long-standing Lyme disease.",
+      "relevance_notes": "Recent synthesis of the broader neuropsychiatric burden."
+    },
+    {
+      "source_id": "T4-S007",
+      "topic_id": 4,
+      "type": "guideline",
+      "consensus_status": "mainstream",
+      "title": "2020 IDSA/AAN/ACR Lyme Disease Guidelines (neurologic Lyme sections)",
+      "authors": [
+        "Lantos PM",
+        "Rumbaugh J",
+        "Bockenstedt LK",
+        "et al."
+      ],
+      "year": 2021,
+      "journal_or_publisher": "Clinical Infectious Diseases",
+      "doi": "10.1093/cid/ciaa1215",
+      "pmid": "33417672",
+      "url": "https://academic.oup.com/cid/article/72/1/e1/6010652",
+      "key_findings": "Defines diagnosis/treatment of neurologic Lyme (neuroborreliosis) and cautions against treating nonspecific symptoms as Lyme without objective evidence.",
+      "relevance_notes": "Mainstream standard limiting antibiotic treatment to documented neuroborreliosis."
+    },
+    {
+      "source_id": "T4-S008",
+      "topic_id": 4,
+      "type": "peer_reviewed",
+      "consensus_status": "fringe",
+      "title": "Case Report: PANDAS and Persistent Lyme Disease With Neuropsychiatric Symptoms: Treatment, Resolution, and Recovery",
+      "authors": [
+        "(case report authors)"
+      ],
+      "year": 2021,
+      "journal_or_publisher": "Frontiers in Psychiatry",
+      "doi": "10.3389/fpsyt.2021.505941",
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7884317/",
+      "key_findings": "Case of a child meeting PANDAS criteria with Lyme serology and neuropsychiatric symptoms (including obsessions/compulsions) reported to improve with treatment.",
+      "relevance_notes": "Representative case-report evidence for the Lyme-triggered-PANS idea; hypothesis-generating only."
+    },
+    {
+      "source_id": "T5-S001",
+      "topic_id": 5,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Concurrent Lyme disease and babesiosis: evidence for increased severity and duration of illness",
+      "authors": [
+        "Krause PJ",
+        "Telford SR 3rd",
+        "Spielman A",
+        "Sikand V",
+        "Ryan R",
+        "Christianson D",
+        "et al."
+      ],
+      "year": 1996,
+      "journal_or_publisher": "JAMA",
+      "doi": "10.1001/jama.1996.03530450047031",
+      "pmid": "8637139",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8637139/",
+      "key_findings": "Co-infected patients had more symptoms and far longer illness (~50% symptomatic >=3 months vs ~4% with Lyme alone).",
+      "relevance_notes": "Landmark evidence that Babesia co-infection worsens and prolongs Lyme illness."
+    },
+    {
+      "source_id": "T5-S002",
+      "topic_id": 5,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Babesia microti-Borrelia burgdorferi Coinfection",
+      "authors": [
+        "(review authors)"
+      ],
+      "year": 2019,
+      "journal_or_publisher": "Pathogens",
+      "doi": "10.3390/pathogens8030117",
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6789475/",
+      "key_findings": "Reviews shared-vector co-transmission; ~20% of Lyme patients report concurrent babesiosis and up to ~25% of babesiosis patients have Lyme in endemic areas.",
+      "relevance_notes": "Synthesis of co-infection epidemiology and biology."
+    },
+    {
+      "source_id": "T5-S003",
+      "topic_id": 5,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Investigating disease severity in an animal model of concurrent babesiosis and Lyme disease",
+      "authors": [
+        "(study authors)"
+      ],
+      "year": 2019,
+      "journal_or_publisher": "International Journal for Parasitology",
+      "doi": "10.1016/j.ijpara.2018.12.006",
+      "pmid": null,
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC6399035",
+      "key_findings": "Animal model shows altered immune responses and increased severity in concurrent Babesia/Borrelia infection.",
+      "relevance_notes": "Mechanistic support for co-infection synergy."
+    },
+    {
+      "source_id": "T5-S004",
+      "topic_id": 5,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Beyond Human Babesiosis: Prevalence and Association of Babesia Coinfection with Mortality in the United States, 2015-2022",
+      "authors": [
+        "(cohort study authors)"
+      ],
+      "year": 2024,
+      "journal_or_publisher": "Open Forum Infectious Diseases",
+      "doi": "10.1093/ofid/ofae504",
+      "pmid": null,
+      "url": "https://academic.oup.com/ofid/article/11/10/ofae504/7798103",
+      "key_findings": "Large retrospective cohort associating Babesia coinfection with worse outcomes including mortality signals.",
+      "relevance_notes": "Recent population-scale evidence on coinfection burden."
+    },
+    {
+      "source_id": "T5-S005",
+      "topic_id": 5,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Coinfection by Ixodes tick-borne pathogens: ecological, epidemiological, and clinical consequences",
+      "authors": [
+        "Diuk-Wasser MA",
+        "Vannier E",
+        "Krause PJ"
+      ],
+      "year": 2016,
+      "journal_or_publisher": "Trends in Parasitology",
+      "doi": "10.1016/j.pt.2015.09.008",
+      "pmid": "26613664",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26613664/",
+      "key_findings": "Reviews ecology and clinical consequences of Ixodes-borne co-infections including Babesia.",
+      "relevance_notes": "Authoritative co-infection ecology/clinical review."
+    },
+    {
+      "source_id": "T5-S006",
+      "topic_id": 5,
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Empirical validation of the Horowitz Multiple Systemic Infectious Disease Syndrome Questionnaire for suspected Lyme disease",
+      "authors": [
+        "Citera M",
+        "Freeman PR",
+        "Horowitz RI"
+      ],
+      "year": 2017,
+      "journal_or_publisher": "International Journal of General Medicine",
+      "doi": "10.2147/IJGM.S140224",
+      "pmid": "28919803",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28919803/",
+      "key_findings": "Validation study of a questionnaire operationalizing the MSIDS multi-co-infection model of chronic Lyme.",
+      "relevance_notes": "Primary minority/MSIDS source; co-infections real, treatment breadth contested."
+    },
+    {
+      "source_id": "T5-S007",
+      "topic_id": 5,
+      "type": "preprint",
+      "consensus_status": "fringe",
+      "title": "Protomyxzoa rheumatica / FL1953 (novel protozoan claim, Fry Laboratories)",
+      "authors": [
+        "Fry SE",
+        "et al."
+      ],
+      "year": 2012,
+      "journal_or_publisher": "Conference presentations / commercial laboratory (no robust peer-reviewed validation)",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/?term=Protomyxzoa+rheumatica",
+      "key_findings": "Claims of a novel protozoan parasite (FL1953 / 'Protomyxzoa rheumatica') in chronic-illness patients, promoted with associated commercial testing and antiparasitic treatment.",
+      "relevance_notes": "Flagged fringe/speculative: the linked PubMed Central search documents the near-absence of independent peer-reviewed validation; commercial conflict of interest. Included to record the claim honestly, not to endorse it."
+    },
+    {
+      "source_id": "T6-S001",
+      "topic_id": 6,
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Suicide and Lyme and associated diseases",
+      "authors": [
+        "Bransfield RC"
+      ],
+      "year": 2017,
+      "journal_or_publisher": "Neuropsychiatric Disease and Treatment",
+      "doi": "10.2147/NDT.S136137",
+      "pmid": "28670127",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5481283/",
+      "key_findings": "Argues infection-driven pro-inflammatory cytokines, inflammatory-metabolic changes, and quinolinic-acid/glutamate alterations increase suicidality, and that similar pathophysiology operates in Lyme and associated diseases.",
+      "relevance_notes": "Primary minority source proposing an infection-specific suicide contribution; mechanism mainstream, magnitude/attribution contested."
+    },
+    {
+      "source_id": "T6-S002",
+      "topic_id": 6,
+      "type": "peer_reviewed",
+      "consensus_status": "speculative",
+      "title": "Suicidal and homicidal tendencies after Lyme disease: an ignored problem",
+      "authors": [
+        "(authors)"
+      ],
+      "year": 2017,
+      "journal_or_publisher": "Neuropsychiatric Disease and Treatment (Dove)",
+      "doi": null,
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5546819/",
+      "key_findings": "Extends the neuropsychiatric-Lyme thesis to suicidal and aggressive/externalizing behavior.",
+      "relevance_notes": "More speculative behavioral extension; flagged to avoid sensationalism, included for completeness."
+    },
+    {
+      "source_id": "T6-S003",
+      "topic_id": 6,
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "Lyme neuroborreliosis presenting with alexithymia and suicide attempts",
+      "authors": [
+        "(case report authors)"
+      ],
+      "year": 2013,
+      "journal_or_publisher": "(case report)",
+      "doi": null,
+      "pmid": "24229748",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24229748/",
+      "key_findings": "Documents a neuroborreliosis case with suicidality that improved with treatment of the infection.",
+      "relevance_notes": "Case-level evidence that active CNS infection can produce reversible suicidality."
+    },
+    {
+      "source_id": "T6-S004",
+      "topic_id": 6,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Role of inflammation in suicide: from mechanisms to treatment",
+      "authors": [
+        "Brundin L",
+        "Bryleva EY",
+        "Thirtamara Rajamani K"
+      ],
+      "year": 2017,
+      "journal_or_publisher": "Neuropsychopharmacology",
+      "doi": "10.1038/npp.2016.116",
+      "pmid": "27582499",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27582499/",
+      "key_findings": "Reviews inflammation and the kynurenine pathway in suicidality, including quinolinic acid as an NMDA agonist/excitotoxin.",
+      "relevance_notes": "Mainstream mechanistic backbone any infection-suicide hypothesis relies on."
+    },
+    {
+      "source_id": "T6-S005",
+      "topic_id": 6,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Connecting inflammation with glutamate agonism in suicidality (CSF quinolinic acid in suicide attempters)",
+      "authors": [
+        "Erhardt S",
+        "Lim CK",
+        "Linderholm KR",
+        "et al."
+      ],
+      "year": 2013,
+      "journal_or_publisher": "Neuropsychopharmacology",
+      "doi": "10.1038/npp.2012.248",
+      "pmid": null,
+      "url": "https://www.nature.com/articles/npp2012248",
+      "key_findings": "Found elevated CSF quinolinic acid in suicide attempters, linking inflammation to glutamatergic excitotoxicity in suicidality.",
+      "relevance_notes": "Direct human evidence for the quinolinic-acid/suicide link invoked by the Lyme hypothesis."
+    },
+    {
+      "source_id": "T6-S006",
+      "topic_id": 6,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Epidemiology of Suicide and the Psychiatric Perspective",
+      "authors": [
+        "Bachmann S"
+      ],
+      "year": 2018,
+      "journal_or_publisher": "International Journal of Environmental Research and Public Health",
+      "doi": "10.3390/ijerph15071425",
+      "pmid": "29986446",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29986446/",
+      "key_findings": "Reviews suicide epidemiology and risk factors, including chronic illness, pain, and psychosocial stressors.",
+      "relevance_notes": "Mainstream basis for the chronic-illness/invalidation suicide-risk pathway."
+    },
+    {
+      "source_id": "T6-S007",
+      "topic_id": 6,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Concurrent Lyme disease and babesiosis: evidence for increased severity and duration of illness",
+      "authors": [
+        "Krause PJ",
+        "Telford SR 3rd",
+        "Spielman A",
+        "et al."
+      ],
+      "year": 1996,
+      "journal_or_publisher": "JAMA",
+      "doi": "10.1001/jama.1996.03530450047031",
+      "pmid": "8637139",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8637139/",
+      "key_findings": "Co-infection increases severity and duration of illness, amplifying chronic-illness burden.",
+      "relevance_notes": "Links the parasitic co-infection element of this topic to elevated illness burden."
+    },
+    {
+      "source_id": "T7-S001",
+      "topic_id": 7,
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "Cross-reactivity in serological tests for Lyme disease and other spirochetal infections",
+      "authors": [
+        "Magnarelli LA",
+        "Anderson JF",
+        "Johnson RC"
+      ],
+      "year": 1987,
+      "journal_or_publisher": "The Journal of Infectious Diseases",
+      "doi": "10.1093/infdis/156.1.183",
+      "pmid": "3298452",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3298452/",
+      "key_findings": "Documents antibody cross-reactivity among Borrelia, Treponema, and other spirochetes in serologic assays.",
+      "relevance_notes": "Foundational evidence for Lyme/syphilis serologic cross-reactivity."
+    },
+    {
+      "source_id": "T7-S002",
+      "topic_id": 7,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Evaluation of the fluorescent treponemal antibody-absorption (FTA-Abs) test specificity",
+      "authors": [
+        "(study authors)"
+      ],
+      "year": 1991,
+      "journal_or_publisher": "(serology study)",
+      "doi": null,
+      "pmid": "1681646",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1681646/",
+      "key_findings": "Lyme borreliosis is an important cause of false-positive FTA-Abs reactions; isolated positive FTA-Abs found in a large fraction of Lyme sera.",
+      "relevance_notes": "Quantifies false-positive syphilis serology caused by Lyme."
+    },
+    {
+      "source_id": "T7-S003",
+      "topic_id": 7,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Antibody Cross-Reactivity in Serodiagnosis of Lyme Disease",
+      "authors": [
+        "(review authors)"
+      ],
+      "year": 2023,
+      "journal_or_publisher": "Antibodies / review",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10594444/",
+      "key_findings": "Reviews cross-reactivity in Lyme serology caused by bacterial (relapsing-fever Borrelia, Treponema) and viral (EBV, CMV) infections.",
+      "relevance_notes": "Modern synthesis of the cross-reactivity problem."
+    },
+    {
+      "source_id": "T7-S004",
+      "topic_id": 7,
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "Borrelia burgdorferi in the nervous system: the new 'great imitator'",
+      "authors": [
+        "Pachner AR"
+      ],
+      "year": 1988,
+      "journal_or_publisher": "Annals of the New York Academy of Sciences",
+      "doi": null,
+      "pmid": "3190104",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3190104/",
+      "key_findings": "Frames neuroborreliosis as the new great imitator by explicit analogy to neurosyphilis.",
+      "relevance_notes": "Origin of the Lyme-as-great-imitator framing central to this topic."
+    },
+    {
+      "source_id": "T7-S005",
+      "topic_id": 7,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Neurosyphilis: The Great Imitator",
+      "authors": [
+        "(review authors)"
+      ],
+      "year": 2023,
+      "journal_or_publisher": "review (PMC)",
+      "doi": null,
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9851570/",
+      "key_findings": "Reviews neurosyphilis as the original great imitator with staged spirochetal CNS disease and psychiatric manifestations.",
+      "relevance_notes": "The syphilis template the Lyme parallel is built on."
+    },
+    {
+      "source_id": "T7-S006",
+      "topic_id": 7,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Atypical Lyme borreliosis in an HIV-infected man",
+      "authors": [
+        "(case report authors)"
+      ],
+      "year": 1997,
+      "journal_or_publisher": "(case report)",
+      "doi": null,
+      "pmid": "9349345",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9349345/",
+      "key_findings": "HIV co-infected Lyme case with persistent erythema migrans, meningoradiculitis, and discordant serology (IFA negative, ELISA/Western blot positive); notes open question whether HIV alters Lyme course like it alters syphilis.",
+      "relevance_notes": "Anchors the HIV-Lyme serology/course intersection."
+    },
+    {
+      "source_id": "T7-S007",
+      "topic_id": 7,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Babesiosis as a cause of false-positive HIV serology",
+      "authors": [
+        "(case report authors)"
+      ],
+      "year": 2018,
+      "journal_or_publisher": "(case report, PMC)",
+      "doi": null,
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6011427/",
+      "key_findings": "Tick-borne babesiosis can produce false-positive HIV serology, illustrating cross-assay reverberation of tick-borne infections.",
+      "relevance_notes": "Connects the parasitic co-infection (Topic 5) to HIV serology confounding."
+    },
+    {
+      "source_id": "T7-S008",
+      "topic_id": 7,
+      "type": "peer_reviewed",
+      "consensus_status": "fringe",
+      "title": "Plaques of Alzheimer's disease originate from cysts of Borrelia burgdorferi, the Lyme disease spirochete",
+      "authors": [
+        "MacDonald AB"
+      ],
+      "year": 2006,
+      "journal_or_publisher": "Medical Hypotheses",
+      "doi": "10.1016/j.mehy.2006.02.035",
+      "pmid": "16675154",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16675154/",
+      "key_findings": "Hypothesizes Borrelia cystic forms contribute to Alzheimer's plaques, modeled on syphilitic general paresis.",
+      "relevance_notes": "Fringe extension of the spirochete-to-dementia template; hypothesis-level, under-replicated."
+    },
+    {
+      "source_id": "T8-S001",
+      "topic_id": 8,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "The Brilliance of Borrelia: Mechanisms of Host Immune Evasion by Lyme Disease-Causing Spirochetes",
+      "authors": [
+        "Tracy KE",
+        "Baumgarth N"
+      ],
+      "year": 2021,
+      "journal_or_publisher": "Pathogens",
+      "doi": "10.3390/pathogens10030281",
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8001052/",
+      "key_findings": "Reviews Borrelia immune-evasion strategies: antigenic variation, complement evasion, lymph-node occupation, dysregulated B-cell proliferation, and humoral suppression.",
+      "relevance_notes": "Overview of how Borrelia perturbs the immune/lymphocyte compartment."
+    },
+    {
+      "source_id": "T8-S002",
+      "topic_id": 8,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Suppression of Long-Lived Humoral Immunity Following Borrelia burgdorferi Infection",
+      "authors": [
+        "Hastey CJ",
+        "Elsner RA",
+        "Barthold SW",
+        "Baumgarth N"
+      ],
+      "year": 2015,
+      "journal_or_publisher": "PLOS Pathogens",
+      "doi": "10.1371/journal.ppat.1004976",
+      "pmid": "26136236",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4489802/",
+      "key_findings": "Borrelia induces abnormal, short-lived germinal centers that fail to generate durable memory B cells/plasma cells, broadly suppressing humoral immunity and leaving hosts susceptible to reinfection.",
+      "relevance_notes": "Key mechanism: Borrelia-induced humoral immune suppression."
+    },
+    {
+      "source_id": "T8-S003",
+      "topic_id": 8,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Suppression of host humoral immunity by Borrelia burgdorferi varies over the course of infection",
+      "authors": [
+        "(study authors)"
+      ],
+      "year": 2024,
+      "journal_or_publisher": "Infection and Immunity",
+      "doi": "10.1128/iai.00018-24",
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11003232/",
+      "key_findings": "Characterizes how Borrelia-induced humoral suppression changes across the infection course.",
+      "relevance_notes": "Recent refinement of the humoral-suppression mechanism."
+    },
+    {
+      "source_id": "T8-S004",
+      "topic_id": 8,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Borrelia burgdorferi-associated primary cutaneous B-cell lymphoma",
+      "authors": [
+        "Cerroni L",
+        "Zochling N",
+        "Putz B",
+        "Kerl H"
+      ],
+      "year": 2000,
+      "journal_or_publisher": "(dermatopathology)",
+      "doi": null,
+      "pmid": "11135050",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11135050/",
+      "key_findings": "Associates primary cutaneous B-cell lymphoma with chronic Borrelia antigenic stimulation of cutaneous lymphoid tissue.",
+      "relevance_notes": "Infection-driven B-cell lymphoproliferation (a defined WBC disorder)."
+    },
+    {
+      "source_id": "T8-S005",
+      "topic_id": 8,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Eradication of Borrelia burgdorferi infection in primary marginal zone B-cell lymphoma of the skin",
+      "authors": [
+        "Roggero E",
+        "Zucca E",
+        "Mainetti C",
+        "Bertoni F",
+        "Valsangiacomo C",
+        "Pedrinis E",
+        "et al."
+      ],
+      "year": 2000,
+      "journal_or_publisher": "Human Pathology",
+      "doi": "10.1016/S0046-8177(00)80233-6",
+      "pmid": "10685647",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10685647/",
+      "key_findings": "Antibiotic eradication of Borrelia accompanied regression of cutaneous marginal-zone lymphoma, supporting a causal antigen-driven role.",
+      "relevance_notes": "Infection->lymphoma->antibiotic-reversal chain, analogous to H. pylori MALT lymphoma."
+    },
+    {
+      "source_id": "T8-S006",
+      "topic_id": 8,
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Decreased CD57 lymphocyte subset in patients with chronic Lyme disease",
+      "authors": [
+        "Stricker RB",
+        "Winger EE"
+      ],
+      "year": 2001,
+      "journal_or_publisher": "Immunology Letters",
+      "doi": "10.1016/S0165-2478(01)00302-6",
+      "pmid": "11716961",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11716961/",
+      "key_findings": "Reports decreased CD57+ NK-cell subset in 'chronic Lyme disease,' proposed as a biomarker.",
+      "relevance_notes": "Primary minority biomarker claim; not validated as a clinical chronic-Lyme test by mainstream immunology."
+    },
+    {
+      "source_id": "T8-S007",
+      "topic_id": 8,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "CD4+ T-cell depletion in HIV infection: mechanisms of immunological failure",
+      "authors": [
+        "Okoye AA",
+        "Picker LJ"
+      ],
+      "year": 2013,
+      "journal_or_publisher": "Immunological Reviews",
+      "doi": "10.1111/imr.12066",
+      "pmid": "23772616",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23772616/",
+      "key_findings": "Reviews mechanisms of CD4+ T-cell depletion (direct cytopathicity, immune activation, pyroptosis, lymphoid destruction) underlying HIV immunodeficiency.",
+      "relevance_notes": "The archetypal WBC-disruption mechanism for comparison."
+    },
+    {
+      "source_id": "T8-S008",
+      "topic_id": 8,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Borrelia burgdorferi Manipulates Innate and Adaptive Immunity to Establish Persistence in Rodent Reservoir Hosts",
+      "authors": [
+        "(study authors)"
+      ],
+      "year": 2017,
+      "journal_or_publisher": "Frontiers in Immunology",
+      "doi": "10.3389/fimmu.2017.00116",
+      "pmid": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5316537/",
+      "key_findings": "Describes Borrelia manipulation of innate and adaptive immunity enabling persistence, including immunomodulation relevant to co-infection.",
+      "relevance_notes": "Mechanistic basis for Borrelia-driven immune modulation and co-infection synergy."
+    },
+    {
+      "source_id": "T9-S001",
+      "topic_id": 9,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "New insights into the Tyrolean Iceman's origin and phenotype as inferred by whole-genome sequencing",
+      "authors": [
+        "Keller A",
+        "Graefen A",
+        "Ball M",
+        "Matzas M",
+        "Boisguerin V",
+        "Maixner F",
+        "et al."
+      ],
+      "year": 2012,
+      "journal_or_publisher": "Nature Communications",
+      "doi": "10.1038/ncomms1701",
+      "pmid": "22426219",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22426219/",
+      "key_findings": "Whole-genome sequencing of the ~5,300-year-old Tyrolean Iceman recovered roughly two-thirds of a B. burgdorferi genome, the earliest documented human Lyme infection.",
+      "relevance_notes": "Direct evidence that Borrelia long predates modern bioweapons; refutes 'man-made organism.'"
+    },
+    {
+      "source_id": "T9-S002",
+      "topic_id": 9,
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Spirochete-like cells in a Dominican amber Amblyomma tick (Arachnida: Ixodidae)",
+      "authors": [
+        "Poinar G"
+      ],
+      "year": 2015,
+      "journal_or_publisher": "Historical Biology",
+      "doi": "10.1080/08912963.2014.897699",
+      "pmid": null,
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/08912963.2014.897699",
+      "key_findings": "Reports Borrelia-like spirochetes in 15-20-million-year-old amber ticks, indicating Lyme-group bacteria predate humanity.",
+      "relevance_notes": "Deep-time evidence that the organism is natural and ancient."
+    },
+    {
+      "source_id": "T9-S003",
+      "topic_id": 9,
+      "type": "book",
+      "consensus_status": "speculative",
+      "title": "Bitten: The Secret History of Lyme Disease and Biological Weapons",
+      "authors": [
+        "Newby K"
+      ],
+      "year": 2019,
+      "journal_or_publisher": "Harper Wave",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.harpercollins.com/products/bitten-kris-newby",
+      "key_findings": "Documents Willy Burgdorfer's classified tick-borne bioweapon work and archival materials; argues (speculatively) for a possible link between weaponization research and the Lyme epidemic.",
+      "relevance_notes": "Real investigative archival work; the documented history is solid, the epidemic-link conclusion is contested/speculative."
+    },
+    {
+      "source_id": "T9-S004",
+      "topic_id": 9,
+      "type": "historical_document",
+      "consensus_status": "historical",
+      "title": "2019 House amendment (Rep. Christopher Smith) directing DoD Inspector General review of tick weaponization, 1950-1975 (FY2020 NDAA)",
+      "authors": [
+        "US House of Representatives"
+      ],
+      "year": 2019,
+      "journal_or_publisher": "US Congress / Defense Authorization Act FY2020",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.lymedisease.org/lyme-bioweapon-amendment/",
+      "key_findings": "House passed an amendment requiring the DoD IG to review whether the military experimented with weaponizing disease-carrying ticks and whether any were released.",
+      "relevance_notes": "Documented legislative event; a request to investigate, not a finding."
+    },
+    {
+      "source_id": "T9-S005",
+      "topic_id": 9,
+      "type": "forum_meta",
+      "consensus_status": "mainstream",
+      "title": "Did Lawmakers Demand the Pentagon Disclose If It Developed Weaponized Ticks? (fact-check)",
+      "authors": [
+        "Snopes"
+      ],
+      "year": 2019,
+      "journal_or_publisher": "Snopes",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.snopes.com/fact-check/weaponized-ticks/",
+      "key_findings": "Confirms the amendment is real while rating the broader 'Lyme as engineered epidemic' claim as unsupported.",
+      "relevance_notes": "Balanced fact-check separating documented event from speculative conclusion."
+    },
+    {
+      "source_id": "T9-S006",
+      "topic_id": 9,
+      "type": "forum_meta",
+      "consensus_status": "mainstream",
+      "title": "House measure on weaponized ticks revives discredited conspiracy theory",
+      "authors": [
+        "Medill News Service"
+      ],
+      "year": 2019,
+      "journal_or_publisher": "Medill News Service (Northwestern)",
+      "doi": null,
+      "pmid": null,
+      "url": "https://dc.medill.northwestern.edu/blog/2019/08/08/house-measure-on-weaponized-ticks-revives-discredited-conspiracy-theory/",
+      "key_findings": "Journalistic context characterizing the bioweapon-origin theory as discredited while reporting the legislative action.",
+      "relevance_notes": "Mainstream journalistic framing."
+    },
+    {
+      "source_id": "T9-S007",
+      "topic_id": 9,
+      "type": "book",
+      "consensus_status": "fringe",
+      "title": "Lab 257: The Disturbing Story of the Government's Secret Plum Island Germ Laboratory",
+      "authors": [
+        "Carroll MC"
+      ],
+      "year": 2004,
+      "journal_or_publisher": "William Morrow",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.harpercollins.com/products/lab-257-michael-christopher-carroll",
+      "key_findings": "Chronicles Plum Island secrecy and raises the proximity-based suspicion of a Lyme connection; Plum Island's documented work was on livestock diseases.",
+      "relevance_notes": "Source of the Plum Island narrative; proximity-and-secrecy reasoning, not evidence of Lyme origin."
+    },
+    {
+      "source_id": "T9-S008",
+      "topic_id": 9,
+      "type": "forum_meta",
+      "consensus_status": "mainstream",
+      "title": "Troublesome Ticks: Dispelling Bioweapon Rumors",
+      "authors": [
+        "Contagion Live"
+      ],
+      "year": 2019,
+      "journal_or_publisher": "Contagion Live",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.contagionlive.com/view/troublesome-ticks-dispelling-bioweapon-rumors",
+      "key_findings": "Infectious-disease commentary explaining the natural ecology of the Lyme epidemic and refuting the bioweapon-origin claim while acknowledging historical research.",
+      "relevance_notes": "Mainstream ID framing and ecological explanation."
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt_id": "T1-F001",
+      "topic_id": 1,
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2019-2024",
+      "paraphrased_content": "Posters describe early migratory joint pain (wrists/ankles/shoulders) that later settles into one or both knees with marked swelling and stiffness disproportionate to pain.",
+      "pattern_tag": "knee-dominant-large-joint-swelling",
+      "source_links": [
+        {
+          "source_id": "T1-S002",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T1-S013",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T1-F002",
+      "topic_id": 1,
+      "platform": "r/lymedisease",
+      "thread_url": "https://www.reddit.com/r/lymedisease/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "Recurring accounts of knee swelling that does not fully resolve or returns after one or two antibiotic courses; posters typically read this as ongoing infection and seek more antibiotics.",
+      "pattern_tag": "refractory-arthritis-persistent-infection-interpretation",
+      "source_links": [
+        {
+          "source_id": "T1-S001",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T1-F003",
+      "topic_id": 1,
+      "platform": "HealingWell Lyme forum",
+      "thread_url": "https://www.healingwell.com/community/default.aspx?f=30",
+      "approximate_date": "2010-2020",
+      "paraphrased_content": "Occasional reports that intra-articular steroid injection or arthroscopic synovectomy resolved a knee that prolonged antibiotics had not, often expressed with surprise.",
+      "pattern_tag": "synovectomy-steroid-relief",
+      "source_links": [
+        {
+          "source_id": "T1-S001",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T1-S017",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T1-S010",
+          "link_type": "contradicts"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T1-F004",
+      "topic_id": 1,
+      "platform": "LymeNet Flash",
+      "thread_url": "http://flash.lymenet.org/",
+      "approximate_date": "2005-2018",
+      "paraphrased_content": "Reports of transient worsening of joint and systemic symptoms after starting antibiotics, labeled a Herxheimer reaction and interpreted as proof of active infection.",
+      "pattern_tag": "herx-as-infection-proof",
+      "source_links": []
+    },
+    {
+      "excerpt_id": "T1-F005",
+      "topic_id": 1,
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2019-2024",
+      "paraphrased_content": "A subset insist on Lyme arthritis despite negative two-tier serology, pursuing specialty labs for confirmation.",
+      "pattern_tag": "seronegative-self-identification",
+      "source_links": [
+        {
+          "source_id": "T1-S001",
+          "link_type": "contradicts"
+        },
+        {
+          "source_id": "T1-S002",
+          "link_type": "contradicts"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T2-F001",
+      "topic_id": 2,
+      "platform": "r/MorgellonsDisease",
+      "thread_url": "https://www.reddit.com/r/MorgellonsDisease/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "Members describe and photograph colored fibers/filaments at or under non-healing lesions, treating their apparent emergence from skin as proof of an organic disease.",
+      "pattern_tag": "fibers-emerging-from-skin",
+      "source_links": [
+        {
+          "source_id": "T2-S006",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T2-S001",
+          "link_type": "contradicts"
+        },
+        {
+          "source_id": "T2-S003",
+          "link_type": "contradicts"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T2-F002",
+      "topic_id": 2,
+      "platform": "r/MorgellonsDisease",
+      "thread_url": "https://www.reddit.com/r/MorgellonsDisease/",
+      "approximate_date": "2016-2024",
+      "paraphrased_content": "Persistent crawling/biting/stinging sensations under the skin, often worse at night, driving scratching and lesion formation.",
+      "pattern_tag": "formication",
+      "source_links": [
+        {
+          "source_id": "T2-S002",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T2-F003",
+      "topic_id": 2,
+      "platform": "Charles E. Holman Morgellons Disease Foundation community",
+      "thread_url": "https://thecehf.org/",
+      "approximate_date": "2010-2024",
+      "paraphrased_content": "Repeated accounts of being diagnosed with delusional parasitosis, offered antipsychotics, or refused testing, followed by a pivot to Lyme-literate or integrative practitioners.",
+      "pattern_tag": "labeled-delusional-leaves-mainstream-care",
+      "source_links": [
+        {
+          "source_id": "T2-S002",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T2-S007",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T2-F004",
+      "topic_id": 2,
+      "platform": "r/MorgellonsDisease",
+      "thread_url": "https://www.reddit.com/r/MorgellonsDisease/",
+      "approximate_date": "2015-2024",
+      "paraphrased_content": "Members report positive Lyme tests (often specialty labs) or tick-exposure histories and frame Morgellons as a skin manifestation of chronic Lyme.",
+      "pattern_tag": "co-occurring-lyme-diagnosis",
+      "source_links": [
+        {
+          "source_id": "T2-S008",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T2-F005",
+      "topic_id": 2,
+      "platform": "Charles E. Holman Morgellons Disease Foundation community",
+      "thread_url": "https://thecehf.org/",
+      "approximate_date": "2012-2024",
+      "paraphrased_content": "Mixed, uncontrolled reports: some members describe improvement of skin and systemic symptoms on prolonged antibiotic or antiparasitic courses; others report no benefit or harm.",
+      "pattern_tag": "antibiotic-relief-mixed",
+      "source_links": [
+        {
+          "source_id": "T2-S005",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T2-S011",
+          "link_type": "contradicts"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T3-F001",
+      "topic_id": 3,
+      "platform": "Bluelight.org",
+      "thread_url": "https://www.bluelight.org/",
+      "approximate_date": "2010-2024",
+      "paraphrased_content": "Stimulant users describe formication ('meth mites'/'coke bugs') and compulsive picking during binges, generally understood as a reversible drug effect that fades with sleep or abstinence.",
+      "pattern_tag": "stimulant-formication-self-aware",
+      "source_links": [
+        {
+          "source_id": "T3-S001",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T3-S002",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T3-S003",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T3-F002",
+      "topic_id": 3,
+      "platform": "r/MorgellonsDisease",
+      "thread_url": "https://www.reddit.com/r/MorgellonsDisease/",
+      "approximate_date": "2016-2024",
+      "paraphrased_content": "Identical crawling/biting sensations and skin-picking attributed to Borrelia/parasites, with stimulant use rarely mentioned.",
+      "pattern_tag": "same-symptom-infection-attribution",
+      "source_links": [
+        {
+          "source_id": "T3-S002",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T3-S004",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T3-F003",
+      "topic_id": 3,
+      "platform": "r/StopSpeeding",
+      "thread_url": "https://www.reddit.com/r/StopSpeeding/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "Recovery-forum posters report formication and infestation feelings resolving within days to weeks of stimulant abstinence, sometimes to their surprise.",
+      "pattern_tag": "resolution-after-abstinence",
+      "source_links": [
+        {
+          "source_id": "T3-S001",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T3-S004",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T3-F004",
+      "topic_id": 3,
+      "platform": "r/AdderallAddiction",
+      "thread_url": "https://www.reddit.com/r/AdderallAddiction/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "Some prescribed-amphetamine users describe mild skin-crawling at higher doses or with sleep deprivation, resolving with dose reduction.",
+      "pattern_tag": "prescription-stimulant-dose-formication",
+      "source_links": [
+        {
+          "source_id": "T3-S003",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T4-F001",
+      "topic_id": 4,
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2019-2024",
+      "paraphrased_content": "Posters describe onset or worsening of intrusive thoughts, contamination fears, and checking alongside cognitive fog during Lyme illness, sometimes easing as they recover.",
+      "pattern_tag": "ocd-onset-during-lyme",
+      "source_links": [
+        {
+          "source_id": "T4-S001",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T4-S004",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T4-F002",
+      "topic_id": 4,
+      "platform": "PANS/PANDAS parent communities",
+      "thread_url": "https://www.reddit.com/r/PANS/",
+      "approximate_date": "2016-2024",
+      "paraphrased_content": "Parents describe sudden dramatic OCD/tic onset after infection (strep, sometimes tick exposure), with food restriction, separation anxiety, and rage.",
+      "pattern_tag": "abrupt-onset-pans-like-ocd",
+      "source_links": [
+        {
+          "source_id": "T4-S005",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T4-F003",
+      "topic_id": 4,
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "Mixed reports that OCD symptoms eased on antibiotics for Lyme, or did not change or worsened; frequently co-occurring with SSRIs or therapy.",
+      "pattern_tag": "ocd-antibiotic-response-mixed",
+      "source_links": [
+        {
+          "source_id": "T4-S008",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T4-S007",
+          "link_type": "contradicts"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T4-F004",
+      "topic_id": 4,
+      "platform": "r/OCD",
+      "thread_url": "https://www.reddit.com/r/OCD/",
+      "approximate_date": "2019-2024",
+      "paraphrased_content": "A loop where Lyme/Morgellons fears become the content of OCD: compulsive symptom-checking, reassurance-seeking, and lab-test collecting.",
+      "pattern_tag": "illness-as-ocd-content",
+      "source_links": []
+    },
+    {
+      "excerpt_id": "T5-F001",
+      "topic_id": 5,
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2017-2024",
+      "paraphrased_content": "Posters describe air hunger, drenching night sweats, and waves of chills, and learn from communities that these point to Babesia; many push for Babesia testing.",
+      "pattern_tag": "babesia-air-hunger-sweats",
+      "source_links": [
+        {
+          "source_id": "T5-S001",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T5-S004",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T5-F002",
+      "topic_id": 5,
+      "platform": "ProHealth Lyme forums",
+      "thread_url": "https://www.prohealth.com/forums",
+      "approximate_date": "2010-2022",
+      "paraphrased_content": "Accounts of stalled recovery on Lyme antibiotics that improved only after adding antiparasitic therapy (e.g., atovaquone/azithromycin) for Babesia.",
+      "pattern_tag": "doxy-failure-resolved-by-babesia-treatment",
+      "source_links": [
+        {
+          "source_id": "T5-S001",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T5-F003",
+      "topic_id": 5,
+      "platform": "LymeNet Flash",
+      "thread_url": "http://flash.lymenet.org/",
+      "approximate_date": "2008-2022",
+      "paraphrased_content": "Members describe simultaneous treatment for a long list of co-infections (Babesia, Bartonella, Mycoplasma, viruses), citing the MSIDS model and combination protocols.",
+      "pattern_tag": "msids-multiple-coinfections",
+      "source_links": [
+        {
+          "source_id": "T5-S006",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T5-F004",
+      "topic_id": 5,
+      "platform": "r/Lyme and alternative-health forums",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2015-2024",
+      "paraphrased_content": "Use of ivermectin, antimalarials, and herbal 'parasite protocols,' with reports and photos of passing 'parasites'/'rope worms.'",
+      "pattern_tag": "empiric-antiparasitic-cleanses",
+      "source_links": [
+        {
+          "source_id": "T5-S007",
+          "link_type": "contradicts"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T6-F001",
+      "topic_id": 6,
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "A dominant theme of hopelessness driven by not being believed: years of negative tests, dismissive clinicians, and lost work/relationships described as central to the darkest periods.",
+      "pattern_tag": "invalidation-despair",
+      "source_links": [
+        {
+          "source_id": "T6-S006",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T6-S001",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T6-F002",
+      "topic_id": 6,
+      "platform": "r/lymedisease",
+      "thread_url": "https://www.reddit.com/r/lymedisease/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "Members describe sudden uncharacteristic mood collapse or intrusive dark thoughts that feel alien to their baseline self, attributed to infection/inflammation.",
+      "pattern_tag": "alien-to-baseline-mood-change",
+      "source_links": [
+        {
+          "source_id": "T6-S004",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T6-S001",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T6-F003",
+      "topic_id": 6,
+      "platform": "ProHealth Lyme forums",
+      "thread_url": "https://www.prohealth.com/forums",
+      "approximate_date": "2012-2022",
+      "paraphrased_content": "Reports that the lowest mental-health points coincided with the most severe physical phases (often attributed to Babesia), improving as physical illness improved.",
+      "pattern_tag": "mood-tracks-coinfection-severity",
+      "source_links": [
+        {
+          "source_id": "T6-S007",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T6-S006",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T6-F004",
+      "topic_id": 6,
+      "platform": "Phoenix Rising",
+      "thread_url": "https://forums.phoenixrising.me/",
+      "approximate_date": "2012-2024",
+      "paraphrased_content": "Many members credit peer communities with reducing isolation and providing hope and validation — a recurring protective counter-theme.",
+      "pattern_tag": "community-protective-factor",
+      "source_links": [
+        {
+          "source_id": "T6-S006",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T7-F001",
+      "topic_id": 7,
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2017-2024",
+      "paraphrased_content": "Members report an unexpected positive treponemal/FTA-Abs test with no syphilis risk, causing alarm and partner stress, ultimately attributed to Lyme cross-reactivity.",
+      "pattern_tag": "false-positive-syphilis-from-lyme",
+      "source_links": [
+        {
+          "source_id": "T7-S001",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T7-S002",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T7-S003",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T7-F002",
+      "topic_id": 7,
+      "platform": "LymeNet Flash",
+      "thread_url": "http://flash.lymenet.org/",
+      "approximate_date": "2008-2022",
+      "paraphrased_content": "Members invoke the syphilis analogy to argue Lyme needs long aggressive antibiotics like neurosyphilis, citing spirochetal persistence.",
+      "pattern_tag": "syphilis-analogy-treatment-advocacy",
+      "source_links": [
+        {
+          "source_id": "T7-S004",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T7-S005",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T7-F003",
+      "topic_id": 7,
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "Immunocompromised members describe atypical Lyme presentations and discordant test results, with difficulty obtaining a diagnosis.",
+      "pattern_tag": "atypical-lyme-immunocompromised",
+      "source_links": [
+        {
+          "source_id": "T7-S006",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T7-F004",
+      "topic_id": 7,
+      "platform": "conspiracy-adjacent forums",
+      "thread_url": "https://www.reddit.com/r/conspiracy/",
+      "approximate_date": "2015-2024",
+      "paraphrased_content": "A minority invoke framings linking Lyme, HIV, and syphilis as engineered, often cross-posting bioweapon material.",
+      "pattern_tag": "engineered-triad-conspiracy",
+      "source_links": []
+    },
+    {
+      "excerpt_id": "T8-F001",
+      "topic_id": 8,
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2012-2024",
+      "paraphrased_content": "Members track their CD57 count as a measure of chronic Lyme severity and treatment progress, sharing values and reading rises as improvement.",
+      "pattern_tag": "cd57-as-severity-tracker",
+      "source_links": [
+        {
+          "source_id": "T8-S006",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T8-S001",
+          "link_type": "contradicts"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T8-F002",
+      "topic_id": 8,
+      "platform": "Phoenix Rising",
+      "thread_url": "https://forums.phoenixrising.me/",
+      "approximate_date": "2012-2024",
+      "paraphrased_content": "Reports of recurrent colds, shingles, and EBV/CMV reactivation attributed to a chronic-Lyme 'weak immune system.'",
+      "pattern_tag": "reactivated-viruses-immune-suppression",
+      "source_links": [
+        {
+          "source_id": "T8-S002",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T8-S003",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T8-F003",
+      "topic_id": 8,
+      "platform": "r/lymedisease",
+      "thread_url": "https://www.reddit.com/r/lymedisease/",
+      "approximate_date": "2018-2024",
+      "paraphrased_content": "Members post CBC results (abnormal lymphocytes/atypical cells) and crowd-source interpretation, sometimes fearing lymphoma or immunodeficiency.",
+      "pattern_tag": "cbc-anxiety-lymphoma-fear",
+      "source_links": [
+        {
+          "source_id": "T8-S004",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T8-S005",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T8-F004",
+      "topic_id": 8,
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2017-2024",
+      "paraphrased_content": "Members describe alarm over cross-reactive positive treponemal or (rarely) HIV screening tests later attributed to tick-borne infection.",
+      "pattern_tag": "cross-reactive-test-anxiety",
+      "source_links": [
+        {
+          "source_id": "T8-S008",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T9-F001",
+      "topic_id": 9,
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2019-2024",
+      "paraphrased_content": "A surge of posts after Newby's 'Bitten' cite Burgdorfer's bioweapon work as proof the epidemic was engineered or released.",
+      "pattern_tag": "bitten-driven-escape-belief",
+      "source_links": [
+        {
+          "source_id": "T9-S003",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T9-S001",
+          "link_type": "contradicts"
+        },
+        {
+          "source_id": "T9-S002",
+          "link_type": "contradicts"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T9-F002",
+      "topic_id": 9,
+      "platform": "conspiracy-adjacent forums",
+      "thread_url": "https://www.reddit.com/r/conspiracy/",
+      "approximate_date": "2010-2024",
+      "paraphrased_content": "Repeated invocation of Plum Island's nearness to Lyme, CT and its secrecy as self-evident proof of origin.",
+      "pattern_tag": "plum-island-proximity",
+      "source_links": [
+        {
+          "source_id": "T9-S007",
+          "link_type": "corroborates"
+        },
+        {
+          "source_id": "T9-S001",
+          "link_type": "contradicts"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T9-F003",
+      "topic_id": 9,
+      "platform": "FOIA / archive forums",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2015-2024",
+      "paraphrased_content": "Users post declassified documents and archival records, occasionally surfacing genuinely obscure primary sources worth verifying.",
+      "pattern_tag": "foia-document-surfacing",
+      "source_links": [
+        {
+          "source_id": "T9-S004",
+          "link_type": "corroborates"
+        }
+      ]
+    },
+    {
+      "excerpt_id": "T9-F004",
+      "topic_id": 9,
+      "platform": "LymeNet Flash",
+      "thread_url": "http://flash.lymenet.org/",
+      "approximate_date": "2008-2024",
+      "paraphrased_content": "Linking the IDSA/ILADS treatment controversy to an alleged government cover-up of a bioweapon origin, forming a grand-unifying narrative.",
+      "pattern_tag": "cover-up-grand-narrative",
+      "source_links": []
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "R001",
+      "from_topic_id": 1,
+      "to_topic_id": 4,
+      "type": "shared-mechanism",
+      "description": "Infection-induced autoimmunity / molecular mimicry: the identified self-antigens in Lyme arthritis (ECGF, Annexin A2) parallel proposed anti-neuronal autoimmunity invoked for Lyme-associated OCD/neuropsychiatric disease.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T1-S004",
+        "T1-S006"
+      ]
+    },
+    {
+      "relationship_id": "R002",
+      "from_topic_id": 1,
+      "to_topic_id": 2,
+      "type": "shared-mechanism",
+      "description": "Both topics invoke spirochetal persistence and biofilm (Sapi) as mechanism; Lyme arthritis is the better-evidenced test bed for persistence-vs-postinfectious interpretation.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T1-S021",
+        "T1-S008"
+      ]
+    },
+    {
+      "relationship_id": "R003",
+      "from_topic_id": 1,
+      "to_topic_id": 5,
+      "type": "contrasting",
+      "description": "The persistence-vs-postinfectious epistemic structure recurs in parasitic-coinfection debates; arthritis offers a falsifying test (DMARD/synovectomy response) absent elsewhere.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T1-S001",
+        "T1-S018"
+      ]
+    },
+    {
+      "relationship_id": "R004",
+      "from_topic_id": 1,
+      "to_topic_id": 9,
+      "type": "contrasting",
+      "description": "Lyme arthritis was the founding clinical syndrome (Lyme, CT, 1977) whose discovery history intersects the bioweapon narrative around Willy Burgdorfer and Plum Island.",
+      "strength": "weak",
+      "evidence_sources": [
+        "T1-S012"
+      ]
+    },
+    {
+      "relationship_id": "R005",
+      "from_topic_id": 2,
+      "to_topic_id": 3,
+      "type": "differential-diagnosis",
+      "description": "Stimulant-induced formication produces crawling sensations and skin-picking phenomenologically identical to Morgellons, a documented confound and possible subgroup explanation.",
+      "strength": "strong",
+      "evidence_sources": [
+        "T2-S002"
+      ]
+    },
+    {
+      "relationship_id": "R006",
+      "from_topic_id": 2,
+      "to_topic_id": 1,
+      "type": "shared-mechanism",
+      "description": "Both topics invoke Borrelia persistence and biofilm (Sapi) as mechanism; Lyme arthritis is the better-evidenced test bed for those claims.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T2-S010"
+      ]
+    },
+    {
+      "relationship_id": "R007",
+      "from_topic_id": 2,
+      "to_topic_id": 5,
+      "type": "symptom-overlap",
+      "description": "Morgellons 'infestation' phenomenology overlaps with genuine-versus-perceived parasitic infection debates and delusional infestation.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T2-S002"
+      ]
+    },
+    {
+      "relationship_id": "R008",
+      "from_topic_id": 2,
+      "to_topic_id": 4,
+      "type": "shared-mechanism",
+      "description": "Both Morgellons (as DI) and Lyme-OCD involve neuropsychiatric symptom generation attributed by patients to infection and by mainstream medicine to brain-based mechanisms.",
+      "strength": "weak",
+      "evidence_sources": [
+        "T2-S002"
+      ]
+    },
+    {
+      "relationship_id": "R009",
+      "from_topic_id": 3,
+      "to_topic_id": 2,
+      "type": "differential-diagnosis",
+      "description": "Stimulant-induced delusional infestation is the primary differential and a likely subgroup explanation for Morgellons; phenomenology is identical.",
+      "strength": "strong",
+      "evidence_sources": [
+        "T3-S002",
+        "T3-S004"
+      ]
+    },
+    {
+      "relationship_id": "R010",
+      "from_topic_id": 3,
+      "to_topic_id": 4,
+      "type": "shared-mechanism",
+      "description": "Compulsive skin-picking (excoriation) and dopaminergic/striatal circuitry connect stimulant formication to OCD-spectrum mechanisms.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T3-S001"
+      ]
+    },
+    {
+      "relationship_id": "R011",
+      "from_topic_id": 3,
+      "to_topic_id": 5,
+      "type": "symptom-overlap",
+      "description": "Delusional versus genuine infestation runs through both stimulant DI and parasitic-infection topics.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T3-S004"
+      ]
+    },
+    {
+      "relationship_id": "R012",
+      "from_topic_id": 4,
+      "to_topic_id": 1,
+      "type": "shared-mechanism",
+      "description": "Lyme arthritis provides the human proof-of-concept that Borrelia induces organ-specific autoimmunity (ECGF, Annexin A2); the Lyme-OCD hypothesis needs the same template in the brain.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T4-S005"
+      ]
+    },
+    {
+      "relationship_id": "R013",
+      "from_topic_id": 4,
+      "to_topic_id": 6,
+      "type": "shared-mechanism",
+      "description": "Bransfield's psychoimmunology links the same neuroinflammatory/autoimmune mechanisms to mood disturbance and suicidality.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T4-S004"
+      ]
+    },
+    {
+      "relationship_id": "R014",
+      "from_topic_id": 4,
+      "to_topic_id": 3,
+      "type": "shared-mechanism",
+      "description": "Dopaminergic/striatal circuitry and compulsive behaviors connect stimulant formication/picking to OCD-spectrum mechanisms.",
+      "strength": "weak",
+      "evidence_sources": [
+        "T4-S005"
+      ]
+    },
+    {
+      "relationship_id": "R015",
+      "from_topic_id": 4,
+      "to_topic_id": 2,
+      "type": "symptom-overlap",
+      "description": "Illness fears (Lyme/Morgellons) can become the content of OCD, an attribution loop linking the two topics.",
+      "strength": "weak",
+      "evidence_sources": [
+        "T4-S001"
+      ]
+    },
+    {
+      "relationship_id": "R016",
+      "from_topic_id": 5,
+      "to_topic_id": 6,
+      "type": "comorbidity",
+      "description": "Co-infection severity and neurologic symptoms feed the neuropsychiatric burden linked to suicidality in tick-borne disease.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T5-S001"
+      ]
+    },
+    {
+      "relationship_id": "R017",
+      "from_topic_id": 5,
+      "to_topic_id": 1,
+      "type": "shared-mechanism",
+      "description": "The persistence-vs-postinfectious debate repeats with Babesia persistence as the parasitic analog of Borrelia persistence.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T5-S001"
+      ]
+    },
+    {
+      "relationship_id": "R018",
+      "from_topic_id": 5,
+      "to_topic_id": 2,
+      "type": "symptom-overlap",
+      "description": "Parasite-cleanse culture and 'infestation' beliefs overlap with delusional-infestation phenomenology in Morgellons.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T5-S007"
+      ]
+    },
+    {
+      "relationship_id": "R019",
+      "from_topic_id": 5,
+      "to_topic_id": 8,
+      "type": "shared-mechanism",
+      "description": "Babesia is intra-erythrocytic and immunomodulatory; co-infection alters immune/blood-cell responses relevant to the WBC-disruption topic.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T5-S003"
+      ]
+    },
+    {
+      "relationship_id": "R020",
+      "from_topic_id": 6,
+      "to_topic_id": 4,
+      "type": "shared-mechanism",
+      "description": "Same neuroinflammatory/psychoimmune model (Bransfield) underlies both Lyme-OCD and Lyme-associated suicidality; different symptom outputs.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T6-S001"
+      ]
+    },
+    {
+      "relationship_id": "R021",
+      "from_topic_id": 6,
+      "to_topic_id": 5,
+      "type": "comorbidity",
+      "description": "Co-infection severity (Babesia) amplifies both the biological and psychosocial suicide-risk routes.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T6-S007"
+      ]
+    },
+    {
+      "relationship_id": "R022",
+      "from_topic_id": 6,
+      "to_topic_id": 8,
+      "type": "shared-mechanism",
+      "description": "Immune dysregulation is the shared upstream node connecting suicidality mechanisms to WBC/immune disruption.",
+      "strength": "weak",
+      "evidence_sources": [
+        "T6-S004"
+      ]
+    },
+    {
+      "relationship_id": "R023",
+      "from_topic_id": 7,
+      "to_topic_id": 8,
+      "type": "shared-mechanism",
+      "description": "HIV/Borrelia immunomodulation and serologic behavior bridge directly to immune/WBC-disruption mechanisms.",
+      "strength": "strong",
+      "evidence_sources": [
+        "T7-S006",
+        "T7-S007"
+      ]
+    },
+    {
+      "relationship_id": "R024",
+      "from_topic_id": 7,
+      "to_topic_id": 1,
+      "type": "contrasting",
+      "description": "The syphilis analogy props up the Lyme persistence/long-treatment argument that arthritis data partly falsify.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T7-S004"
+      ]
+    },
+    {
+      "relationship_id": "R025",
+      "from_topic_id": 7,
+      "to_topic_id": 9,
+      "type": "contrasting",
+      "description": "The engineered Lyme/HIV/syphilis-triad conspiracy routes to the bioweapon topic; documented as a claim, not endorsed.",
+      "strength": "weak",
+      "evidence_sources": [
+        "T7-S008"
+      ]
+    },
+    {
+      "relationship_id": "R026",
+      "from_topic_id": 7,
+      "to_topic_id": 6,
+      "type": "shared-mechanism",
+      "description": "Neurosyphilis's psychiatric manifestations are the historical template for spirochetal neuropsychiatry (mood, suicidality, dementia).",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T7-S005"
+      ]
+    },
+    {
+      "relationship_id": "R027",
+      "from_topic_id": 8,
+      "to_topic_id": 7,
+      "type": "shared-mechanism",
+      "description": "Direct continuation of the HIV/syphilis topic: serologic cross-talk and immune disruption are the shared substrate.",
+      "strength": "strong",
+      "evidence_sources": [
+        "T8-S008"
+      ]
+    },
+    {
+      "relationship_id": "R028",
+      "from_topic_id": 8,
+      "to_topic_id": 5,
+      "type": "shared-mechanism",
+      "description": "Borrelia immunosuppression boosts Babesia and underlies co-infection synergy.",
+      "strength": "strong",
+      "evidence_sources": [
+        "T8-S008"
+      ]
+    },
+    {
+      "relationship_id": "R029",
+      "from_topic_id": 8,
+      "to_topic_id": 1,
+      "type": "shared-mechanism",
+      "description": "Abnormal B-cell/germinal-center biology connects immune disruption to the autoantibody story in Lyme arthritis.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T8-S002"
+      ]
+    },
+    {
+      "relationship_id": "R030",
+      "from_topic_id": 8,
+      "to_topic_id": 6,
+      "type": "shared-mechanism",
+      "description": "Immune dysregulation is the upstream node for the neuroinflammatory mechanisms linked to mood and suicidality.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T8-S001"
+      ]
+    },
+    {
+      "relationship_id": "R031",
+      "from_topic_id": 9,
+      "to_topic_id": 7,
+      "type": "contrasting",
+      "description": "The engineered Lyme/HIV/syphilis-triad conspiracy connects here; both share the structure of welding real history onto a false origin claim.",
+      "strength": "moderate",
+      "evidence_sources": [
+        "T9-S003"
+      ]
+    },
+    {
+      "relationship_id": "R032",
+      "from_topic_id": 9,
+      "to_topic_id": 1,
+      "type": "contrasting",
+      "description": "The bioweapon 'cover-up' narrative fuses the IDSA/ILADS treatment-guideline dispute into the origin story; discourse linkage, not biological.",
+      "strength": "weak",
+      "evidence_sources": [
+        "T9-S004"
+      ]
+    },
+    {
+      "relationship_id": "R033",
+      "from_topic_id": 9,
+      "to_topic_id": 5,
+      "type": "contrasting",
+      "description": "Externalization of blame (government/institutions) parallels the infectious-over-autoimmune and hidden-parasite explanatory preferences seen elsewhere.",
+      "strength": "weak",
+      "evidence_sources": [
+        "T9-S008"
+      ]
+    }
+  ],
+  "symptoms": [
+    {
+      "symptom_id": 8,
+      "name": "Air hunger / shortness of breath",
+      "body_system": "respiratory",
+      "description": "Sensation of insufficient air; community-recognized signal of Babesia co-infection.",
+      "topics": [
+        {
+          "symptom_id": 8,
+          "topic_id": 5,
+          "frequency": "common",
+          "mechanism_explanation": "Associated with babesial co-infection; mechanism includes hemolysis/anemia and immune response."
+        }
+      ],
+      "sources": [
+        "T5-S001",
+        "T5-S004"
+      ]
+    },
+    {
+      "symptom_id": 14,
+      "name": "Atypical / seronegative presentation in immunosuppression",
+      "body_system": "immunologic/laboratory",
+      "description": "Discordant Lyme serology and atypical course in HIV or immunosuppressed hosts.",
+      "topics": [
+        {
+          "symptom_id": 14,
+          "topic_id": 7,
+          "frequency": "rare",
+          "mechanism_explanation": "Altered antibody response in immunosuppression yields discordant assays."
+        }
+      ],
+      "sources": [
+        "T7-S006"
+      ]
+    },
+    {
+      "symptom_id": 7,
+      "name": "Cognitive fog / impaired concentration",
+      "body_system": "neuropsychiatric",
+      "description": "Memory and concentration difficulty ('Lyme encephalopathy').",
+      "topics": [
+        {
+          "symptom_id": 7,
+          "topic_id": 4,
+          "frequency": "common",
+          "mechanism_explanation": "Neuroinflammation / cytokine-mediated effects, debated persistence."
+        }
+      ],
+      "sources": [
+        "T4-S006"
+      ]
+    },
+    {
+      "symptom_id": 5,
+      "name": "Compulsive skin picking / excoriation",
+      "body_system": "dermatological",
+      "description": "Repetitive picking producing wounds and scarring, secondary to formication or compulsion.",
+      "topics": [
+        {
+          "symptom_id": 5,
+          "topic_id": 2,
+          "frequency": "common",
+          "mechanism_explanation": "Response to formication; self-excoriation produces the lesions."
+        },
+        {
+          "symptom_id": 5,
+          "topic_id": 3,
+          "frequency": "common",
+          "mechanism_explanation": "Stimulant-driven compulsive picking."
+        }
+      ],
+      "sources": [
+        "T2-S002",
+        "T3-S001"
+      ]
+    },
+    {
+      "symptom_id": 13,
+      "name": "Cross-reactive positive treponemal (syphilis) test",
+      "body_system": "immunologic/laboratory",
+      "description": "Unexpected positive FTA-Abs/treponemal serology due to Borrelia antibody cross-reactivity.",
+      "topics": [
+        {
+          "symptom_id": 13,
+          "topic_id": 7,
+          "frequency": "occasional",
+          "mechanism_explanation": "Shared spirochetal antigens cause Borrelia/Treponema serologic cross-reactivity."
+        }
+      ],
+      "sources": [
+        "T7-S001",
+        "T7-S002"
+      ]
+    },
+    {
+      "symptom_id": 16,
+      "name": "Cutaneous lymphoid proliferation / B-cell lymphoma",
+      "body_system": "hematologic",
+      "description": "Rare Borrelia-associated primary cutaneous marginal-zone B-cell lymphoma.",
+      "topics": [
+        {
+          "symptom_id": 16,
+          "topic_id": 8,
+          "frequency": "rare",
+          "mechanism_explanation": "Chronic Borrelia antigenic stimulation drives clonal B-cell proliferation; can regress on antibiotics."
+        }
+      ],
+      "sources": [
+        "T8-S004",
+        "T8-S005"
+      ]
+    },
+    {
+      "symptom_id": 11,
+      "name": "Depressed mood / suicidality",
+      "body_system": "neuropsychiatric",
+      "description": "Mood collapse, hopelessness, and suicidal ideation; sometimes described as alien to baseline self.",
+      "topics": [
+        {
+          "symptom_id": 11,
+          "topic_id": 6,
+          "frequency": "occasional",
+          "mechanism_explanation": "Two routes: neuroinflammation/kynurenine-quinolinic acid (biological) and chronic illness + medical invalidation (psychosocial)."
+        }
+      ],
+      "sources": [
+        "T6-S001",
+        "T6-S004",
+        "T6-S006"
+      ]
+    },
+    {
+      "symptom_id": 9,
+      "name": "Drenching night sweats and chills",
+      "body_system": "constitutional",
+      "description": "Recurrent sweats, chills, and fever waves.",
+      "topics": [
+        {
+          "symptom_id": 9,
+          "topic_id": 5,
+          "frequency": "common",
+          "mechanism_explanation": "Characteristic of babesiosis co-infection; malaria-like protozoal illness."
+        },
+        {
+          "symptom_id": 9,
+          "topic_id": 6,
+          "frequency": "occasional",
+          "mechanism_explanation": "Severe co-infection phases coincide with worst mental-health periods."
+        }
+      ],
+      "sources": [
+        "T5-S001",
+        "T6-S007"
+      ]
+    },
+    {
+      "symptom_id": 10,
+      "name": "Fatigue",
+      "body_system": "constitutional",
+      "description": "Profound, persistent fatigue across tick-borne illness and co-infection.",
+      "topics": [
+        {
+          "symptom_id": 10,
+          "topic_id": 5,
+          "frequency": "common",
+          "mechanism_explanation": "Amplified by co-infection severity and duration."
+        },
+        {
+          "symptom_id": 10,
+          "topic_id": 6,
+          "frequency": "common",
+          "mechanism_explanation": "Chronic-illness burden contributing to suicide risk load."
+        }
+      ],
+      "sources": [
+        "T5-S001",
+        "T6-S006"
+      ]
+    },
+    {
+      "symptom_id": 3,
+      "name": "Formication (crawling/biting skin sensation)",
+      "body_system": "neurological",
+      "description": "Sensation of insects crawling on or under the skin; a real somatosensory experience regardless of cause.",
+      "topics": [
+        {
+          "symptom_id": 3,
+          "topic_id": 2,
+          "frequency": "hallmark",
+          "mechanism_explanation": "Central tactile misperception; framed by mainstream as delusional infestation, by minority as borrelial dermatitis."
+        },
+        {
+          "symptom_id": 3,
+          "topic_id": 3,
+          "frequency": "common",
+          "mechanism_explanation": "Dopaminergic excess from stimulants producing tactile hallucinosis."
+        }
+      ],
+      "sources": [
+        "T2-S002",
+        "T2-S006",
+        "T3-S001",
+        "T3-S003"
+      ]
+    },
+    {
+      "symptom_id": 1,
+      "name": "Knee swelling / large-joint effusion",
+      "body_system": "musculoskeletal",
+      "description": "Intermittent or persistent swelling of large joints (knee predominant), often with effusion disproportionate to pain.",
+      "topics": [
+        {
+          "symptom_id": 1,
+          "topic_id": 1,
+          "frequency": "hallmark",
+          "mechanism_explanation": "Spirochetal synovitis then post-infectious autoimmune synovitis; knee involved in ~90% of Lyme arthritis."
+        }
+      ],
+      "sources": [
+        "T1-S002",
+        "T1-S017"
+      ]
+    },
+    {
+      "symptom_id": 2,
+      "name": "Migratory joint pain",
+      "body_system": "musculoskeletal",
+      "description": "Pain that moves between joints early in disseminated infection before localizing.",
+      "topics": [
+        {
+          "symptom_id": 2,
+          "topic_id": 1,
+          "frequency": "common",
+          "mechanism_explanation": "Hematogenous dissemination of spirochetes and systemic inflammatory response."
+        }
+      ],
+      "sources": [
+        "T1-S013"
+      ]
+    },
+    {
+      "symptom_id": 6,
+      "name": "Obsessions and compulsions",
+      "body_system": "neuropsychiatric",
+      "description": "Intrusive thoughts and compulsive behaviors; new-onset or worsened.",
+      "topics": [
+        {
+          "symptom_id": 6,
+          "topic_id": 4,
+          "frequency": "occasional",
+          "mechanism_explanation": "Proposed infection-triggered autoimmune basal-ganglia dysfunction (PANDAS/PANS template); causation in Lyme speculative."
+        }
+      ],
+      "sources": [
+        "T4-S004",
+        "T4-S005"
+      ]
+    },
+    {
+      "symptom_id": 15,
+      "name": "Recurrent infections / viral reactivation",
+      "body_system": "immunologic",
+      "description": "Frequent infections, shingles, EBV/CMV reactivation attributed to weakened immunity.",
+      "topics": [
+        {
+          "symptom_id": 15,
+          "topic_id": 8,
+          "frequency": "common",
+          "mechanism_explanation": "Borrelia suppresses long-lived humoral immunity via defective germinal centers."
+        }
+      ],
+      "sources": [
+        "T8-S002",
+        "T8-S003"
+      ]
+    },
+    {
+      "symptom_id": 4,
+      "name": "Skin fibers / filaments at lesions",
+      "body_system": "dermatological",
+      "description": "Colored fibers seen at, under, or projecting from non-healing skin lesions.",
+      "topics": [
+        {
+          "symptom_id": 4,
+          "topic_id": 2,
+          "frequency": "hallmark",
+          "mechanism_explanation": "Disputed: textile cellulose (CDC) vs endogenous keratin/collagen (minority)."
+        }
+      ],
+      "sources": [
+        "T2-S001",
+        "T2-S006"
+      ]
+    },
+    {
+      "symptom_id": 12,
+      "name": "Uncharacteristic rage / emotional lability",
+      "body_system": "neuropsychiatric",
+      "description": "Sudden mood/behavior change experienced as out of character.",
+      "topics": [
+        {
+          "symptom_id": 12,
+          "topic_id": 6,
+          "frequency": "occasional",
+          "mechanism_explanation": "Proposed neuroinflammatory effect; behavioral/aggression claims are speculative."
+        }
+      ],
+      "sources": [
+        "T6-S001",
+        "T6-S002"
+      ]
+    }
+  ],
+  "insights": [
+    {
+      "insight_id": 1,
+      "topic_id": 1,
+      "category": "emergent-pattern",
+      "title": "One dataset, two doctrines",
+      "content": "Post-treatment Borrelia DNA/antigen and animal persisters are accepted by both camps; they diverge only on interpretation. Lyme arthritis is uniquely informative because DMARD/synovectomy response is a falsifying test the rest of chronic-Lyme lacks.",
+      "sources": [
+        "T1-S008",
+        "T1-S009",
+        "T1-S018",
+        "T1-S001"
+      ]
+    },
+    {
+      "insight_id": 2,
+      "topic_id": 1,
+      "category": "hypothesis",
+      "title": "Autoantigen panel as a refractory-arthritis biomarker",
+      "content": "ECGF, Annexin A2, MMP-10, apoB-100 reactivity could prospectively identify antibiotic-refractory patients who should go straight to DMARDs.",
+      "sources": [
+        "T1-S004",
+        "T1-S006",
+        "T1-S007"
+      ]
+    },
+    {
+      "insight_id": 3,
+      "topic_id": 2,
+      "category": "contradiction",
+      "title": "Cellulose vs. keratin: the irreducible core fact",
+      "content": "The entire dispute reduces to whether filaments are textile cellulose (CDC/Hylwa) or endogenous keratin/collagen (Middelveen) — resolvable by blinded spectroscopy that conspicuously has not been done jointly.",
+      "sources": [
+        "T2-S001",
+        "T2-S003",
+        "T2-S006"
+      ]
+    },
+    {
+      "insight_id": 4,
+      "topic_id": 2,
+      "category": "emergent-pattern",
+      "title": "Real symptom, disputed cause",
+      "content": "Formication and lesions are agreed real; the fight is purely causal. 'Real vs fake' misdescribes Morgellons; the honest framing is organic dermatosis vs delusional infestation vs a heterogeneous mix.",
+      "sources": [
+        "T2-S002",
+        "T2-S011"
+      ]
+    },
+    {
+      "insight_id": 5,
+      "topic_id": 3,
+      "category": "emergent-pattern",
+      "title": "One symptom, two communities, zero shared attribution",
+      "content": "Identical formication is read as a reversible drug effect in stimulant forums and as chronic infection in Lyme/Morgellons forums, with almost no cross-reference — a natural experiment in attribution.",
+      "sources": [
+        "T3-S001",
+        "T3-S002"
+      ]
+    },
+    {
+      "insight_id": 6,
+      "topic_id": 3,
+      "category": "hypothesis",
+      "title": "Abstinence challenge as a clean partition",
+      "content": "Stimulant-caused formication should resolve with sustained abstinence; an abstinence-challenge protocol could prospectively separate stimulant-driven from non-drug Morgellons.",
+      "sources": [
+        "T3-S001",
+        "T3-S005"
+      ]
+    },
+    {
+      "insight_id": 7,
+      "topic_id": 4,
+      "category": "emergent-pattern",
+      "title": "Mechanism mainstream, only the pathogen in question",
+      "content": "Infection->autoimmune basal ganglia->OCD is accepted for streptococcus (PANDAS). The Lyme-OCD claim needs only to show Borrelia uses the existing mechanism — a concrete, testable target.",
+      "sources": [
+        "T4-S005",
+        "T4-S004"
+      ]
+    },
+    {
+      "insight_id": 8,
+      "topic_id": 4,
+      "category": "cross-topic",
+      "title": "Arthritis supplies the human autoimmunity proof",
+      "content": "Lyme arthritis proves Borrelia induces organ-specific autoimmunity in humans (ECGF, Annexin A2) — the strongest indirect support for taking Lyme-OCD seriously, rarely cited in that debate.",
+      "sources": [
+        "T4-S005"
+      ]
+    },
+    {
+      "insight_id": 9,
+      "topic_id": 5,
+      "category": "emergent-pattern",
+      "title": "Treatment-resistant Lyme is often untreated babesiosis",
+      "content": "A meaningful fraction of 'Lyme that won't improve on doxycycline' is co-existing babesiosis that doxycycline does not treat — a point where mainstream and patients agree and acting helps real patients.",
+      "sources": [
+        "T5-S001"
+      ]
+    },
+    {
+      "insight_id": 10,
+      "topic_id": 5,
+      "category": "contradiction",
+      "title": "Validated parasite next to fringe parasite claims",
+      "content": "A strong mainstream parasite (Babesia, validated assays) sits beside fringe claims (novel protozoa, rope worms, non-validated commercial tests). Assay validity cleanly sorts the two.",
+      "sources": [
+        "T5-S004",
+        "T5-S007"
+      ]
+    },
+    {
+      "insight_id": 11,
+      "topic_id": 6,
+      "category": "emergent-pattern",
+      "title": "Two additive suicide-risk routes converge",
+      "content": "A biological route (neuroinflammation/quinolinic acid) and a psychosocial route (chronic pain + medical invalidation) both operate; co-infection severity amplifies both. The psychosocial route is the most modifiable.",
+      "sources": [
+        "T6-S004",
+        "T6-S006",
+        "T6-S001"
+      ]
+    },
+    {
+      "insight_id": 12,
+      "topic_id": 6,
+      "category": "hypothesis",
+      "title": "Invalidation as a modifiable suicide-prevention target",
+      "content": "Clinician validation of real suffering amid diagnostic uncertainty could be studied as a suicide-prevention measure independent of the etiology debate.",
+      "sources": [
+        "T6-S006"
+      ]
+    },
+    {
+      "insight_id": 13,
+      "topic_id": 7,
+      "category": "emergent-pattern",
+      "title": "The syphilis analogy smuggles in the disputed conclusion",
+      "content": "Spirochetal homology is real, but syphilis's late persistence is demonstrable while treated-Lyme CNS persistence is the contested claim. The analogy is a strong hypothesis-generator that imports the very thing in dispute.",
+      "sources": [
+        "T7-S004",
+        "T7-S005"
+      ]
+    },
+    {
+      "insight_id": 14,
+      "topic_id": 7,
+      "category": "cross-topic",
+      "title": "Immunosuppression exposes Lyme's serology dependence",
+      "content": "HIV-Lyme cases show Lyme diagnosis breaks down when the antibody response is altered — fragile exactly in patients where infection may matter most.",
+      "sources": [
+        "T7-S006"
+      ]
+    },
+    {
+      "insight_id": 15,
+      "topic_id": 8,
+      "category": "emergent-pattern",
+      "title": "Minority intuition directionally right, specifically wrong",
+      "content": "Borrelia genuinely suppresses humoral immunity (vindicating 'Lyme wrecks the immune system'), yet the specific CD57 biomarker built on that intuition remains unvalidated.",
+      "sources": [
+        "T8-S002",
+        "T8-S006"
+      ]
+    },
+    {
+      "insight_id": 16,
+      "topic_id": 8,
+      "category": "cross-topic",
+      "title": "Immune disruption is the project's mechanistic spine",
+      "content": "Humoral suppression explains imperfect serology, reinfection, co-infection synergy, atypical HIV presentation, and neuroinflammatory tone — connecting most other topics.",
+      "sources": [
+        "T8-S001",
+        "T8-S002"
+      ]
+    },
+    {
+      "insight_id": 17,
+      "topic_id": 9,
+      "category": "emergent-pattern",
+      "title": "Two true facts fused into one false one",
+      "content": "True: US researched weaponizing ticks and Burgdorfer participated. True: Lyme surged late-20th-century. False weld: therefore Lyme is the escaped weapon — broken by ancient-DNA evidence the narrative omits.",
+      "sources": [
+        "T9-S003",
+        "T9-S001",
+        "T9-S002"
+      ]
+    },
+    {
+      "insight_id": 18,
+      "topic_id": 9,
+      "category": "hypothesis",
+      "title": "Ancient DNA is the decisive, under-deployed counter",
+      "content": "Otzi's Borrelia and 15-My amber spirochetes refute an engineered organism while leaving legitimate historical disclosure questions (2019 DoD-IG review) intact.",
+      "sources": [
+        "T9-S001",
+        "T9-S002",
+        "T9-S004"
+      ]
+    },
+    {
+      "insight_id": 19,
+      "topic_id": null,
+      "category": "cross-topic",
+      "title": "Persistence vs. post-infectious is the master variable",
+      "content": "Topics 1,4,5,6,7,8 all hinge on whether the pathogen persists alive or triggered a self-sustaining process and left. The honest synthesis is both/and: residual antigen + induced autoimmunity + real-but-likely-non-causal persisters.",
+      "sources": [
+        "T1-S009",
+        "T1-S018",
+        "T8-S002",
+        "T1-S001"
+      ]
+    },
+    {
+      "insight_id": 20,
+      "topic_id": null,
+      "category": "cross-topic",
+      "title": "'Validated diagnostic?' sorts credible from fringe",
+      "content": "The portable quality filter across the database: validated assays (Babesia smear/PCR, two-tier serology, CD4) are mainstream; unvalidated ones (CD57, novel-parasite commercial tests, endogenous-filament claims) are fringe-leaning.",
+      "sources": [
+        "T5-S004",
+        "T8-S006",
+        "T5-S007",
+        "T2-S006"
+      ]
+    }
+  ]
+}

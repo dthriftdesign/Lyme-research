@@ -1,0 +1,124 @@
+{
+  "insights": [
+    {
+      "topic_id": 1, "category": "emergent-pattern",
+      "title": "One dataset, two doctrines",
+      "content": "Post-treatment Borrelia DNA/antigen and animal persisters are accepted by both camps; they diverge only on interpretation. Lyme arthritis is uniquely informative because DMARD/synovectomy response is a falsifying test the rest of chronic-Lyme lacks.",
+      "sources": ["T1-S008", "T1-S009", "T1-S018", "T1-S001"]
+    },
+    {
+      "topic_id": 1, "category": "hypothesis",
+      "title": "Autoantigen panel as a refractory-arthritis biomarker",
+      "content": "ECGF, Annexin A2, MMP-10, apoB-100 reactivity could prospectively identify antibiotic-refractory patients who should go straight to DMARDs.",
+      "sources": ["T1-S004", "T1-S006", "T1-S007"]
+    },
+    {
+      "topic_id": 2, "category": "contradiction",
+      "title": "Cellulose vs. keratin: the irreducible core fact",
+      "content": "The entire dispute reduces to whether filaments are textile cellulose (CDC/Hylwa) or endogenous keratin/collagen (Middelveen) — resolvable by blinded spectroscopy that conspicuously has not been done jointly.",
+      "sources": ["T2-S001", "T2-S003", "T2-S006"]
+    },
+    {
+      "topic_id": 2, "category": "emergent-pattern",
+      "title": "Real symptom, disputed cause",
+      "content": "Formication and lesions are agreed real; the fight is purely causal. 'Real vs fake' misdescribes Morgellons; the honest framing is organic dermatosis vs delusional infestation vs a heterogeneous mix.",
+      "sources": ["T2-S002", "T2-S011"]
+    },
+    {
+      "topic_id": 3, "category": "emergent-pattern",
+      "title": "One symptom, two communities, zero shared attribution",
+      "content": "Identical formication is read as a reversible drug effect in stimulant forums and as chronic infection in Lyme/Morgellons forums, with almost no cross-reference — a natural experiment in attribution.",
+      "sources": ["T3-S001", "T3-S002"]
+    },
+    {
+      "topic_id": 3, "category": "hypothesis",
+      "title": "Abstinence challenge as a clean partition",
+      "content": "Stimulant-caused formication should resolve with sustained abstinence; an abstinence-challenge protocol could prospectively separate stimulant-driven from non-drug Morgellons.",
+      "sources": ["T3-S001", "T3-S005"]
+    },
+    {
+      "topic_id": 4, "category": "emergent-pattern",
+      "title": "Mechanism mainstream, only the pathogen in question",
+      "content": "Infection->autoimmune basal ganglia->OCD is accepted for streptococcus (PANDAS). The Lyme-OCD claim needs only to show Borrelia uses the existing mechanism — a concrete, testable target.",
+      "sources": ["T4-S005", "T4-S004"]
+    },
+    {
+      "topic_id": 4, "category": "cross-topic",
+      "title": "Arthritis supplies the human autoimmunity proof",
+      "content": "Lyme arthritis proves Borrelia induces organ-specific autoimmunity in humans (ECGF, Annexin A2) — the strongest indirect support for taking Lyme-OCD seriously, rarely cited in that debate.",
+      "sources": ["T4-S005"]
+    },
+    {
+      "topic_id": 5, "category": "emergent-pattern",
+      "title": "Treatment-resistant Lyme is often untreated babesiosis",
+      "content": "A meaningful fraction of 'Lyme that won't improve on doxycycline' is co-existing babesiosis that doxycycline does not treat — a point where mainstream and patients agree and acting helps real patients.",
+      "sources": ["T5-S001"]
+    },
+    {
+      "topic_id": 5, "category": "contradiction",
+      "title": "Validated parasite next to fringe parasite claims",
+      "content": "A strong mainstream parasite (Babesia, validated assays) sits beside fringe claims (novel protozoa, rope worms, non-validated commercial tests). Assay validity cleanly sorts the two.",
+      "sources": ["T5-S004", "T5-S007"]
+    },
+    {
+      "topic_id": 6, "category": "emergent-pattern",
+      "title": "Two additive suicide-risk routes converge",
+      "content": "A biological route (neuroinflammation/quinolinic acid) and a psychosocial route (chronic pain + medical invalidation) both operate; co-infection severity amplifies both. The psychosocial route is the most modifiable.",
+      "sources": ["T6-S004", "T6-S006", "T6-S001"]
+    },
+    {
+      "topic_id": 6, "category": "hypothesis",
+      "title": "Invalidation as a modifiable suicide-prevention target",
+      "content": "Clinician validation of real suffering amid diagnostic uncertainty could be studied as a suicide-prevention measure independent of the etiology debate.",
+      "sources": ["T6-S006"]
+    },
+    {
+      "topic_id": 7, "category": "emergent-pattern",
+      "title": "The syphilis analogy smuggles in the disputed conclusion",
+      "content": "Spirochetal homology is real, but syphilis's late persistence is demonstrable while treated-Lyme CNS persistence is the contested claim. The analogy is a strong hypothesis-generator that imports the very thing in dispute.",
+      "sources": ["T7-S004", "T7-S005"]
+    },
+    {
+      "topic_id": 7, "category": "cross-topic",
+      "title": "Immunosuppression exposes Lyme's serology dependence",
+      "content": "HIV-Lyme cases show Lyme diagnosis breaks down when the antibody response is altered — fragile exactly in patients where infection may matter most.",
+      "sources": ["T7-S006"]
+    },
+    {
+      "topic_id": 8, "category": "emergent-pattern",
+      "title": "Minority intuition directionally right, specifically wrong",
+      "content": "Borrelia genuinely suppresses humoral immunity (vindicating 'Lyme wrecks the immune system'), yet the specific CD57 biomarker built on that intuition remains unvalidated.",
+      "sources": ["T8-S002", "T8-S006"]
+    },
+    {
+      "topic_id": 8, "category": "cross-topic",
+      "title": "Immune disruption is the project's mechanistic spine",
+      "content": "Humoral suppression explains imperfect serology, reinfection, co-infection synergy, atypical HIV presentation, and neuroinflammatory tone — connecting most other topics.",
+      "sources": ["T8-S001", "T8-S002"]
+    },
+    {
+      "topic_id": 9, "category": "emergent-pattern",
+      "title": "Two true facts fused into one false one",
+      "content": "True: US researched weaponizing ticks and Burgdorfer participated. True: Lyme surged late-20th-century. False weld: therefore Lyme is the escaped weapon — broken by ancient-DNA evidence the narrative omits.",
+      "sources": ["T9-S003", "T9-S001", "T9-S002"]
+    },
+    {
+      "topic_id": 9, "category": "hypothesis",
+      "title": "Ancient DNA is the decisive, under-deployed counter",
+      "content": "Otzi's Borrelia and 15-My amber spirochetes refute an engineered organism while leaving legitimate historical disclosure questions (2019 DoD-IG review) intact.",
+      "sources": ["T9-S001", "T9-S002", "T9-S004"]
+    },
+    {
+      "topic_id": null, "category": "cross-topic",
+      "title": "Persistence vs. post-infectious is the master variable",
+      "content": "Topics 1,4,5,6,7,8 all hinge on whether the pathogen persists alive or triggered a self-sustaining process and left. The honest synthesis is both/and: residual antigen + induced autoimmunity + real-but-likely-non-causal persisters.",
+      "sources": ["T1-S009", "T1-S018", "T8-S002", "T1-S001"]
+    },
+    {
+      "topic_id": null, "category": "cross-topic",
+      "title": "'Validated diagnostic?' sorts credible from fringe",
+      "content": "The portable quality filter across the database: validated assays (Babesia smear/PCR, two-tier serology, CD4) are mainstream; unvalidated ones (CD57, novel-parasite commercial tests, endogenous-filament claims) are fringe-leaning.",
+      "sources": ["T5-S004", "T8-S006", "T5-S007", "T2-S006"]
+    }
+  ]
+}

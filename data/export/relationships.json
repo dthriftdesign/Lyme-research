@@ -1,0 +1,370 @@
+[
+  {
+    "relationship_id": "R001",
+    "from_topic_id": 1,
+    "to_topic_id": 4,
+    "type": "shared-mechanism",
+    "description": "Infection-induced autoimmunity / molecular mimicry: the identified self-antigens in Lyme arthritis (ECGF, Annexin A2) parallel proposed anti-neuronal autoimmunity invoked for Lyme-associated OCD/neuropsychiatric disease.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T1-S004",
+      "T1-S006"
+    ]
+  },
+  {
+    "relationship_id": "R002",
+    "from_topic_id": 1,
+    "to_topic_id": 2,
+    "type": "shared-mechanism",
+    "description": "Both topics invoke spirochetal persistence and biofilm (Sapi) as mechanism; Lyme arthritis is the better-evidenced test bed for persistence-vs-postinfectious interpretation.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T1-S021",
+      "T1-S008"
+    ]
+  },
+  {
+    "relationship_id": "R003",
+    "from_topic_id": 1,
+    "to_topic_id": 5,
+    "type": "contrasting",
+    "description": "The persistence-vs-postinfectious epistemic structure recurs in parasitic-coinfection debates; arthritis offers a falsifying test (DMARD/synovectomy response) absent elsewhere.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T1-S001",
+      "T1-S018"
+    ]
+  },
+  {
+    "relationship_id": "R004",
+    "from_topic_id": 1,
+    "to_topic_id": 9,
+    "type": "contrasting",
+    "description": "Lyme arthritis was the founding clinical syndrome (Lyme, CT, 1977) whose discovery history intersects the bioweapon narrative around Willy Burgdorfer and Plum Island.",
+    "strength": "weak",
+    "evidence_sources": [
+      "T1-S012"
+    ]
+  },
+  {
+    "relationship_id": "R005",
+    "from_topic_id": 2,
+    "to_topic_id": 3,
+    "type": "differential-diagnosis",
+    "description": "Stimulant-induced formication produces crawling sensations and skin-picking phenomenologically identical to Morgellons, a documented confound and possible subgroup explanation.",
+    "strength": "strong",
+    "evidence_sources": [
+      "T2-S002"
+    ]
+  },
+  {
+    "relationship_id": "R006",
+    "from_topic_id": 2,
+    "to_topic_id": 1,
+    "type": "shared-mechanism",
+    "description": "Both topics invoke Borrelia persistence and biofilm (Sapi) as mechanism; Lyme arthritis is the better-evidenced test bed for those claims.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T2-S010"
+    ]
+  },
+  {
+    "relationship_id": "R007",
+    "from_topic_id": 2,
+    "to_topic_id": 5,
+    "type": "symptom-overlap",
+    "description": "Morgellons 'infestation' phenomenology overlaps with genuine-versus-perceived parasitic infection debates and delusional infestation.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T2-S002"
+    ]
+  },
+  {
+    "relationship_id": "R008",
+    "from_topic_id": 2,
+    "to_topic_id": 4,
+    "type": "shared-mechanism",
+    "description": "Both Morgellons (as DI) and Lyme-OCD involve neuropsychiatric symptom generation attributed by patients to infection and by mainstream medicine to brain-based mechanisms.",
+    "strength": "weak",
+    "evidence_sources": [
+      "T2-S002"
+    ]
+  },
+  {
+    "relationship_id": "R009",
+    "from_topic_id": 3,
+    "to_topic_id": 2,
+    "type": "differential-diagnosis",
+    "description": "Stimulant-induced delusional infestation is the primary differential and a likely subgroup explanation for Morgellons; phenomenology is identical.",
+    "strength": "strong",
+    "evidence_sources": [
+      "T3-S002",
+      "T3-S004"
+    ]
+  },
+  {
+    "relationship_id": "R010",
+    "from_topic_id": 3,
+    "to_topic_id": 4,
+    "type": "shared-mechanism",
+    "description": "Compulsive skin-picking (excoriation) and dopaminergic/striatal circuitry connect stimulant formication to OCD-spectrum mechanisms.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T3-S001"
+    ]
+  },
+  {
+    "relationship_id": "R011",
+    "from_topic_id": 3,
+    "to_topic_id": 5,
+    "type": "symptom-overlap",
+    "description": "Delusional versus genuine infestation runs through both stimulant DI and parasitic-infection topics.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T3-S004"
+    ]
+  },
+  {
+    "relationship_id": "R012",
+    "from_topic_id": 4,
+    "to_topic_id": 1,
+    "type": "shared-mechanism",
+    "description": "Lyme arthritis provides the human proof-of-concept that Borrelia induces organ-specific autoimmunity (ECGF, Annexin A2); the Lyme-OCD hypothesis needs the same template in the brain.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T4-S005"
+    ]
+  },
+  {
+    "relationship_id": "R013",
+    "from_topic_id": 4,
+    "to_topic_id": 6,
+    "type": "shared-mechanism",
+    "description": "Bransfield's psychoimmunology links the same neuroinflammatory/autoimmune mechanisms to mood disturbance and suicidality.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T4-S004"
+    ]
+  },
+  {
+    "relationship_id": "R014",
+    "from_topic_id": 4,
+    "to_topic_id": 3,
+    "type": "shared-mechanism",
+    "description": "Dopaminergic/striatal circuitry and compulsive behaviors connect stimulant formication/picking to OCD-spectrum mechanisms.",
+    "strength": "weak",
+    "evidence_sources": [
+      "T4-S005"
+    ]
+  },
+  {
+    "relationship_id": "R015",
+    "from_topic_id": 4,
+    "to_topic_id": 2,
+    "type": "symptom-overlap",
+    "description": "Illness fears (Lyme/Morgellons) can become the content of OCD, an attribution loop linking the two topics.",
+    "strength": "weak",
+    "evidence_sources": [
+      "T4-S001"
+    ]
+  },
+  {
+    "relationship_id": "R016",
+    "from_topic_id": 5,
+    "to_topic_id": 6,
+    "type": "comorbidity",
+    "description": "Co-infection severity and neurologic symptoms feed the neuropsychiatric burden linked to suicidality in tick-borne disease.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T5-S001"
+    ]
+  },
+  {
+    "relationship_id": "R017",
+    "from_topic_id": 5,
+    "to_topic_id": 1,
+    "type": "shared-mechanism",
+    "description": "The persistence-vs-postinfectious debate repeats with Babesia persistence as the parasitic analog of Borrelia persistence.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T5-S001"
+    ]
+  },
+  {
+    "relationship_id": "R018",
+    "from_topic_id": 5,
+    "to_topic_id": 2,
+    "type": "symptom-overlap",
+    "description": "Parasite-cleanse culture and 'infestation' beliefs overlap with delusional-infestation phenomenology in Morgellons.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T5-S007"
+    ]
+  },
+  {
+    "relationship_id": "R019",
+    "from_topic_id": 5,
+    "to_topic_id": 8,
+    "type": "shared-mechanism",
+    "description": "Babesia is intra-erythrocytic and immunomodulatory; co-infection alters immune/blood-cell responses relevant to the WBC-disruption topic.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T5-S003"
+    ]
+  },
+  {
+    "relationship_id": "R020",
+    "from_topic_id": 6,
+    "to_topic_id": 4,
+    "type": "shared-mechanism",
+    "description": "Same neuroinflammatory/psychoimmune model (Bransfield) underlies both Lyme-OCD and Lyme-associated suicidality; different symptom outputs.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T6-S001"
+    ]
+  },
+  {
+    "relationship_id": "R021",
+    "from_topic_id": 6,
+    "to_topic_id": 5,
+    "type": "comorbidity",
+    "description": "Co-infection severity (Babesia) amplifies both the biological and psychosocial suicide-risk routes.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T6-S007"
+    ]
+  },
+  {
+    "relationship_id": "R022",
+    "from_topic_id": 6,
+    "to_topic_id": 8,
+    "type": "shared-mechanism",
+    "description": "Immune dysregulation is the shared upstream node connecting suicidality mechanisms to WBC/immune disruption.",
+    "strength": "weak",
+    "evidence_sources": [
+      "T6-S004"
+    ]
+  },
+  {
+    "relationship_id": "R023",
+    "from_topic_id": 7,
+    "to_topic_id": 8,
+    "type": "shared-mechanism",
+    "description": "HIV/Borrelia immunomodulation and serologic behavior bridge directly to immune/WBC-disruption mechanisms.",
+    "strength": "strong",
+    "evidence_sources": [
+      "T7-S006",
+      "T7-S007"
+    ]
+  },
+  {
+    "relationship_id": "R024",
+    "from_topic_id": 7,
+    "to_topic_id": 1,
+    "type": "contrasting",
+    "description": "The syphilis analogy props up the Lyme persistence/long-treatment argument that arthritis data partly falsify.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T7-S004"
+    ]
+  },
+  {
+    "relationship_id": "R025",
+    "from_topic_id": 7,
+    "to_topic_id": 9,
+    "type": "contrasting",
+    "description": "The engineered Lyme/HIV/syphilis-triad conspiracy routes to the bioweapon topic; documented as a claim, not endorsed.",
+    "strength": "weak",
+    "evidence_sources": [
+      "T7-S008"
+    ]
+  },
+  {
+    "relationship_id": "R026",
+    "from_topic_id": 7,
+    "to_topic_id": 6,
+    "type": "shared-mechanism",
+    "description": "Neurosyphilis's psychiatric manifestations are the historical template for spirochetal neuropsychiatry (mood, suicidality, dementia).",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T7-S005"
+    ]
+  },
+  {
+    "relationship_id": "R027",
+    "from_topic_id": 8,
+    "to_topic_id": 7,
+    "type": "shared-mechanism",
+    "description": "Direct continuation of the HIV/syphilis topic: serologic cross-talk and immune disruption are the shared substrate.",
+    "strength": "strong",
+    "evidence_sources": [
+      "T8-S008"
+    ]
+  },
+  {
+    "relationship_id": "R028",
+    "from_topic_id": 8,
+    "to_topic_id": 5,
+    "type": "shared-mechanism",
+    "description": "Borrelia immunosuppression boosts Babesia and underlies co-infection synergy.",
+    "strength": "strong",
+    "evidence_sources": [
+      "T8-S008"
+    ]
+  },
+  {
+    "relationship_id": "R029",
+    "from_topic_id": 8,
+    "to_topic_id": 1,
+    "type": "shared-mechanism",
+    "description": "Abnormal B-cell/germinal-center biology connects immune disruption to the autoantibody story in Lyme arthritis.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T8-S002"
+    ]
+  },
+  {
+    "relationship_id": "R030",
+    "from_topic_id": 8,
+    "to_topic_id": 6,
+    "type": "shared-mechanism",
+    "description": "Immune dysregulation is the upstream node for the neuroinflammatory mechanisms linked to mood and suicidality.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T8-S001"
+    ]
+  },
+  {
+    "relationship_id": "R031",
+    "from_topic_id": 9,
+    "to_topic_id": 7,
+    "type": "contrasting",
+    "description": "The engineered Lyme/HIV/syphilis-triad conspiracy connects here; both share the structure of welding real history onto a false origin claim.",
+    "strength": "moderate",
+    "evidence_sources": [
+      "T9-S003"
+    ]
+  },
+  {
+    "relationship_id": "R032",
+    "from_topic_id": 9,
+    "to_topic_id": 1,
+    "type": "contrasting",
+    "description": "The bioweapon 'cover-up' narrative fuses the IDSA/ILADS treatment-guideline dispute into the origin story; discourse linkage, not biological.",
+    "strength": "weak",
+    "evidence_sources": [
+      "T9-S004"
+    ]
+  },
+  {
+    "relationship_id": "R033",
+    "from_topic_id": 9,
+    "to_topic_id": 5,
+    "type": "contrasting",
+    "description": "Externalization of blame (government/institutions) parallels the infectious-over-autoimmune and hidden-parasite explanatory preferences seen elsewhere.",
+    "strength": "weak",
+    "evidence_sources": [
+      "T9-S008"
+    ]
+  }
+]
