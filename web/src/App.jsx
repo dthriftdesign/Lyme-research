@@ -6,6 +6,7 @@ import SymptomSearch from './pages/SymptomSearch'
 import Graph from './pages/Graph'
 import SourceDetail from './pages/SourceDetail'
 import MetaInsights from './pages/MetaInsights'
+import Methodology from './pages/Methodology'
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
         <Route path="/symptom-search" element={<SymptomSearch />} />
         <Route path="/graph" element={<Graph />} />
         <Route path="/meta-insights" element={<MetaInsights />} />
+        <Route path="/methodology" element={<Methodology />} />
         <Route path="/source/:id" element={<SourceDetail />} />
         <Route path="*" element={<Home />} />
       </Route>

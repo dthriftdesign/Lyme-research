@@ -7,7 +7,15 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "A critical appraisal of 'chronic Lyme disease'",
-      "authors": ["Feder HM Jr", "Johnson BJB", "O'Connell S", "Shapiro ED", "Steere AC", "Wormser GP", "et al."],
+      "authors": [
+        "Feder HM Jr",
+        "Johnson BJB",
+        "O'Connell S",
+        "Shapiro ED",
+        "Steere AC",
+        "Wormser GP",
+        "et al."
+      ],
       "year": 2007,
       "journal_or_publisher": "New England Journal of Medicine",
       "doi": "10.1056/NEJMra072023",
@@ -21,7 +29,9 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Chronic Lyme disease: a review",
-      "authors": ["Marques A"],
+      "authors": [
+        "Marques A"
+      ],
       "year": 2008,
       "journal_or_publisher": "Infectious Disease Clinics of North America",
       "doi": "10.1016/j.idc.2007.12.011",
@@ -35,7 +45,12 @@
       "type": "guideline",
       "consensus_status": "mainstream",
       "title": "2020 IDSA/AAN/ACR Lyme Disease Guidelines (persistent symptoms / retreatment sections)",
-      "authors": ["Lantos PM", "Rumbaugh J", "Bockenstedt LK", "et al."],
+      "authors": [
+        "Lantos PM",
+        "Rumbaugh J",
+        "Bockenstedt LK",
+        "et al."
+      ],
       "year": 2021,
       "journal_or_publisher": "Clinical Infectious Diseases",
       "doi": "10.1093/cid/ciaa1215",
@@ -49,7 +64,15 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Two controlled trials of antibiotic treatment in patients with persistent symptoms and a history of Lyme disease",
-      "authors": ["Klempner MS", "Hu LT", "Evans J", "Schmid CH", "Johnson GM", "Trevino RP", "et al."],
+      "authors": [
+        "Klempner MS",
+        "Hu LT",
+        "Evans J",
+        "Schmid CH",
+        "Johnson GM",
+        "Trevino RP",
+        "et al."
+      ],
       "year": 2001,
       "journal_or_publisher": "New England Journal of Medicine",
       "doi": "10.1056/NEJM200107123450202",
@@ -63,7 +86,9 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Posttreatment Lyme disease syndrome",
-      "authors": ["Aucott JN"],
+      "authors": [
+        "Aucott JN"
+      ],
       "year": 2015,
       "journal_or_publisher": "Infectious Disease Clinics of North America",
       "doi": "10.1016/j.idc.2015.02.012",
@@ -77,21 +102,39 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Association of Persistent Symptoms after Lyme Neuroborreliosis and Increased Levels of Interferon-alpha in Blood",
-      "authors": ["(study authors)"],
+      "authors": [
+        "Hernandez SA",
+        "Ogrinc K",
+        "Korva M",
+        "Kastrin A",
+        "Bogovic P",
+        "Rojko T",
+        "Kelley KW",
+        "Weis JJ",
+        "Strle F",
+        "Strle K"
+      ],
       "year": 2023,
-      "journal_or_publisher": "Emerging Infectious Diseases (CDC)",
+      "journal_or_publisher": "Emerging Infectious Diseases",
       "doi": "10.3201/eid2906.221685",
       "pmid": null,
       "url": "https://wwwnc.cdc.gov/eid/article/29/6/22-1685_article",
       "key_findings": "Found elevated interferon-alpha in blood of patients with persistent symptoms after Lyme neuroborreliosis, suggesting a measurable immune correlate.",
-      "relevance_notes": "Objective biological correlate for persistent post-Lyme symptoms (mainstream)."
+      "relevance_notes": "Objective biological correlate for persistent post-Lyme symptoms (mainstream).",
+      "verified": "2026-06 web-confirmed"
     },
     {
       "source_id": "T10-S007",
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Association of small fiber neuropathy and post treatment Lyme disease syndrome",
-      "authors": ["Novak P", "Felsenstein D", "Mao C", "Octavien NR", "Zubcevik N"],
+      "authors": [
+        "Novak P",
+        "Felsenstein D",
+        "Mao C",
+        "Octavien NR",
+        "Zubcevik N"
+      ],
       "year": 2019,
       "journal_or_publisher": "PLOS ONE",
       "doi": "10.1371/journal.pone.0212222",
@@ -105,7 +148,15 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Chronic Lyme Disease: An Evidence-Based Definition by the ILADS Working Group",
-      "authors": ["Shor S", "Green C", "Szantyr B", "Phillips S", "Liegner K", "Burrascano JJ", "et al."],
+      "authors": [
+        "Shor S",
+        "Green C",
+        "Szantyr B",
+        "Phillips S",
+        "Liegner K",
+        "Burrascano JJ",
+        "et al."
+      ],
       "year": 2019,
       "journal_or_publisher": "Antibiotics (Basel)",
       "doi": "10.3390/antibiotics8040269",
@@ -119,7 +170,15 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Persistence of Borrelia burgdorferi in Rhesus Macaques following Antibiotic Treatment of Disseminated Infection",
-      "authors": ["Embers ME", "Barthold SW", "Borda JT", "Bowers L", "Doyle L", "Hodzic E", "et al."],
+      "authors": [
+        "Embers ME",
+        "Barthold SW",
+        "Borda JT",
+        "Bowers L",
+        "Doyle L",
+        "Hodzic E",
+        "et al."
+      ],
       "year": 2012,
       "journal_or_publisher": "PLOS ONE",
       "doi": "10.1371/journal.pone.0029914",
@@ -133,21 +192,32 @@
       "type": "peer_reviewed",
       "consensus_status": "speculative",
       "title": "Reassessing Chronic Lyme Disease and Post-Treatment Lyme Disease Syndrome as Focal Infections",
-      "authors": ["(review authors)"],
+      "authors": [
+        "Lakos A",
+        "Nagy G",
+        "Varga Z",
+        "Rasonyi-Kovacs P",
+        "Hornok S"
+      ],
       "year": 2025,
-      "journal_or_publisher": "review (PMC)",
-      "doi": null,
+      "journal_or_publisher": "Cureus",
+      "doi": "10.7759/cureus.91246",
       "pmid": null,
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12476892/",
       "key_findings": "Proposes reframing chronic Lyme/PTLDS as residual focal infection in privileged sites.",
-      "relevance_notes": "Recent hypothesis-level reframing; not established."
+      "relevance_notes": "Recent hypothesis-level reframing; not established.",
+      "verified": "2026-06 web-confirmed"
     },
     {
       "source_id": "T10-S011",
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Empirical validation of the Horowitz Multiple Systemic Infectious Disease Syndrome Questionnaire for suspected Lyme disease",
-      "authors": ["Citera M", "Freeman PR", "Horowitz RI"],
+      "authors": [
+        "Citera M",
+        "Freeman PR",
+        "Horowitz RI"
+      ],
       "year": 2017,
       "journal_or_publisher": "International Journal of General Medicine",
       "doi": "10.2147/IJGM.S140224",
@@ -165,8 +235,12 @@
       "approximate_date": "2014-2024",
       "paraphrased_content": "Years of fatigue, pain, brain fog, and dysautonomia bouncing between specialists with ambiguous tests, before a chronic-Lyme diagnosis provides a unifying explanation and relief at being believed.",
       "pattern_tag": "diagnostic-odyssey",
-      "corroborates_sources": ["T10-S002", "T10-S005"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T10-S002",
+        "T10-S005"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T10-F002",
@@ -175,8 +249,14 @@
       "approximate_date": "2008-2022",
       "paraphrased_content": "Reports of feeling substantially better on extended/combination antibiotics and worse when stopping, read as proof of ongoing infection; others report no benefit or harm.",
       "pattern_tag": "antibiotic-response-relapse",
-      "corroborates_sources": ["T10-S008", "T10-S009"],
-      "contradicts_sources": ["T10-S004"]
+      "corroborates_sources": [
+        "T10-S008",
+        "T10-S009"
+      ],
+      "contradicts_sources": [
+        "T10-S004"
+      ],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T10-F003",
@@ -185,8 +265,11 @@
       "approximate_date": "2018-2024",
       "paraphrased_content": "Patients describe themselves as having late-stage or disseminated chronic Lyme, fearing irreversible neurological or cardiac damage and pursuing aggressive treatment.",
       "pattern_tag": "late-stage-fear-of-permanence",
-      "corroborates_sources": ["T10-S003"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T10-S003"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T10-F004",
@@ -195,8 +278,11 @@
       "approximate_date": "2016-2024",
       "paraphrased_content": "Heavy cross-membership with ME/CFS, long-COVID, POTS, and mast-cell communities describing near-identical post-infectious symptom clusters and migrating between labels.",
       "pattern_tag": "post-infectious-overlap",
-      "corroborates_sources": ["T10-S005"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T10-S005"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T10-F005",
@@ -205,8 +291,12 @@
       "approximate_date": "2015-2024",
       "paraphrased_content": "Anger at the guideline/insurance system for not recognizing chronic Lyme, denied coverage for long antibiotics, and deep distrust of mainstream medicine.",
       "pattern_tag": "invalidation-and-politics",
-      "corroborates_sources": ["T10-S001", "T10-S002"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T10-S001",
+        "T10-S002"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     }
   ]
 }

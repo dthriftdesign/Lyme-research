@@ -1,0 +1,294 @@
+{
+  "topic_id": 12,
+  "topic_title": "Lyme and vaccines (incl. COVID-19 vaccines)",
+  "sources": [
+    {
+      "source_id": "T12-S001",
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "Vaccination against Lyme disease with recombinant Borrelia burgdorferi outer-surface lipoprotein A with adjuvant",
+      "authors": [
+        "Steere AC",
+        "Sikand VK",
+        "Meurice F",
+        "Parenti DL",
+        "Fikrig E",
+        "Schoen RT",
+        "et al.",
+        "Krause DS"
+      ],
+      "year": 1998,
+      "journal_or_publisher": "New England Journal of Medicine",
+      "doi": "10.1056/NEJM199807233390401",
+      "pmid": "9673298",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9673298/",
+      "key_findings": "Pivotal Phase III LYMErix (OspA) vaccine trial: ~76-80% reduction in new infections; transient arthralgia non-significantly increased; arthritis NOT increased versus placebo.",
+      "relevance_notes": "Primary evidence on the only licensed human Lyme vaccine and its (non-)arthritis safety signal.",
+      "verified": "2026-06 web-confirmed"
+    },
+    {
+      "source_id": "T12-S002",
+      "type": "peer_reviewed",
+      "consensus_status": "minority-research",
+      "title": "Identification of LFA-1 as a candidate autoantigen in treatment-resistant Lyme arthritis",
+      "authors": [
+        "Gross DM",
+        "Forsthuber T",
+        "Tary-Lehmann M",
+        "Etling C",
+        "Ito K",
+        "Nagy ZA",
+        "Field JA",
+        "Steere AC",
+        "Huber BT"
+      ],
+      "year": 1998,
+      "journal_or_publisher": "Science",
+      "doi": "10.1126/science.281.5377.703",
+      "pmid": "9685265",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9685265/",
+      "key_findings": "Proposed molecular mimicry between B. burgdorferi OspA and human LFA-1 in HLA-DRB1*0401 individuals as a mechanism for treatment-resistant Lyme arthritis; basis of the OspA-vaccine autoimmunity concern.",
+      "relevance_notes": "The molecular-mimicry hypothesis (later not clinically confirmed) that drove fears about an OspA vaccine.",
+      "verified": "2026-06 web-confirmed"
+    },
+    {
+      "source_id": "T12-S003",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "The Lyme vaccine: a cautionary tale",
+      "authors": [
+        "Nigrovic LE",
+        "Thompson KM"
+      ],
+      "year": 2007,
+      "journal_or_publisher": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268806007096",
+      "pmid": "16893489",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16893489/",
+      "key_findings": "LYMErix reduced infections ~80% yet was withdrawn within 3 years amid media coverage, side-effect fears, and falling sales rather than demonstrated harm.",
+      "relevance_notes": "Mainstream account that the withdrawal was a risk-perception cascade, not proven vaccine harm.",
+      "verified": "2026-06 web-confirmed"
+    },
+    {
+      "source_id": "T12-S004",
+      "type": "peer_reviewed",
+      "consensus_status": "historical",
+      "title": "The Rise and Fall of the Lyme Disease Vaccines: A Cautionary Tale for Risk Interventions in American Medicine and Public Health",
+      "authors": [
+        "Aronowitz RA"
+      ],
+      "year": 2012,
+      "journal_or_publisher": "The Milbank Quarterly",
+      "doi": "10.1111/j.1468-0009.2012.00663.x",
+      "pmid": "22709388",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22709388/",
+      "key_findings": "Despite safety/efficacy in trials and postmarketing surveillance, the Lyme vaccines were withdrawn amid litigation and risk perception; a sociological analysis of the collapse.",
+      "relevance_notes": "Authoritative historical/sociological framing of why LYMErix failed.",
+      "verified": "2026-06 web-confirmed"
+    },
+    {
+      "source_id": "T12-S005",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "The year that shaped the outcome of the OspA vaccine for human Lyme disease",
+      "authors": [
+        "Dattwyler RJ",
+        "Gomes-Solecki M"
+      ],
+      "year": 2022,
+      "journal_or_publisher": "npj Vaccines",
+      "doi": "10.1038/s41541-022-00429-5",
+      "pmid": "35087055",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35087055/",
+      "key_findings": "Reviews the 1998 FDA hearing and the OspA-LFA-1 molecular-mimicry concern, concluding the feared vaccine-induced autoimmunity was not borne out; informs next-generation design.",
+      "relevance_notes": "Mainstream retrospective on the OspA-autoimmunity concern and its resolution.",
+      "verified": "2026-06 web-confirmed"
+    },
+    {
+      "source_id": "T12-S006",
+      "type": "historical_document",
+      "consensus_status": "mainstream",
+      "title": "Phase 3 VALOR Lyme Disease Trial (VLA15): primary vaccination series completion (Pfizer/Valneva)",
+      "authors": [
+        "Pfizer",
+        "Valneva SE"
+      ],
+      "year": 2024,
+      "journal_or_publisher": "Pfizer / Valneva press release",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.pfizer.com/news/press-release/press-release-detail/phase-3-valor-lyme-disease-trial-valneva-and-pfizer",
+      "key_findings": "VLA15, a six-valent OspA-based Lyme vaccine engineered to avoid the LFA-1-homologous region, completed its Phase 3 VALOR primary series (9,437 participants) in 2024.",
+      "relevance_notes": "Current OspA vaccine in development; signals the autoimmunity concern is considered manageable.",
+      "verified": "2026-06 web-confirmed"
+    },
+    {
+      "source_id": "T12-S007",
+      "type": "preprint",
+      "consensus_status": "speculative",
+      "title": "Immunological and Antigenic Signatures Associated with Chronic Illnesses after COVID-19 Vaccination (Yale LISTEN)",
+      "authors": [
+        "Bhattacharjee B",
+        "et al.",
+        "Guan L",
+        "Krumholz HM",
+        "Iwasaki A"
+      ],
+      "year": 2025,
+      "journal_or_publisher": "medRxiv (preprint, not peer-reviewed)",
+      "doi": "10.1101/2025.02.18.25322379",
+      "pmid": null,
+      "url": "https://www.medrxiv.org/content/10.1101/2025.02.18.25322379",
+      "key_findings": "Small cross-sectional study (42 PVS vs 22 controls) reporting altered T-cell profiles, EBV-reactivation serology, and circulating spike protein in post-vaccination-syndrome participants.",
+      "relevance_notes": "Serious but preliminary, unreplicated, non-Lyme-specific PVS research; flagged speculative/preprint."
+    },
+    {
+      "source_id": "T12-S008",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Investigation of Long COVID Prevalence and Its Relationship to Epstein-Barr Virus Reactivation",
+      "authors": [
+        "Gold JE",
+        "Okyay RA",
+        "Licht WE",
+        "Hurley DJ"
+      ],
+      "year": 2021,
+      "journal_or_publisher": "Pathogens",
+      "doi": "10.3390/pathogens10060763",
+      "pmid": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8233978/",
+      "key_findings": "Long-COVID symptoms were associated with serological evidence of EBV reactivation, illustrating that immune challenges can reactivate latent pathogens.",
+      "relevance_notes": "Mainstream basis for the general 'immune event reactivates latent pathogen' mechanism (not Borrelia-specific).",
+      "verified": "2026-06 web-confirmed"
+    },
+    {
+      "source_id": "T12-S009",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Posttreatment Lyme disease syndrome",
+      "authors": [
+        "Aucott JN"
+      ],
+      "year": 2015,
+      "journal_or_publisher": "Infectious Disease Clinics of North America",
+      "doi": "10.1016/j.idc.2015.02.012",
+      "pmid": "25999225",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25999225/",
+      "key_findings": "Characterizes PTLDS as a real post-infectious syndrome; provides the chronic-illness substrate that non-specific immune activation can transiently flare.",
+      "relevance_notes": "Anchors the immune-activation-flare and long-COVID/PTLDS-overlap framing.",
+      "verified": "2026-06 web-confirmed"
+    },
+    {
+      "source_id": "T12-S010",
+      "type": "peer_reviewed",
+      "consensus_status": "mainstream",
+      "title": "Antibiotic-refractory Lyme arthritis is associated with HLA-DR molecules that bind a Borrelia burgdorferi peptide",
+      "authors": [
+        "Steere AC",
+        "Klitz W",
+        "Drouin EE",
+        "Falk BA",
+        "Kwok WW",
+        "Nepom GT",
+        "Baxter-Lowe LA"
+      ],
+      "year": 2006,
+      "journal_or_publisher": "Journal of Experimental Medicine",
+      "doi": "10.1084/jem.20052471",
+      "pmid": "16585267",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16585267/",
+      "key_findings": "OspA-peptide-binding HLA-DR alleles mark antibiotic-refractory Lyme arthritis — the HLA/OspA axis underlying both the autoimmune-arthritis and vaccine-mimicry concerns.",
+      "relevance_notes": "Mechanistic bridge to Topic 1 and to the OspA-vaccine autoimmunity hypothesis.",
+      "verified": "2026-06 web-confirmed"
+    },
+    {
+      "source_id": "T12-S011",
+      "type": "guideline",
+      "consensus_status": "mainstream",
+      "title": "COVID-19 Vaccine Safety (CDC)",
+      "authors": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "year": 2024,
+      "journal_or_publisher": "US Centers for Disease Control and Prevention",
+      "doi": null,
+      "pmid": null,
+      "url": "https://www.cdc.gov/vaccine-safety/vaccines/covid-19.html",
+      "key_findings": "Summarizes the established safety profile of COVID-19 vaccines from large-scale surveillance; no established evidence of Borrelia reactivation.",
+      "relevance_notes": "Vaccine-safety consensus anchor for the misinformation-sensitive claims.",
+      "verified": "2026-06 web-confirmed"
+    }
+  ],
+  "forum_excerpts": [
+    {
+      "excerpt_id": "T12-F001",
+      "platform": "r/Lyme",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2021-2024",
+      "paraphrased_content": "Posters with prior Lyme describe a symptom flare in the days to weeks after a COVID-19 vaccine dose, interpreting it as the vaccine worsening or 'waking up' their Lyme.",
+      "pattern_tag": "flare-after-covid-vaccine",
+      "corroborates_sources": [
+        "T12-S009",
+        "T12-S007"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
+    },
+    {
+      "excerpt_id": "T12-F002",
+      "platform": "long-COVID / r/Lyme communities",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2021-2024",
+      "paraphrased_content": "Many of the same posters report comparable or worse flares after COVID-19 infection itself, sometimes acknowledging the infection hit harder than the shot.",
+      "pattern_tag": "flare-after-covid-infection-confounder",
+      "corroborates_sources": [
+        "T12-S008",
+        "T12-S009"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
+    },
+    {
+      "excerpt_id": "T12-F003",
+      "platform": "vaccine-injury / anti-vaccine communities",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2021-2024",
+      "paraphrased_content": "Stronger causal posts assert the COVID vaccine caused or reactivated active Lyme, often shared alongside broader anti-vaccine content.",
+      "pattern_tag": "vaccine-caused-lyme-causal-claim",
+      "corroborates_sources": [],
+      "contradicts_sources": [
+        "T12-S011"
+      ],
+      "provenance": "synthesized-pattern"
+    },
+    {
+      "excerpt_id": "T12-F004",
+      "platform": "LymeNet Flash",
+      "thread_url": "http://flash.lymenet.org/",
+      "approximate_date": "2002-2024",
+      "paraphrased_content": "Posters cite the withdrawn LYMErix vaccine as proof that Lyme vaccines harm people, extending the distrust to COVID and future Lyme (VLA15) vaccines.",
+      "pattern_tag": "lymerix-history-as-proof",
+      "corroborates_sources": [
+        "T12-S003"
+      ],
+      "contradicts_sources": [
+        "T12-S001"
+      ],
+      "provenance": "synthesized-pattern"
+    },
+    {
+      "excerpt_id": "T12-F005",
+      "platform": "r/Lyme / long-COVID communities",
+      "thread_url": "https://www.reddit.com/r/Lyme/",
+      "approximate_date": "2021-2024",
+      "paraphrased_content": "A counter-current of posters report no flare or good vaccine tolerance, and some push back on causal claims and misinformation within the communities.",
+      "pattern_tag": "no-flare-and-pushback",
+      "corroborates_sources": [
+        "T12-S011"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
+    }
+  ]
+}

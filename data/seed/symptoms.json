@@ -458,6 +458,22 @@
       "topics": [
         {"topic_id": 11, "frequency": "rare", "mechanism_explanation": "Documented in the foundational maternal-fetal transmission case and observational pregnancy-outcome data; confounded and reduced by treatment.", "sources": ["T11-S002", "T11-S004"]}
       ]
+    },
+    {
+      "name": "Symptom flare after vaccination or immune challenge",
+      "body_system": "constitutional",
+      "description": "Transient worsening of chronic-illness symptoms (fatigue, pain, neuro) in the days to weeks after a vaccine or other immune stimulus.",
+      "topics": [
+        {"topic_id": 12, "frequency": "common", "mechanism_explanation": "Non-specific immune activation can transiently flare PTLDS/chronic illness; possible latent-pathogen reactivation (e.g., EBV). No established evidence of Borrelia reactivation; confounded by nocebo and by COVID infection itself.", "sources": ["T12-S009", "T12-S008", "T12-S007"]}
+      ]
+    },
+    {
+      "name": "Circulating spike protein / persistent vaccine antigen (reported)",
+      "body_system": "immunologic",
+      "description": "Preliminary reports of detectable spike protein months to years after COVID-19 vaccination in people with post-vaccination syndrome.",
+      "topics": [
+        {"topic_id": 12, "frequency": "rare", "mechanism_explanation": "Reported in a small, unreplicated preprint (Yale LISTEN); flagged speculative and not Lyme-specific.", "sources": ["T12-S007"]}
+      ]
     }
   ]
 }

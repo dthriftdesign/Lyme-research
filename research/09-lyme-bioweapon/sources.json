@@ -7,7 +7,15 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "New insights into the Tyrolean Iceman's origin and phenotype as inferred by whole-genome sequencing",
-      "authors": ["Keller A", "Graefen A", "Ball M", "Matzas M", "Boisguerin V", "Maixner F", "et al."],
+      "authors": [
+        "Keller A",
+        "Graefen A",
+        "Ball M",
+        "Matzas M",
+        "Boisguerin V",
+        "Maixner F",
+        "et al."
+      ],
       "year": 2012,
       "journal_or_publisher": "Nature Communications",
       "doi": "10.1038/ncomms1701",
@@ -21,7 +29,9 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Spirochete-like cells in a Dominican amber Amblyomma tick (Arachnida: Ixodidae)",
-      "authors": ["Poinar G"],
+      "authors": [
+        "Poinar G"
+      ],
       "year": 2015,
       "journal_or_publisher": "Historical Biology",
       "doi": "10.1080/08912963.2014.897699",
@@ -35,7 +45,9 @@
       "type": "book",
       "consensus_status": "speculative",
       "title": "Bitten: The Secret History of Lyme Disease and Biological Weapons",
-      "authors": ["Newby K"],
+      "authors": [
+        "Newby K"
+      ],
       "year": 2019,
       "journal_or_publisher": "Harper Wave",
       "doi": null,
@@ -49,7 +61,9 @@
       "type": "historical_document",
       "consensus_status": "historical",
       "title": "2019 House amendment (Rep. Christopher Smith) directing DoD Inspector General review of tick weaponization, 1950-1975 (FY2020 NDAA)",
-      "authors": ["US House of Representatives"],
+      "authors": [
+        "US House of Representatives"
+      ],
       "year": 2019,
       "journal_or_publisher": "US Congress / Defense Authorization Act FY2020",
       "doi": null,
@@ -63,7 +77,9 @@
       "type": "forum_meta",
       "consensus_status": "mainstream",
       "title": "Did Lawmakers Demand the Pentagon Disclose If It Developed Weaponized Ticks? (fact-check)",
-      "authors": ["Snopes"],
+      "authors": [
+        "Snopes"
+      ],
       "year": 2019,
       "journal_or_publisher": "Snopes",
       "doi": null,
@@ -77,7 +93,9 @@
       "type": "forum_meta",
       "consensus_status": "mainstream",
       "title": "House measure on weaponized ticks revives discredited conspiracy theory",
-      "authors": ["Medill News Service"],
+      "authors": [
+        "Medill News Service"
+      ],
       "year": 2019,
       "journal_or_publisher": "Medill News Service (Northwestern)",
       "doi": null,
@@ -91,7 +109,9 @@
       "type": "book",
       "consensus_status": "fringe",
       "title": "Lab 257: The Disturbing Story of the Government's Secret Plum Island Germ Laboratory",
-      "authors": ["Carroll MC"],
+      "authors": [
+        "Carroll MC"
+      ],
       "year": 2004,
       "journal_or_publisher": "William Morrow",
       "doi": null,
@@ -105,7 +125,9 @@
       "type": "forum_meta",
       "consensus_status": "mainstream",
       "title": "Troublesome Ticks: Dispelling Bioweapon Rumors",
-      "authors": ["Contagion Live"],
+      "authors": [
+        "Contagion Live"
+      ],
       "year": 2019,
       "journal_or_publisher": "Contagion Live",
       "doi": null,
@@ -123,8 +145,14 @@
       "approximate_date": "2019-2024",
       "paraphrased_content": "A surge of posts after Newby's 'Bitten' cite Burgdorfer's bioweapon work as proof the epidemic was engineered or released.",
       "pattern_tag": "bitten-driven-escape-belief",
-      "corroborates_sources": ["T9-S003"],
-      "contradicts_sources": ["T9-S001", "T9-S002"]
+      "corroborates_sources": [
+        "T9-S003"
+      ],
+      "contradicts_sources": [
+        "T9-S001",
+        "T9-S002"
+      ],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T9-F002",
@@ -133,8 +161,13 @@
       "approximate_date": "2010-2024",
       "paraphrased_content": "Repeated invocation of Plum Island's nearness to Lyme, CT and its secrecy as self-evident proof of origin.",
       "pattern_tag": "plum-island-proximity",
-      "corroborates_sources": ["T9-S007"],
-      "contradicts_sources": ["T9-S001"]
+      "corroborates_sources": [
+        "T9-S007"
+      ],
+      "contradicts_sources": [
+        "T9-S001"
+      ],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T9-F003",
@@ -143,8 +176,11 @@
       "approximate_date": "2015-2024",
       "paraphrased_content": "Users post declassified documents and archival records, occasionally surfacing genuinely obscure primary sources worth verifying.",
       "pattern_tag": "foia-document-surfacing",
-      "corroborates_sources": ["T9-S004"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T9-S004"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T9-F004",
@@ -154,7 +190,8 @@
       "paraphrased_content": "Linking the IDSA/ILADS treatment controversy to an alleged government cover-up of a bioweapon origin, forming a grand-unifying narrative.",
       "pattern_tag": "cover-up-grand-narrative",
       "corroborates_sources": [],
-      "contradicts_sources": []
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     }
   ]
 }

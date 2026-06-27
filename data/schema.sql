@@ -26,7 +26,8 @@ CREATE TABLE sources (
   pmid TEXT,
   url TEXT,
   key_findings TEXT,
-  relevance_notes TEXT
+  relevance_notes TEXT,
+  verified TEXT            -- audit stamp (e.g. "2026-06 web-confirmed"); NULL = unverified
 );
 
 CREATE TABLE forum_excerpts (
@@ -36,7 +37,8 @@ CREATE TABLE forum_excerpts (
   thread_url TEXT,
   approximate_date TEXT,
   paraphrased_content TEXT NOT NULL,
-  pattern_tag TEXT
+  pattern_tag TEXT,
+  provenance TEXT NOT NULL DEFAULT 'synthesized-pattern'  -- 'synthesized-pattern' | 'verified-thread'
 );
 
 CREATE TABLE excerpt_source_links (

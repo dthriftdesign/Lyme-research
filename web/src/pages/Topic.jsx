@@ -18,6 +18,24 @@ const TABS = [
   ['sources', 'Sources', null],
 ]
 
+function ProvenanceBadge({ provenance }) {
+  const verified = provenance === 'verified-thread'
+  return (
+    <span
+      title={verified
+        ? 'Links to a verified forum thread.'
+        : 'Pattern-level synthesis across the named communities — not a quoted post or single verified thread. See Methodology.'}
+      className={`inline-flex items-center gap-1 px-1.5 py-0.5 rounded border text-[10px] font-medium ${
+        verified
+          ? 'bg-emerald-50 text-emerald-700 border-emerald-300'
+          : 'bg-slate-50 text-slate-500 border-slate-300 border-dashed'
+      }`}
+    >
+      {verified ? 'verified thread' : 'synthesized pattern'}
+    </span>
+  )
+}
+
 function ExcerptCard({ e }) {
   return (
     <div className="border border-slate-200 rounded-lg p-3 bg-white">
@@ -25,6 +43,7 @@ function ExcerptCard({ e }) {
         <span className="text-sm font-medium text-slate-800">{e.platform}</span>
         <span className="text-xs text-slate-400">{e.approximate_date}</span>
       </div>
+      <div className="mt-1"><ProvenanceBadge provenance={e.provenance} /></div>
       <p className="text-sm text-slate-700 mt-1">{e.paraphrased_content}</p>
       {e.pattern_tag && (
         <div className="mt-2">

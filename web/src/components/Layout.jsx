@@ -20,6 +20,7 @@ export default function Layout() {
             <NavLink to="/symptom-search" className={navItem}>Symptom search</NavLink>
             <NavLink to="/graph" className={navItem}>Cross-topic graph</NavLink>
             <NavLink to="/meta-insights" className={navItem}>Meta-insights</NavLink>
+            <NavLink to="/methodology" className={navItem}>Methodology</NavLink>
           </nav>
         </div>
       </header>

@@ -7,6 +7,7 @@
     "approximate_date": "2019-2024",
     "paraphrased_content": "Posters describe early migratory joint pain (wrists/ankles/shoulders) that later settles into one or both knees with marked swelling and stiffness disproportionate to pain.",
     "pattern_tag": "knee-dominant-large-joint-swelling",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T1-S002",
@@ -26,6 +27,7 @@
     "approximate_date": "2018-2024",
     "paraphrased_content": "Recurring accounts of knee swelling that does not fully resolve or returns after one or two antibiotic courses; posters typically read this as ongoing infection and seek more antibiotics.",
     "pattern_tag": "refractory-arthritis-persistent-infection-interpretation",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T1-S001",
@@ -41,6 +43,7 @@
     "approximate_date": "2010-2020",
     "paraphrased_content": "Occasional reports that intra-articular steroid injection or arthroscopic synovectomy resolved a knee that prolonged antibiotics had not, often expressed with surprise.",
     "pattern_tag": "synovectomy-steroid-relief",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T1-S001",
@@ -64,6 +67,7 @@
     "approximate_date": "2005-2018",
     "paraphrased_content": "Reports of transient worsening of joint and systemic symptoms after starting antibiotics, labeled a Herxheimer reaction and interpreted as proof of active infection.",
     "pattern_tag": "herx-as-infection-proof",
+    "provenance": "synthesized-pattern",
     "source_links": []
   },
   {
@@ -74,6 +78,7 @@
     "approximate_date": "2019-2024",
     "paraphrased_content": "A subset insist on Lyme arthritis despite negative two-tier serology, pursuing specialty labs for confirmation.",
     "pattern_tag": "seronegative-self-identification",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T1-S001",
@@ -93,6 +98,7 @@
     "approximate_date": "2014-2024",
     "paraphrased_content": "Years of fatigue, pain, brain fog, and dysautonomia bouncing between specialists with ambiguous tests, before a chronic-Lyme diagnosis provides a unifying explanation and relief at being believed.",
     "pattern_tag": "diagnostic-odyssey",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T10-S002",
@@ -112,6 +118,7 @@
     "approximate_date": "2008-2022",
     "paraphrased_content": "Reports of feeling substantially better on extended/combination antibiotics and worse when stopping, read as proof of ongoing infection; others report no benefit or harm.",
     "pattern_tag": "antibiotic-response-relapse",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T10-S008",
@@ -135,6 +142,7 @@
     "approximate_date": "2018-2024",
     "paraphrased_content": "Patients describe themselves as having late-stage or disseminated chronic Lyme, fearing irreversible neurological or cardiac damage and pursuing aggressive treatment.",
     "pattern_tag": "late-stage-fear-of-permanence",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T10-S003",
@@ -150,6 +158,7 @@
     "approximate_date": "2016-2024",
     "paraphrased_content": "Heavy cross-membership with ME/CFS, long-COVID, POTS, and mast-cell communities describing near-identical post-infectious symptom clusters and migrating between labels.",
     "pattern_tag": "post-infectious-overlap",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T10-S005",
@@ -165,6 +174,7 @@
     "approximate_date": "2015-2024",
     "paraphrased_content": "Anger at the guideline/insurance system for not recognizing chronic Lyme, denied coverage for long antibiotics, and deep distrust of mainstream medicine.",
     "pattern_tag": "invalidation-and-politics",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T10-S001",
@@ -184,6 +194,7 @@
     "approximate_date": "2018-2024",
     "paraphrased_content": "Patients with Lyme symptoms and no recalled tick bite conclude they must have acquired it congenitally or sexually, treating the absent bite history as decisive.",
     "pattern_tag": "no-bite-implies-other-route",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T11-S001",
@@ -199,6 +210,7 @@
     "approximate_date": "2016-2024",
     "paraphrased_content": "Families where parent, child, and sometimes grandparent all have chronic-illness pictures interpret this as inherited/congenital Lyme and treat the whole family.",
     "pattern_tag": "multigenerational-hereditary-belief",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T11-S002",
@@ -218,6 +230,7 @@
     "approximate_date": "2017-2024",
     "paraphrased_content": "Mothers with Lyme describe anxiety about passing it in pregnancy or breastfeeding; some report children with matching symptoms, others were reassured by treatment during pregnancy and healthy children.",
     "pattern_tag": "maternal-transmission-anxiety",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T11-S003",
@@ -233,6 +246,7 @@
     "approximate_date": "2014-2022",
     "paraphrased_content": "Partners who both test positive (often with shared outdoor/tick exposure) interpret this as sexual transmission and cite detection of Borrelia in genital secretions.",
     "pattern_tag": "couples-positive-sexual-belief",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T11-S006",
@@ -256,9 +270,102 @@
     "approximate_date": "2018-2024",
     "paraphrased_content": "Patients point to a parent or grandparent with MS, lupus, or another autoimmune illness as evidence of an inherited Lyme lineage.",
     "pattern_tag": "relative-MS-as-hereditary-lyme",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T11-S010",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T12-F001",
+    "topic_id": 12,
+    "platform": "r/Lyme",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2021-2024",
+    "paraphrased_content": "Posters with prior Lyme describe a symptom flare in the days to weeks after a COVID-19 vaccine dose, interpreting it as the vaccine worsening or 'waking up' their Lyme.",
+    "pattern_tag": "flare-after-covid-vaccine",
+    "provenance": "synthesized-pattern",
+    "source_links": [
+      {
+        "source_id": "T12-S009",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T12-S007",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T12-F002",
+    "topic_id": 12,
+    "platform": "long-COVID / r/Lyme communities",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2021-2024",
+    "paraphrased_content": "Many of the same posters report comparable or worse flares after COVID-19 infection itself, sometimes acknowledging the infection hit harder than the shot.",
+    "pattern_tag": "flare-after-covid-infection-confounder",
+    "provenance": "synthesized-pattern",
+    "source_links": [
+      {
+        "source_id": "T12-S008",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T12-S009",
+        "link_type": "corroborates"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T12-F003",
+    "topic_id": 12,
+    "platform": "vaccine-injury / anti-vaccine communities",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2021-2024",
+    "paraphrased_content": "Stronger causal posts assert the COVID vaccine caused or reactivated active Lyme, often shared alongside broader anti-vaccine content.",
+    "pattern_tag": "vaccine-caused-lyme-causal-claim",
+    "provenance": "synthesized-pattern",
+    "source_links": [
+      {
+        "source_id": "T12-S011",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T12-F004",
+    "topic_id": 12,
+    "platform": "LymeNet Flash",
+    "thread_url": "http://flash.lymenet.org/",
+    "approximate_date": "2002-2024",
+    "paraphrased_content": "Posters cite the withdrawn LYMErix vaccine as proof that Lyme vaccines harm people, extending the distrust to COVID and future Lyme (VLA15) vaccines.",
+    "pattern_tag": "lymerix-history-as-proof",
+    "provenance": "synthesized-pattern",
+    "source_links": [
+      {
+        "source_id": "T12-S003",
+        "link_type": "corroborates"
+      },
+      {
+        "source_id": "T12-S001",
+        "link_type": "contradicts"
+      }
+    ]
+  },
+  {
+    "excerpt_id": "T12-F005",
+    "topic_id": 12,
+    "platform": "r/Lyme / long-COVID communities",
+    "thread_url": "https://www.reddit.com/r/Lyme/",
+    "approximate_date": "2021-2024",
+    "paraphrased_content": "A counter-current of posters report no flare or good vaccine tolerance, and some push back on causal claims and misinformation within the communities.",
+    "pattern_tag": "no-flare-and-pushback",
+    "provenance": "synthesized-pattern",
+    "source_links": [
+      {
+        "source_id": "T12-S011",
         "link_type": "corroborates"
       }
     ]
@@ -271,6 +378,7 @@
     "approximate_date": "2018-2024",
     "paraphrased_content": "Members describe and photograph colored fibers/filaments at or under non-healing lesions, treating their apparent emergence from skin as proof of an organic disease.",
     "pattern_tag": "fibers-emerging-from-skin",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T2-S006",
@@ -294,6 +402,7 @@
     "approximate_date": "2016-2024",
     "paraphrased_content": "Persistent crawling/biting/stinging sensations under the skin, often worse at night, driving scratching and lesion formation.",
     "pattern_tag": "formication",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T2-S002",
@@ -309,6 +418,7 @@
     "approximate_date": "2010-2024",
     "paraphrased_content": "Repeated accounts of being diagnosed with delusional parasitosis, offered antipsychotics, or refused testing, followed by a pivot to Lyme-literate or integrative practitioners.",
     "pattern_tag": "labeled-delusional-leaves-mainstream-care",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T2-S002",
@@ -328,6 +438,7 @@
     "approximate_date": "2015-2024",
     "paraphrased_content": "Members report positive Lyme tests (often specialty labs) or tick-exposure histories and frame Morgellons as a skin manifestation of chronic Lyme.",
     "pattern_tag": "co-occurring-lyme-diagnosis",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T2-S008",
@@ -343,6 +454,7 @@
     "approximate_date": "2012-2024",
     "paraphrased_content": "Mixed, uncontrolled reports: some members describe improvement of skin and systemic symptoms on prolonged antibiotic or antiparasitic courses; others report no benefit or harm.",
     "pattern_tag": "antibiotic-relief-mixed",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T2-S005",
@@ -362,6 +474,7 @@
     "approximate_date": "2010-2024",
     "paraphrased_content": "Stimulant users describe formication ('meth mites'/'coke bugs') and compulsive picking during binges, generally understood as a reversible drug effect that fades with sleep or abstinence.",
     "pattern_tag": "stimulant-formication-self-aware",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T3-S001",
@@ -385,6 +498,7 @@
     "approximate_date": "2016-2024",
     "paraphrased_content": "Identical crawling/biting sensations and skin-picking attributed to Borrelia/parasites, with stimulant use rarely mentioned.",
     "pattern_tag": "same-symptom-infection-attribution",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T3-S002",
@@ -404,6 +518,7 @@
     "approximate_date": "2018-2024",
     "paraphrased_content": "Recovery-forum posters report formication and infestation feelings resolving within days to weeks of stimulant abstinence, sometimes to their surprise.",
     "pattern_tag": "resolution-after-abstinence",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T3-S001",
@@ -423,6 +538,7 @@
     "approximate_date": "2018-2024",
     "paraphrased_content": "Some prescribed-amphetamine users describe mild skin-crawling at higher doses or with sleep deprivation, resolving with dose reduction.",
     "pattern_tag": "prescription-stimulant-dose-formication",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T3-S003",
@@ -438,6 +554,7 @@
     "approximate_date": "2019-2024",
     "paraphrased_content": "Posters describe onset or worsening of intrusive thoughts, contamination fears, and checking alongside cognitive fog during Lyme illness, sometimes easing as they recover.",
     "pattern_tag": "ocd-onset-during-lyme",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T4-S001",
@@ -457,6 +574,7 @@
     "approximate_date": "2016-2024",
     "paraphrased_content": "Parents describe sudden dramatic OCD/tic onset after infection (strep, sometimes tick exposure), with food restriction, separation anxiety, and rage.",
     "pattern_tag": "abrupt-onset-pans-like-ocd",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T4-S005",
@@ -472,6 +590,7 @@
     "approximate_date": "2018-2024",
     "paraphrased_content": "Mixed reports that OCD symptoms eased on antibiotics for Lyme, or did not change or worsened; frequently co-occurring with SSRIs or therapy.",
     "pattern_tag": "ocd-antibiotic-response-mixed",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T4-S008",
@@ -491,6 +610,7 @@
     "approximate_date": "2019-2024",
     "paraphrased_content": "A loop where Lyme/Morgellons fears become the content of OCD: compulsive symptom-checking, reassurance-seeking, and lab-test collecting.",
     "pattern_tag": "illness-as-ocd-content",
+    "provenance": "synthesized-pattern",
     "source_links": []
   },
   {
@@ -501,6 +621,7 @@
     "approximate_date": "2017-2024",
     "paraphrased_content": "Posters describe air hunger, drenching night sweats, and waves of chills, and learn from communities that these point to Babesia; many push for Babesia testing.",
     "pattern_tag": "babesia-air-hunger-sweats",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T5-S001",
@@ -520,6 +641,7 @@
     "approximate_date": "2010-2022",
     "paraphrased_content": "Accounts of stalled recovery on Lyme antibiotics that improved only after adding antiparasitic therapy (e.g., atovaquone/azithromycin) for Babesia.",
     "pattern_tag": "doxy-failure-resolved-by-babesia-treatment",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T5-S001",
@@ -535,6 +657,7 @@
     "approximate_date": "2008-2022",
     "paraphrased_content": "Members describe simultaneous treatment for a long list of co-infections (Babesia, Bartonella, Mycoplasma, viruses), citing the MSIDS model and combination protocols.",
     "pattern_tag": "msids-multiple-coinfections",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T5-S006",
@@ -550,6 +673,7 @@
     "approximate_date": "2015-2024",
     "paraphrased_content": "Use of ivermectin, antimalarials, and herbal 'parasite protocols,' with reports and photos of passing 'parasites'/'rope worms.'",
     "pattern_tag": "empiric-antiparasitic-cleanses",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T5-S007",
@@ -565,6 +689,7 @@
     "approximate_date": "2018-2024",
     "paraphrased_content": "A dominant theme of hopelessness driven by not being believed: years of negative tests, dismissive clinicians, and lost work/relationships described as central to the darkest periods.",
     "pattern_tag": "invalidation-despair",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T6-S006",
@@ -584,6 +709,7 @@
     "approximate_date": "2018-2024",
     "paraphrased_content": "Members describe sudden uncharacteristic mood collapse or intrusive dark thoughts that feel alien to their baseline self, attributed to infection/inflammation.",
     "pattern_tag": "alien-to-baseline-mood-change",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T6-S004",
@@ -603,6 +729,7 @@
     "approximate_date": "2012-2022",
     "paraphrased_content": "Reports that the lowest mental-health points coincided with the most severe physical phases (often attributed to Babesia), improving as physical illness improved.",
     "pattern_tag": "mood-tracks-coinfection-severity",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T6-S007",
@@ -622,6 +749,7 @@
     "approximate_date": "2012-2024",
     "paraphrased_content": "Many members credit peer communities with reducing isolation and providing hope and validation — a recurring protective counter-theme.",
     "pattern_tag": "community-protective-factor",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T6-S006",
@@ -637,6 +765,7 @@
     "approximate_date": "2017-2024",
     "paraphrased_content": "Members report an unexpected positive treponemal/FTA-Abs test with no syphilis risk, causing alarm and partner stress, ultimately attributed to Lyme cross-reactivity.",
     "pattern_tag": "false-positive-syphilis-from-lyme",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T7-S001",
@@ -660,6 +789,7 @@
     "approximate_date": "2008-2022",
     "paraphrased_content": "Members invoke the syphilis analogy to argue Lyme needs long aggressive antibiotics like neurosyphilis, citing spirochetal persistence.",
     "pattern_tag": "syphilis-analogy-treatment-advocacy",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T7-S004",
@@ -679,6 +809,7 @@
     "approximate_date": "2018-2024",
     "paraphrased_content": "Immunocompromised members describe atypical Lyme presentations and discordant test results, with difficulty obtaining a diagnosis.",
     "pattern_tag": "atypical-lyme-immunocompromised",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T7-S006",
@@ -694,6 +825,7 @@
     "approximate_date": "2015-2024",
     "paraphrased_content": "A minority invoke framings linking Lyme, HIV, and syphilis as engineered, often cross-posting bioweapon material.",
     "pattern_tag": "engineered-triad-conspiracy",
+    "provenance": "synthesized-pattern",
     "source_links": []
   },
   {
@@ -704,6 +836,7 @@
     "approximate_date": "2012-2024",
     "paraphrased_content": "Members track their CD57 count as a measure of chronic Lyme severity and treatment progress, sharing values and reading rises as improvement.",
     "pattern_tag": "cd57-as-severity-tracker",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T8-S006",
@@ -723,6 +856,7 @@
     "approximate_date": "2012-2024",
     "paraphrased_content": "Reports of recurrent colds, shingles, and EBV/CMV reactivation attributed to a chronic-Lyme 'weak immune system.'",
     "pattern_tag": "reactivated-viruses-immune-suppression",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T8-S002",
@@ -742,6 +876,7 @@
     "approximate_date": "2018-2024",
     "paraphrased_content": "Members post CBC results (abnormal lymphocytes/atypical cells) and crowd-source interpretation, sometimes fearing lymphoma or immunodeficiency.",
     "pattern_tag": "cbc-anxiety-lymphoma-fear",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T8-S004",
@@ -761,6 +896,7 @@
     "approximate_date": "2017-2024",
     "paraphrased_content": "Members describe alarm over cross-reactive positive treponemal or (rarely) HIV screening tests later attributed to tick-borne infection.",
     "pattern_tag": "cross-reactive-test-anxiety",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T8-S008",
@@ -776,6 +912,7 @@
     "approximate_date": "2019-2024",
     "paraphrased_content": "A surge of posts after Newby's 'Bitten' cite Burgdorfer's bioweapon work as proof the epidemic was engineered or released.",
     "pattern_tag": "bitten-driven-escape-belief",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T9-S003",
@@ -799,6 +936,7 @@
     "approximate_date": "2010-2024",
     "paraphrased_content": "Repeated invocation of Plum Island's nearness to Lyme, CT and its secrecy as self-evident proof of origin.",
     "pattern_tag": "plum-island-proximity",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T9-S007",
@@ -818,6 +956,7 @@
     "approximate_date": "2015-2024",
     "paraphrased_content": "Users post declassified documents and archival records, occasionally surfacing genuinely obscure primary sources worth verifying.",
     "pattern_tag": "foia-document-surfacing",
+    "provenance": "synthesized-pattern",
     "source_links": [
       {
         "source_id": "T9-S004",
@@ -833,6 +972,7 @@
     "approximate_date": "2008-2024",
     "paraphrased_content": "Linking the IDSA/ILADS treatment controversy to an alleged government cover-up of a bioweapon origin, forming a grand-unifying narrative.",
     "pattern_tag": "cover-up-grand-narrative",
+    "provenance": "synthesized-pattern",
     "source_links": []
   }
 ]

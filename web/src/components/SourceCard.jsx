@@ -20,8 +20,14 @@ export default function SourceCard({ source, compact }) {
       {!compact && s.key_findings && (
         <p className="text-sm text-slate-700 mt-2">{s.key_findings}</p>
       )}
-      <div className="flex flex-wrap gap-3 mt-2 text-xs">
+      <div className="flex flex-wrap gap-3 mt-2 text-xs items-center">
         <span className="text-slate-400">{s.source_id}</span>
+        {s.verified && (
+          <span title={`Identifier checked: ${s.verified}`}
+            className="inline-flex items-center gap-1 text-emerald-700 bg-emerald-50 border border-emerald-200 rounded px-1.5 py-0.5">
+            ✓ verified
+          </span>
+        )}
         {s.doi && (
           <a className="text-sky-700 hover:underline" target="_blank" rel="noreferrer"
              href={`https://doi.org/${s.doi}`}>DOI</a>

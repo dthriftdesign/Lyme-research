@@ -29,6 +29,10 @@ LINK_TYPES = {"corroborates", "contradicts", "related"}
 STRENGTHS = {"strong", "moderate", "weak", "speculative"}
 REL_TYPES = {"shared-mechanism", "symptom-overlap", "comorbidity",
              "differential-diagnosis", "contrasting"}
+PROVENANCE = {"synthesized-pattern", "verified-thread"}
+# An author entry that is wholly parenthetical (e.g. "(study authors)") is a
+# placeholder, not a real attribution.
+PLACEHOLDER_AUTHOR_RE = re.compile(r"^\(.*\)$")
 
 errors = []
 warnings = []
@@ -46,6 +50,7 @@ def main():
     all_sources = {}      # source_id -> record
     all_excerpts = set()
     topic_ids = set()
+    verified_count = 0
 
     topics = json.load(open(os.path.join(SEED, "topics.json")))["topics"]
     for t in topics:
@@ -76,6 +81,11 @@ def main():
                 err(f"{rel}: source {sid} has no DOI, PMID, or URL")
             if not s.get("key_findings"):
                 warn(f"{rel}: source {sid} missing key_findings")
+            for a in s.get("authors", []):
+                if PLACEHOLDER_AUTHOR_RE.match(a.strip()):
+                    err(f"{rel}: source {sid} has placeholder author '{a}' — needs real attribution")
+            if s.get("verified"):
+                verified_count += 1
         for e in data.get("forum_excerpts", []):
             eid = e.get("excerpt_id", "<missing>")
             if eid in all_excerpts:
@@ -87,6 +97,9 @@ def main():
                 err(f"{rel}: excerpt {eid} missing paraphrased_content")
             if not e.get("platform"):
                 err(f"{rel}: excerpt {eid} missing platform")
+            if e.get("provenance") not in PROVENANCE:
+                err(f"{rel}: excerpt {eid} bad/missing provenance '{e.get('provenance')}' "
+                    f"(expected one of {sorted(PROVENANCE)})")
 
     # second pass: excerpt source links resolve
     for spath in sorted(glob.glob(os.path.join(RESEARCH, "*", "sources.json"))):
@@ -157,6 +170,8 @@ def main():
     # ---- report ----
     print(f"Sources: {len(all_sources)}  Excerpts: {len(all_excerpts)}  "
           f"Relationships: {len(rel_ids)}  Topics: {len(topic_ids)}")
+    print(f"Citation audit: {verified_count}/{len(all_sources)} sources marked verified "
+          f"({100 * verified_count // max(1, len(all_sources))}%).")
     for w in warnings:
         print(f"WARN  {w}")
     for e in errors:

@@ -7,7 +7,10 @@
       "type": "peer_reviewed",
       "consensus_status": "historical",
       "title": "Lyme disease: a neuropsychiatric illness",
-      "authors": ["Fallon BA", "Nields JA"],
+      "authors": [
+        "Fallon BA",
+        "Nields JA"
+      ],
       "year": 1994,
       "journal_or_publisher": "American Journal of Psychiatry",
       "doi": "10.1176/ajp.151.11.1571",
@@ -21,7 +24,14 @@
       "type": "peer_reviewed",
       "consensus_status": "historical",
       "title": "Late-stage neuropsychiatric Lyme borreliosis: differential diagnosis and treatment",
-      "authors": ["Fallon BA", "Nields JA", "Burrascano JJ", "Liegner K", "DelBene D", "Liebowitz MR"],
+      "authors": [
+        "Fallon BA",
+        "Nields JA",
+        "Burrascano JJ",
+        "Liegner K",
+        "DelBene D",
+        "Liebowitz MR"
+      ],
       "year": 1995,
       "journal_or_publisher": "Psychosomatics",
       "doi": null,
@@ -35,21 +45,29 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Obsessive-compulsive symptoms in adults with Lyme disease",
-      "authors": ["(study authors)"],
+      "authors": [
+        "Johnco C",
+        "Kugler BB",
+        "Murphy TK",
+        "Storch EA"
+      ],
       "year": 2018,
       "journal_or_publisher": "General Hospital Psychiatry",
       "doi": "10.1016/j.genhosppsych.2017.08.006",
       "pmid": null,
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0163834317304280",
       "key_findings": "Reports obsessive-compulsive symptomatology among adults with Lyme disease.",
-      "relevance_notes": "One of few studies addressing OCD symptoms specifically in Lyme patients."
+      "relevance_notes": "One of few studies addressing OCD symptoms specifically in Lyme patients.",
+      "verified": "2026-06 web-confirmed"
     },
     {
       "source_id": "T4-S004",
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Neuropsychiatric Lyme Borreliosis: An Overview with a Focus on a Specialty Psychiatrist's Clinical Practice",
-      "authors": ["Bransfield RC"],
+      "authors": [
+        "Bransfield RC"
+      ],
       "year": 2018,
       "journal_or_publisher": "Healthcare (Basel)",
       "doi": "10.3390/healthcare6030104",
@@ -63,7 +81,15 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS): Clinical Description of the First 50 Cases",
-      "authors": ["Swedo SE", "Leonard HL", "Garvey M", "Mittleman B", "Allen AJ", "Perlmutter S", "et al."],
+      "authors": [
+        "Swedo SE",
+        "Leonard HL",
+        "Garvey M",
+        "Mittleman B",
+        "Allen AJ",
+        "Perlmutter S",
+        "et al."
+      ],
       "year": 1998,
       "journal_or_publisher": "American Journal of Psychiatry",
       "doi": "10.1176/ajp.155.2.264",
@@ -77,21 +103,36 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Neuropsychiatric Manifestations and Cognitive Decline in Patients With Long-Standing Lyme Disease: A Scoping Review",
-      "authors": ["(review authors)"],
+      "authors": [
+        "Brackett M",
+        "Potts J",
+        "Meihofer A",
+        "Indorewala Y",
+        "Ali A",
+        "Lutes S",
+        "et al.",
+        "Jacobs RJ"
+      ],
       "year": 2024,
-      "journal_or_publisher": "Cureus / scoping review",
-      "doi": null,
+      "journal_or_publisher": "Cureus",
+      "doi": "10.7759/cureus.58308",
       "pmid": null,
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11095283/",
       "key_findings": "Scoping review of neuropsychiatric and cognitive findings in long-standing Lyme disease.",
-      "relevance_notes": "Recent synthesis of the broader neuropsychiatric burden."
+      "relevance_notes": "Recent synthesis of the broader neuropsychiatric burden.",
+      "verified": "2026-06 web-confirmed"
     },
     {
       "source_id": "T4-S007",
       "type": "guideline",
       "consensus_status": "mainstream",
       "title": "2020 IDSA/AAN/ACR Lyme Disease Guidelines (neurologic Lyme sections)",
-      "authors": ["Lantos PM", "Rumbaugh J", "Bockenstedt LK", "et al."],
+      "authors": [
+        "Lantos PM",
+        "Rumbaugh J",
+        "Bockenstedt LK",
+        "et al."
+      ],
       "year": 2021,
       "journal_or_publisher": "Clinical Infectious Diseases",
       "doi": "10.1093/cid/ciaa1215",
@@ -105,14 +146,20 @@
       "type": "peer_reviewed",
       "consensus_status": "fringe",
       "title": "Case Report: PANDAS and Persistent Lyme Disease With Neuropsychiatric Symptoms: Treatment, Resolution, and Recovery",
-      "authors": ["(case report authors)"],
+      "authors": [
+        "Cross A",
+        "Bouboulis D",
+        "Shimasaki C",
+        "Jones CR"
+      ],
       "year": 2021,
       "journal_or_publisher": "Frontiers in Psychiatry",
       "doi": "10.3389/fpsyt.2021.505941",
-      "pmid": null,
+      "pmid": "33603684",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7884317/",
       "key_findings": "Case of a child meeting PANDAS criteria with Lyme serology and neuropsychiatric symptoms (including obsessions/compulsions) reported to improve with treatment.",
-      "relevance_notes": "Representative case-report evidence for the Lyme-triggered-PANS idea; hypothesis-generating only."
+      "relevance_notes": "Representative case-report evidence for the Lyme-triggered-PANS idea; hypothesis-generating only.",
+      "verified": "2026-06 web-confirmed"
     }
   ],
   "forum_excerpts": [
@@ -123,8 +170,12 @@
       "approximate_date": "2019-2024",
       "paraphrased_content": "Posters describe onset or worsening of intrusive thoughts, contamination fears, and checking alongside cognitive fog during Lyme illness, sometimes easing as they recover.",
       "pattern_tag": "ocd-onset-during-lyme",
-      "corroborates_sources": ["T4-S001", "T4-S004"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T4-S001",
+        "T4-S004"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T4-F002",
@@ -133,8 +184,11 @@
       "approximate_date": "2016-2024",
       "paraphrased_content": "Parents describe sudden dramatic OCD/tic onset after infection (strep, sometimes tick exposure), with food restriction, separation anxiety, and rage.",
       "pattern_tag": "abrupt-onset-pans-like-ocd",
-      "corroborates_sources": ["T4-S005"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T4-S005"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T4-F003",
@@ -143,8 +197,13 @@
       "approximate_date": "2018-2024",
       "paraphrased_content": "Mixed reports that OCD symptoms eased on antibiotics for Lyme, or did not change or worsened; frequently co-occurring with SSRIs or therapy.",
       "pattern_tag": "ocd-antibiotic-response-mixed",
-      "corroborates_sources": ["T4-S008"],
-      "contradicts_sources": ["T4-S007"]
+      "corroborates_sources": [
+        "T4-S008"
+      ],
+      "contradicts_sources": [
+        "T4-S007"
+      ],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T4-F004",
@@ -154,7 +213,8 @@
       "paraphrased_content": "A loop where Lyme/Morgellons fears become the content of OCD: compulsive symptom-checking, reassurance-seeking, and lab-test collecting.",
       "pattern_tag": "illness-as-ocd-content",
       "corroborates_sources": [],
-      "contradicts_sources": []
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     }
   ]
 }

@@ -7,7 +7,9 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Suicide and Lyme and associated diseases",
-      "authors": ["Bransfield RC"],
+      "authors": [
+        "Bransfield RC"
+      ],
       "year": 2017,
       "journal_or_publisher": "Neuropsychiatric Disease and Treatment",
       "doi": "10.2147/NDT.S136137",
@@ -21,35 +23,49 @@
       "type": "peer_reviewed",
       "consensus_status": "speculative",
       "title": "Suicidal and homicidal tendencies after Lyme disease: an ignored problem",
-      "authors": ["(authors)"],
+      "authors": [
+        "Munir A",
+        "Aadil M",
+        "Khan AR"
+      ],
       "year": 2017,
-      "journal_or_publisher": "Neuropsychiatric Disease and Treatment (Dove)",
-      "doi": null,
+      "journal_or_publisher": "Neuropsychiatric Disease and Treatment",
+      "doi": "10.2147/NDT.S145359",
       "pmid": null,
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5546819/",
       "key_findings": "Extends the neuropsychiatric-Lyme thesis to suicidal and aggressive/externalizing behavior.",
-      "relevance_notes": "More speculative behavioral extension; flagged to avoid sensationalism, included for completeness."
+      "relevance_notes": "More speculative behavioral extension; flagged to avoid sensationalism, included for completeness.",
+      "verified": "2026-06 web-confirmed"
     },
     {
       "source_id": "T6-S003",
       "type": "peer_reviewed",
       "consensus_status": "historical",
       "title": "Lyme neuroborreliosis presenting with alexithymia and suicide attempts",
-      "authors": ["(case report authors)"],
+      "authors": [
+        "Banerjee R",
+        "Liu JJ",
+        "Minhas HM"
+      ],
       "year": 2013,
-      "journal_or_publisher": "(case report)",
-      "doi": null,
+      "journal_or_publisher": "Journal of Clinical Psychiatry",
+      "doi": "10.4088/JCP.13cr08493",
       "pmid": "24229748",
       "url": "https://pubmed.ncbi.nlm.nih.gov/24229748/",
       "key_findings": "Documents a neuroborreliosis case with suicidality that improved with treatment of the infection.",
-      "relevance_notes": "Case-level evidence that active CNS infection can produce reversible suicidality."
+      "relevance_notes": "Case-level evidence that active CNS infection can produce reversible suicidality.",
+      "verified": "2026-06 web-confirmed"
     },
     {
       "source_id": "T6-S004",
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Role of inflammation in suicide: from mechanisms to treatment",
-      "authors": ["Brundin L", "Bryleva EY", "Thirtamara Rajamani K"],
+      "authors": [
+        "Brundin L",
+        "Bryleva EY",
+        "Thirtamara Rajamani K"
+      ],
       "year": 2017,
       "journal_or_publisher": "Neuropsychopharmacology",
       "doi": "10.1038/npp.2016.116",
@@ -63,7 +79,12 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Connecting inflammation with glutamate agonism in suicidality (CSF quinolinic acid in suicide attempters)",
-      "authors": ["Erhardt S", "Lim CK", "Linderholm KR", "et al."],
+      "authors": [
+        "Erhardt S",
+        "Lim CK",
+        "Linderholm KR",
+        "et al."
+      ],
       "year": 2013,
       "journal_or_publisher": "Neuropsychopharmacology",
       "doi": "10.1038/npp.2012.248",
@@ -77,7 +98,9 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Epidemiology of Suicide and the Psychiatric Perspective",
-      "authors": ["Bachmann S"],
+      "authors": [
+        "Bachmann S"
+      ],
       "year": 2018,
       "journal_or_publisher": "International Journal of Environmental Research and Public Health",
       "doi": "10.3390/ijerph15071425",
@@ -91,7 +114,12 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Concurrent Lyme disease and babesiosis: evidence for increased severity and duration of illness",
-      "authors": ["Krause PJ", "Telford SR 3rd", "Spielman A", "et al."],
+      "authors": [
+        "Krause PJ",
+        "Telford SR 3rd",
+        "Spielman A",
+        "et al."
+      ],
       "year": 1996,
       "journal_or_publisher": "JAMA",
       "doi": "10.1001/jama.1996.03530450047031",
@@ -109,8 +137,12 @@
       "approximate_date": "2018-2024",
       "paraphrased_content": "A dominant theme of hopelessness driven by not being believed: years of negative tests, dismissive clinicians, and lost work/relationships described as central to the darkest periods.",
       "pattern_tag": "invalidation-despair",
-      "corroborates_sources": ["T6-S006", "T6-S001"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T6-S006",
+        "T6-S001"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T6-F002",
@@ -119,8 +151,12 @@
       "approximate_date": "2018-2024",
       "paraphrased_content": "Members describe sudden uncharacteristic mood collapse or intrusive dark thoughts that feel alien to their baseline self, attributed to infection/inflammation.",
       "pattern_tag": "alien-to-baseline-mood-change",
-      "corroborates_sources": ["T6-S004", "T6-S001"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T6-S004",
+        "T6-S001"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T6-F003",
@@ -129,8 +165,12 @@
       "approximate_date": "2012-2022",
       "paraphrased_content": "Reports that the lowest mental-health points coincided with the most severe physical phases (often attributed to Babesia), improving as physical illness improved.",
       "pattern_tag": "mood-tracks-coinfection-severity",
-      "corroborates_sources": ["T6-S007", "T6-S006"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T6-S007",
+        "T6-S006"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T6-F004",
@@ -139,8 +179,11 @@
       "approximate_date": "2012-2024",
       "paraphrased_content": "Many members credit peer communities with reducing isolation and providing hope and validation — a recurring protective counter-theme.",
       "pattern_tag": "community-protective-factor",
-      "corroborates_sources": ["T6-S006"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T6-S006"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     }
   ]
 }

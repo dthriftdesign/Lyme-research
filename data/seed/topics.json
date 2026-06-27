@@ -65,6 +65,12 @@
       "slug": "lyme-transmission",
       "title": "How Lyme is transmitted (tick, congenital, sexual)",
       "summary": "Beyond the established tick-bite route: can Lyme pass in utero or sexually? Mainstream accepts the spirochete can rarely cross the placenta (documented since 1985) but rejects a defined congenital syndrome (removed from ICD-11) and sexual transmission. The congenital-syphilis analogy makes the vertical question scientifically serious; divergent transmission biology limits it. A missing tick-bite history is normal, not evidence of an exotic route."
+    },
+    {
+      "topic_id": 12,
+      "slug": "lyme-vaccines",
+      "title": "Lyme and vaccines (incl. COVID-19 vaccines)",
+      "summary": "Do vaccines, especially COVID-19 vaccines, activate or worsen Lyme? The strongest science is historical: the LYMErix OspA vaccine and the OspA-LFA-1 molecular-mimicry hypothesis (the same axis as Topic 1) — but the trial showed no increased arthritis and withdrawal was a media/litigation cascade, not proven harm; VLA15 now engineers out the epitope. Non-specific immune activation can flare chronic illness, and post-vaccination syndrome is a serious but preliminary research question (Yale LISTEN), yet there is no established evidence COVID vaccines reactivate Borrelia, and COVID infection is the larger, often-ignored confounder. A high-misinformation area handled with care."
     }
   ]
 }

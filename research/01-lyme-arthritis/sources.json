@@ -7,7 +7,15 @@
       "type": "guideline",
       "consensus_status": "mainstream",
       "title": "Clinical Practice Guidelines by the IDSA, AAN, and ACR: 2020 Guidelines for the Prevention, Diagnosis and Treatment of Lyme Disease",
-      "authors": ["Lantos PM", "Rumbaugh J", "Bockenstedt LK", "Falck-Ytter YT", "Aguero-Rosenfeld ME", "Auwaerter PG", "et al."],
+      "authors": [
+        "Lantos PM",
+        "Rumbaugh J",
+        "Bockenstedt LK",
+        "Falck-Ytter YT",
+        "Aguero-Rosenfeld ME",
+        "Auwaerter PG",
+        "et al."
+      ],
       "year": 2021,
       "journal_or_publisher": "Clinical Infectious Diseases",
       "doi": "10.1093/cid/ciaa1215",
@@ -21,7 +29,10 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Diagnosis and Treatment of Lyme Arthritis",
-      "authors": ["Arvikar SL", "Steere AC"],
+      "authors": [
+        "Arvikar SL",
+        "Steere AC"
+      ],
       "year": 2015,
       "journal_or_publisher": "Infectious Disease Clinics of North America",
       "doi": "10.1016/j.idc.2015.02.004",
@@ -35,7 +46,15 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Antibiotic-refractory Lyme arthritis is associated with HLA-DR molecules that bind a Borrelia burgdorferi peptide",
-      "authors": ["Steere AC", "Klitz W", "Drouin EE", "Falk BA", "Kwok WW", "Nepom GT", "Baxter-Lowe LA"],
+      "authors": [
+        "Steere AC",
+        "Klitz W",
+        "Drouin EE",
+        "Falk BA",
+        "Kwok WW",
+        "Nepom GT",
+        "Baxter-Lowe LA"
+      ],
       "year": 2006,
       "journal_or_publisher": "Journal of Experimental Medicine",
       "doi": "10.1084/jem.20052471",
@@ -49,7 +68,16 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "A novel human autoantigen, endothelial cell growth factor, is a target of T and B cell responses in patients with Lyme disease",
-      "authors": ["Drouin EE", "Seward RJ", "Strle K", "McHugh G", "Katchar K", "Londono D", "et al.", "Steere AC"],
+      "authors": [
+        "Drouin EE",
+        "Seward RJ",
+        "Strle K",
+        "McHugh G",
+        "Katchar K",
+        "Londono D",
+        "et al.",
+        "Steere AC"
+      ],
       "year": 2013,
       "journal_or_publisher": "Arthritis & Rheumatism",
       "doi": "10.1002/art.37732",
@@ -63,7 +91,15 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Antibodies to Endothelial Cell Growth Factor and Obliterative Microvascular Lesions in the Synovium of Patients With Antibiotic-Refractory Lyme Arthritis",
-      "authors": ["Londono D", "Cadavid D", "Drouin EE", "Strle K", "McHugh G", "Aversa JM", "Steere AC"],
+      "authors": [
+        "Londono D",
+        "Cadavid D",
+        "Drouin EE",
+        "Strle K",
+        "McHugh G",
+        "Aversa JM",
+        "Steere AC"
+      ],
       "year": 2014,
       "journal_or_publisher": "Arthritis & Rheumatology",
       "doi": "10.1002/art.38618",
@@ -77,7 +113,15 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Annexin A2 is a target of autoimmune T and B cell responses associated with synovial fibroblast proliferation in patients with antibiotic-refractory Lyme arthritis",
-      "authors": ["Pianta A", "Drouin EE", "Crowley JT", "Arvikar S", "Strle K", "Costello CE", "Steere AC"],
+      "authors": [
+        "Pianta A",
+        "Drouin EE",
+        "Crowley JT",
+        "Arvikar S",
+        "Strle K",
+        "Costello CE",
+        "Steere AC"
+      ],
       "year": 2015,
       "journal_or_publisher": "Clinical Immunology",
       "doi": "10.1016/j.clim.2015.07.005",
@@ -91,7 +135,15 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Autoimmunity to synovial extracellular matrix proteins in patients with postinfectious Lyme arthritis",
-      "authors": ["Sulka KB", "Strle K", "Crowley JT", "Lochhead RB", "Arvikar SL", "Steere AC", "et al."],
+      "authors": [
+        "Sulka KB",
+        "Strle K",
+        "Crowley JT",
+        "Lochhead RB",
+        "Arvikar SL",
+        "Steere AC",
+        "et al."
+      ],
       "year": 2023,
       "journal_or_publisher": "Journal of Clinical Investigation",
       "doi": "10.1172/JCI161170",
@@ -105,7 +157,12 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Spirochete antigens persist near cartilage after murine Lyme borreliosis therapy",
-      "authors": ["Bockenstedt LK", "Gonzalez DG", "Haberman AM", "Belperron AA"],
+      "authors": [
+        "Bockenstedt LK",
+        "Gonzalez DG",
+        "Haberman AM",
+        "Belperron AA"
+      ],
       "year": 2012,
       "journal_or_publisher": "Journal of Clinical Investigation",
       "doi": "10.1172/JCI58813",
@@ -119,7 +176,15 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Borrelia burgdorferi peptidoglycan is a persistent antigen in patients with Lyme arthritis",
-      "authors": ["Jutras BL", "Lochhead RB", "Kloos ZA", "Biboy J", "Strle K", "Booth CJ", "et al."],
+      "authors": [
+        "Jutras BL",
+        "Lochhead RB",
+        "Kloos ZA",
+        "Biboy J",
+        "Strle K",
+        "Booth CJ",
+        "et al."
+      ],
       "year": 2019,
       "journal_or_publisher": "PNAS",
       "doi": "10.1073/pnas.1904170116",
@@ -133,7 +198,11 @@
       "type": "guideline",
       "consensus_status": "minority-research",
       "title": "Evidence assessments and guideline recommendations in Lyme disease: the clinical management of known tick bites, erythema migrans rashes and persistent disease",
-      "authors": ["Cameron DJ", "Johnson LB", "Maloney EL"],
+      "authors": [
+        "Cameron DJ",
+        "Johnson LB",
+        "Maloney EL"
+      ],
       "year": 2014,
       "journal_or_publisher": "Expert Review of Anti-infective Therapy",
       "doi": "10.1586/14787210.2014.940900",
@@ -147,7 +216,15 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Chronic Lyme Disease: An Evidence-Based Definition by the ILADS Working Group",
-      "authors": ["Shor S", "Green C", "Szantyr B", "Phillips S", "Liegner K", "Burrascano JJ", "et al."],
+      "authors": [
+        "Shor S",
+        "Green C",
+        "Szantyr B",
+        "Phillips S",
+        "Liegner K",
+        "Burrascano JJ",
+        "et al."
+      ],
       "year": 2019,
       "journal_or_publisher": "Antibiotics (Basel)",
       "doi": "10.3390/antibiotics8040269",
@@ -161,7 +238,15 @@
       "type": "peer_reviewed",
       "consensus_status": "historical",
       "title": "Lyme arthritis: an epidemic of oligoarticular arthritis in children and adults in three Connecticut communities",
-      "authors": ["Steere AC", "Malawista SE", "Snydman DR", "Shope RE", "Andiman WA", "Ross MR", "Steele FM"],
+      "authors": [
+        "Steere AC",
+        "Malawista SE",
+        "Snydman DR",
+        "Shope RE",
+        "Andiman WA",
+        "Ross MR",
+        "Steele FM"
+      ],
       "year": 1977,
       "journal_or_publisher": "Arthritis & Rheumatism",
       "doi": "10.1002/art.1780200102",
@@ -175,7 +260,9 @@
       "type": "peer_reviewed",
       "consensus_status": "historical",
       "title": "Lyme disease",
-      "authors": ["Steere AC"],
+      "authors": [
+        "Steere AC"
+      ],
       "year": 2001,
       "journal_or_publisher": "New England Journal of Medicine",
       "doi": "10.1056/NEJM200107123450207",
@@ -189,7 +276,15 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Two controlled trials of antibiotic treatment in patients with persistent symptoms and a history of Lyme disease",
-      "authors": ["Klempner MS", "Hu LT", "Evans J", "Schmid CH", "Johnson GM", "Trevino RP", "et al."],
+      "authors": [
+        "Klempner MS",
+        "Hu LT",
+        "Evans J",
+        "Schmid CH",
+        "Johnson GM",
+        "Trevino RP",
+        "et al."
+      ],
       "year": 2001,
       "journal_or_publisher": "New England Journal of Medicine",
       "doi": "10.1056/NEJM200107123450202",
@@ -203,7 +298,15 @@
       "type": "guideline",
       "consensus_status": "historical",
       "title": "The clinical assessment, treatment, and prevention of Lyme disease, human granulocytic anaplasmosis, and babesiosis: IDSA clinical practice guidelines",
-      "authors": ["Wormser GP", "Dattwyler RJ", "Shapiro ED", "Halperin JJ", "Steere AC", "Klempner MS", "et al."],
+      "authors": [
+        "Wormser GP",
+        "Dattwyler RJ",
+        "Shapiro ED",
+        "Halperin JJ",
+        "Steere AC",
+        "Klempner MS",
+        "et al."
+      ],
       "year": 2006,
       "journal_or_publisher": "Clinical Infectious Diseases",
       "doi": "10.1086/508667",
@@ -217,7 +320,9 @@
       "type": "book",
       "consensus_status": "mainstream",
       "title": "Borrelia Burgdorferi (StatPearls)",
-      "authors": ["StatPearls Publishing"],
+      "authors": [
+        "StatPearls Publishing"
+      ],
       "year": 2024,
       "journal_or_publisher": "StatPearls / NCBI Bookshelf",
       "doi": null,
@@ -231,7 +336,13 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Lyme arthritis: linking infection, inflammation and autoimmunity",
-      "authors": ["Lochhead RB", "Strle K", "Arvikar SL", "Weis JJ", "Steere AC"],
+      "authors": [
+        "Lochhead RB",
+        "Strle K",
+        "Arvikar SL",
+        "Weis JJ",
+        "Steere AC"
+      ],
       "year": 2021,
       "journal_or_publisher": "Nature Reviews Rheumatology",
       "doi": "10.1038/s41584-021-00648-5",
@@ -245,7 +356,15 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Persistence of Borrelia burgdorferi in Rhesus Macaques following Antibiotic Treatment of Disseminated Infection",
-      "authors": ["Embers ME", "Barthold SW", "Borda JT", "Bowers L", "Doyle L", "Hodzic E", "et al."],
+      "authors": [
+        "Embers ME",
+        "Barthold SW",
+        "Borda JT",
+        "Bowers L",
+        "Doyle L",
+        "Hodzic E",
+        "et al."
+      ],
       "year": 2012,
       "journal_or_publisher": "PLOS ONE",
       "doi": "10.1371/journal.pone.0029914",
@@ -259,7 +378,13 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Persistence of Borrelia burgdorferi following antibiotic treatment in mice",
-      "authors": ["Hodzic E", "Feng S", "Holden K", "Freet KJ", "Barthold SW"],
+      "authors": [
+        "Hodzic E",
+        "Feng S",
+        "Holden K",
+        "Freet KJ",
+        "Barthold SW"
+      ],
       "year": 2008,
       "journal_or_publisher": "Antimicrobial Agents and Chemotherapy",
       "doi": "10.1128/AAC.01050-07",
@@ -273,7 +398,11 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Drug Combinations against Borrelia burgdorferi Persisters In Vitro: Eradication Achieved by Using Daptomycin, Cefoperazone and Doxycycline",
-      "authors": ["Feng J", "Auwaerter PG", "Zhang Y"],
+      "authors": [
+        "Feng J",
+        "Auwaerter PG",
+        "Zhang Y"
+      ],
       "year": 2015,
       "journal_or_publisher": "PLOS ONE",
       "doi": "10.1371/journal.pone.0117207",
@@ -287,7 +416,15 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Characterization of Biofilm Formation by Borrelia burgdorferi In Vitro",
-      "authors": ["Sapi E", "Bastian SL", "Mpoy CM", "Scott S", "Rattelle A", "Pabbati N", "et al."],
+      "authors": [
+        "Sapi E",
+        "Bastian SL",
+        "Mpoy CM",
+        "Scott S",
+        "Rattelle A",
+        "Pabbati N",
+        "et al."
+      ],
       "year": 2012,
       "journal_or_publisher": "PLOS ONE",
       "doi": "10.1371/journal.pone.0048277",
@@ -301,7 +438,14 @@
       "type": "peer_reviewed",
       "consensus_status": "historical",
       "title": "Detection of Borrelia burgdorferi DNA by polymerase chain reaction in synovial fluid from patients with Lyme arthritis",
-      "authors": ["Nocton JJ", "Dressler F", "Rutledge BJ", "Rys PN", "Persing DH", "Steere AC"],
+      "authors": [
+        "Nocton JJ",
+        "Dressler F",
+        "Rutledge BJ",
+        "Rys PN",
+        "Persing DH",
+        "Steere AC"
+      ],
       "year": 1994,
       "journal_or_publisher": "New England Journal of Medicine",
       "doi": "10.1056/NEJM199401273300401",
@@ -319,8 +463,12 @@
       "approximate_date": "2019-2024",
       "paraphrased_content": "Posters describe early migratory joint pain (wrists/ankles/shoulders) that later settles into one or both knees with marked swelling and stiffness disproportionate to pain.",
       "pattern_tag": "knee-dominant-large-joint-swelling",
-      "corroborates_sources": ["T1-S002", "T1-S013"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T1-S002",
+        "T1-S013"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T1-F002",
@@ -329,8 +477,11 @@
       "approximate_date": "2018-2024",
       "paraphrased_content": "Recurring accounts of knee swelling that does not fully resolve or returns after one or two antibiotic courses; posters typically read this as ongoing infection and seek more antibiotics.",
       "pattern_tag": "refractory-arthritis-persistent-infection-interpretation",
-      "corroborates_sources": ["T1-S001"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T1-S001"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T1-F003",
@@ -339,8 +490,14 @@
       "approximate_date": "2010-2020",
       "paraphrased_content": "Occasional reports that intra-articular steroid injection or arthroscopic synovectomy resolved a knee that prolonged antibiotics had not, often expressed with surprise.",
       "pattern_tag": "synovectomy-steroid-relief",
-      "corroborates_sources": ["T1-S001", "T1-S017"],
-      "contradicts_sources": ["T1-S010"]
+      "corroborates_sources": [
+        "T1-S001",
+        "T1-S017"
+      ],
+      "contradicts_sources": [
+        "T1-S010"
+      ],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T1-F004",
@@ -350,7 +507,8 @@
       "paraphrased_content": "Reports of transient worsening of joint and systemic symptoms after starting antibiotics, labeled a Herxheimer reaction and interpreted as proof of active infection.",
       "pattern_tag": "herx-as-infection-proof",
       "corroborates_sources": [],
-      "contradicts_sources": []
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T1-F005",
@@ -360,7 +518,11 @@
       "paraphrased_content": "A subset insist on Lyme arthritis despite negative two-tier serology, pursuing specialty labs for confirmation.",
       "pattern_tag": "seronegative-self-identification",
       "corroborates_sources": [],
-      "contradicts_sources": ["T1-S001", "T1-S002"]
+      "contradicts_sources": [
+        "T1-S001",
+        "T1-S002"
+      ],
+      "provenance": "synthesized-pattern"
     }
   ]
 }

@@ -52,13 +52,14 @@ def build():
                 """INSERT INTO sources
                    (source_id, topic_id, type, consensus_status, title, authors,
                     year, journal_or_publisher, doi, pmid, url, key_findings,
-                    relevance_notes)
-                   VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+                    relevance_notes, verified)
+                   VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
                 (
                     s["source_id"], topic_id, s["type"], s["consensus_status"],
                     s["title"], json.dumps(s.get("authors", [])), s.get("year"),
                     s.get("journal_or_publisher"), s.get("doi"), s.get("pmid"),
                     s.get("url"), s.get("key_findings"), s.get("relevance_notes"),
+                    s.get("verified"),
                 ),
             )
             source_ids.add(s["source_id"])
@@ -66,12 +67,12 @@ def build():
             cur.execute(
                 """INSERT INTO forum_excerpts
                    (excerpt_id, topic_id, platform, thread_url, approximate_date,
-                    paraphrased_content, pattern_tag)
-                   VALUES (?,?,?,?,?,?,?)""",
+                    paraphrased_content, pattern_tag, provenance)
+                   VALUES (?,?,?,?,?,?,?,?)""",
                 (
                     e["excerpt_id"], topic_id, e["platform"], e.get("thread_url"),
                     e.get("approximate_date"), e["paraphrased_content"],
-                    e.get("pattern_tag"),
+                    e.get("pattern_tag"), e.get("provenance", "synthesized-pattern"),
                 ),
             )
             excerpt_ids.add(e["excerpt_id"])

@@ -7,7 +7,10 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "The Brilliance of Borrelia: Mechanisms of Host Immune Evasion by Lyme Disease-Causing Spirochetes",
-      "authors": ["Tracy KE", "Baumgarth N"],
+      "authors": [
+        "Tracy KE",
+        "Baumgarth N"
+      ],
       "year": 2021,
       "journal_or_publisher": "Pathogens",
       "doi": "10.3390/pathogens10030281",
@@ -21,7 +24,12 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Suppression of Long-Lived Humoral Immunity Following Borrelia burgdorferi Infection",
-      "authors": ["Hastey CJ", "Elsner RA", "Barthold SW", "Baumgarth N"],
+      "authors": [
+        "Hastey CJ",
+        "Elsner RA",
+        "Barthold SW",
+        "Baumgarth N"
+      ],
       "year": 2015,
       "journal_or_publisher": "PLOS Pathogens",
       "doi": "10.1371/journal.ppat.1004976",
@@ -35,35 +43,56 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Suppression of host humoral immunity by Borrelia burgdorferi varies over the course of infection",
-      "authors": ["(study authors)"],
+      "authors": [
+        "Williams MT",
+        "Zhang Y",
+        "Pulse ME",
+        "Berg RE",
+        "Allen MS"
+      ],
       "year": 2024,
       "journal_or_publisher": "Infection and Immunity",
       "doi": "10.1128/iai.00018-24",
-      "pmid": null,
+      "pmid": "38514468",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11003232/",
       "key_findings": "Characterizes how Borrelia-induced humoral suppression changes across the infection course.",
-      "relevance_notes": "Recent refinement of the humoral-suppression mechanism."
+      "relevance_notes": "Recent refinement of the humoral-suppression mechanism.",
+      "verified": "2026-06 web-confirmed"
     },
     {
       "source_id": "T8-S004",
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
-      "title": "Borrelia burgdorferi-associated primary cutaneous B-cell lymphoma",
-      "authors": ["Cerroni L", "Zochling N", "Putz B", "Kerl H"],
-      "year": 2000,
-      "journal_or_publisher": "(dermatopathology)",
-      "doi": null,
-      "pmid": "11135050",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/11135050/",
+      "title": "Infection by Borrelia burgdorferi and cutaneous B-cell lymphoma",
+      "authors": [
+        "Cerroni L",
+        "Zochling N",
+        "Putz B",
+        "Kerl H"
+      ],
+      "year": 1997,
+      "journal_or_publisher": "Journal of Cutaneous Pathology",
+      "doi": "10.1111/j.1600-0560.1997.tb01318.x",
+      "pmid": "9331890",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9331890/",
       "key_findings": "Associates primary cutaneous B-cell lymphoma with chronic Borrelia antigenic stimulation of cutaneous lymphoid tissue.",
-      "relevance_notes": "Infection-driven B-cell lymphoproliferation (a defined WBC disorder)."
+      "relevance_notes": "Foundational paper linking infection-driven B-cell lymphoproliferation to Borrelia (a defined WBC disorder).",
+      "verified": "2026-06 web-confirmed"
     },
     {
       "source_id": "T8-S005",
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Eradication of Borrelia burgdorferi infection in primary marginal zone B-cell lymphoma of the skin",
-      "authors": ["Roggero E", "Zucca E", "Mainetti C", "Bertoni F", "Valsangiacomo C", "Pedrinis E", "et al."],
+      "authors": [
+        "Roggero E",
+        "Zucca E",
+        "Mainetti C",
+        "Bertoni F",
+        "Valsangiacomo C",
+        "Pedrinis E",
+        "et al."
+      ],
       "year": 2000,
       "journal_or_publisher": "Human Pathology",
       "doi": "10.1016/S0046-8177(00)80233-6",
@@ -77,7 +106,10 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Decreased CD57 lymphocyte subset in patients with chronic Lyme disease",
-      "authors": ["Stricker RB", "Winger EE"],
+      "authors": [
+        "Stricker RB",
+        "Winger EE"
+      ],
       "year": 2001,
       "journal_or_publisher": "Immunology Letters",
       "doi": "10.1016/S0165-2478(01)00302-6",
@@ -91,7 +123,10 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "CD4+ T-cell depletion in HIV infection: mechanisms of immunological failure",
-      "authors": ["Okoye AA", "Picker LJ"],
+      "authors": [
+        "Okoye AA",
+        "Picker LJ"
+      ],
       "year": 2013,
       "journal_or_publisher": "Immunological Reviews",
       "doi": "10.1111/imr.12066",
@@ -105,14 +140,18 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Borrelia burgdorferi Manipulates Innate and Adaptive Immunity to Establish Persistence in Rodent Reservoir Hosts",
-      "authors": ["(study authors)"],
+      "authors": [
+        "Tracy KE",
+        "Baumgarth N"
+      ],
       "year": 2017,
       "journal_or_publisher": "Frontiers in Immunology",
       "doi": "10.3389/fimmu.2017.00116",
       "pmid": null,
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5316537/",
       "key_findings": "Describes Borrelia manipulation of innate and adaptive immunity enabling persistence, including immunomodulation relevant to co-infection.",
-      "relevance_notes": "Mechanistic basis for Borrelia-driven immune modulation and co-infection synergy."
+      "relevance_notes": "Mechanistic basis for Borrelia-driven immune modulation and co-infection synergy.",
+      "verified": "2026-06 web-confirmed"
     }
   ],
   "forum_excerpts": [
@@ -123,8 +162,13 @@
       "approximate_date": "2012-2024",
       "paraphrased_content": "Members track their CD57 count as a measure of chronic Lyme severity and treatment progress, sharing values and reading rises as improvement.",
       "pattern_tag": "cd57-as-severity-tracker",
-      "corroborates_sources": ["T8-S006"],
-      "contradicts_sources": ["T8-S001"]
+      "corroborates_sources": [
+        "T8-S006"
+      ],
+      "contradicts_sources": [
+        "T8-S001"
+      ],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T8-F002",
@@ -133,8 +177,12 @@
       "approximate_date": "2012-2024",
       "paraphrased_content": "Reports of recurrent colds, shingles, and EBV/CMV reactivation attributed to a chronic-Lyme 'weak immune system.'",
       "pattern_tag": "reactivated-viruses-immune-suppression",
-      "corroborates_sources": ["T8-S002", "T8-S003"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T8-S002",
+        "T8-S003"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T8-F003",
@@ -143,8 +191,12 @@
       "approximate_date": "2018-2024",
       "paraphrased_content": "Members post CBC results (abnormal lymphocytes/atypical cells) and crowd-source interpretation, sometimes fearing lymphoma or immunodeficiency.",
       "pattern_tag": "cbc-anxiety-lymphoma-fear",
-      "corroborates_sources": ["T8-S004", "T8-S005"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T8-S004",
+        "T8-S005"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T8-F004",
@@ -153,8 +205,11 @@
       "approximate_date": "2017-2024",
       "paraphrased_content": "Members describe alarm over cross-reactive positive treponemal or (rarely) HIV screening tests later attributed to tick-borne infection.",
       "pattern_tag": "cross-reactive-test-anxiety",
-      "corroborates_sources": ["T8-S008"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T8-S008"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     }
   ]
 }

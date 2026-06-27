@@ -23,6 +23,7 @@ Newest entries at the top.
 | 9 | Lyme as bioweapon | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 10 | Chronic & late-stage Lyme | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 11 | How Lyme is transmitted (tick/congenital/sexual) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 12 | Lyme and vaccines (incl. COVID-19) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ## Infrastructure status
 
@@ -51,6 +52,29 @@ Newest entries at the top.
   congenital-syphilis analogy; handled with extra epistemic care.
 - Updated seed (topics/symptoms/insights), re-seeded, validated (0/0), exported,
   rebuilt and redeployed the frontend. Live site auto-updates via Pages workflow.
+
+### Session 3 — 2026-06-26 (Topic 12 + Tier-1 integrity remediation)
+Per the approved remediation plan (Topic 12 + Tier-1 fixes):
+- **Added Topic 12 (Lyme + vaccines, incl. COVID-19)** — anchored on the real
+  LYMErix/OspA molecular-mimicry history (the Topic-1 axis), with careful
+  misinformation handling; 11 verified sources, post-vaccination-syndrome flagged
+  speculative, COVID-infection foregrounded as the larger confounder.
+- **Citation hygiene:** replaced all 22 placeholder author lists with
+  web-confirmed authors; corrected one real citation error (T8-S004 PMID belonged
+  to a different paper); confirmed the 2025/26 sources exist; added `verified`
+  stamps (33/117 sources audited so far).
+- **Provenance + verified data layer:** schema adds `provenance` (forum_excerpts,
+  all backfilled `synthesized-pattern`) and `verified` (sources); `validate.py`
+  now enforces provenance vocab and **fails on placeholder authors**; new
+  `scripts/audit_citations.py` (offline checks + live DOI/PMID resolution).
+- **Frontend Tier-1:** provenance badge on excerpt cards, `verified` badge on
+  source cards, new **Methodology & Limitations** page + nav, and an
+  **"AI-authored, not expert-reviewed"** line in the disclaimer.
+- DB now: 12 topics · 117 sources · 53 excerpts · 48 relationships · 57 symptoms ·
+  26 insights. validate 0/0.
+- **Deferred (Tier 2/3):** full citation audit, real forum mining, depth
+  expansion of thin topics, expert review + corrections workflow. See
+  `docs/graph-enrichment-ideas.md` and the plan file for the roadmap.
 
 ---
 

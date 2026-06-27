@@ -274,5 +274,30 @@
       "T11-S002",
       "T11-S003"
     ]
+  },
+  {
+    "insight_id": 25,
+    "topic_id": 12,
+    "category": "emergent-pattern",
+    "title": "The strongest evidence exonerates the vaccine it's blamed on",
+    "content": "The OspA molecular-mimicry story is the exact mechanism anti-vaccine narratives cite, yet the LYMErix trial showed no increased arthritis, the autoimmunity concern was never clinically confirmed, and the new vaccine engineers the epitope out. The deepest science here undercuts the causal claim it's recruited to support.",
+    "sources": [
+      "T12-S001",
+      "T12-S002",
+      "T12-S005",
+      "T12-S006"
+    ]
+  },
+  {
+    "insight_id": 26,
+    "topic_id": 12,
+    "category": "contradiction",
+    "title": "Infection is the bigger, ignored variable",
+    "content": "Patients report the same flare after COVID infection as after the vaccine, and infection is far more common and immunologically violent. Honest accounts of post-COVID Lyme flares must foreground infection (and EBV reactivation), which vaccine-blame narratives omit.",
+    "sources": [
+      "T12-S008",
+      "T12-S009",
+      "T12-S011"
+    ]
   }
 ]

@@ -28,6 +28,11 @@ export default function DisclaimerBanner() {
             not validated case data. If you are experiencing a medical issue, consult a licensed
             clinician.
           </p>
+          <p>
+            <strong>AI-authored synthesis, not reviewed by domain experts.</strong> Verify any
+            claim against its cited source. See the <a className="underline" href="#/methodology">Methodology &amp; Limitations</a> page —
+            including how the patient-report layer is built.
+          </p>
           <p className="font-medium">
             In crisis or considering self-harm? US: call or text <strong>988</strong> · UK:
             Samaritans <strong>116 123</strong> · International: findahelpline.com

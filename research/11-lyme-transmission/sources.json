@@ -7,7 +7,9 @@
       "type": "guideline",
       "consensus_status": "mainstream",
       "title": "How Lyme Disease Spreads / Transmission (CDC)",
-      "authors": ["Centers for Disease Control and Prevention"],
+      "authors": [
+        "Centers for Disease Control and Prevention"
+      ],
       "year": 2024,
       "journal_or_publisher": "US Centers for Disease Control and Prevention",
       "doi": null,
@@ -21,7 +23,13 @@
       "type": "peer_reviewed",
       "consensus_status": "historical",
       "title": "Maternal-fetal transmission of the Lyme disease spirochete, Borrelia burgdorferi",
-      "authors": ["Schlesinger PA", "Duray PH", "Burke BA", "Steere AC", "Stillman MT"],
+      "authors": [
+        "Schlesinger PA",
+        "Duray PH",
+        "Burke BA",
+        "Steere AC",
+        "Stillman MT"
+      ],
       "year": 1985,
       "journal_or_publisher": "Annals of Internal Medicine",
       "doi": "10.7326/0003-4819-103-1-67",
@@ -35,7 +43,13 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "A systematic review on the impact of gestational Lyme disease in humans on the fetus and newborn",
-      "authors": ["Waddell LA", "Greig J", "Lindsay LR", "Hinckley AF", "Ogden NH"],
+      "authors": [
+        "Waddell LA",
+        "Greig J",
+        "Lindsay LR",
+        "Hinckley AF",
+        "Ogden NH"
+      ],
       "year": 2018,
       "journal_or_publisher": "PLOS ONE",
       "doi": "10.1371/journal.pone.0207067",
@@ -49,7 +63,10 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Maternal Lyme borreliosis and pregnancy outcome",
-      "authors": ["Lakos A", "Solymosi N"],
+      "authors": [
+        "Lakos A",
+        "Solymosi N"
+      ],
       "year": 2010,
       "journal_or_publisher": "International Journal of Infectious Diseases",
       "doi": "10.1016/j.ijid.2009.07.019",
@@ -63,7 +80,9 @@
       "type": "historical_document",
       "consensus_status": "mainstream",
       "title": "Evidence review for person-to-person transmission (NICE Lyme disease guideline NG95)",
-      "authors": ["National Institute for Health and Care Excellence (NICE)"],
+      "authors": [
+        "National Institute for Health and Care Excellence (NICE)"
+      ],
       "year": 2018,
       "journal_or_publisher": "NICE / NCBI Bookshelf",
       "doi": null,
@@ -77,7 +96,16 @@
       "type": "peer_reviewed",
       "consensus_status": "fringe",
       "title": "Culture and identification of Borrelia spirochetes in human vaginal and seminal secretions",
-      "authors": ["Middelveen MJ", "Burke J", "Sapi E", "Bandoski C", "Filush KR", "Wang Y", "et al.", "Stricker RB"],
+      "authors": [
+        "Middelveen MJ",
+        "Burke J",
+        "Sapi E",
+        "Bandoski C",
+        "Filush KR",
+        "Wang Y",
+        "et al.",
+        "Stricker RB"
+      ],
       "year": 2014,
       "journal_or_publisher": "F1000Research",
       "doi": "10.12688/f1000research.5778.3",
@@ -91,7 +119,10 @@
       "type": "peer_reviewed",
       "consensus_status": "fringe",
       "title": "Sexual transmission of Lyme disease: challenging the tickborne disease paradigm",
-      "authors": ["Stricker RB", "Middelveen MJ"],
+      "authors": [
+        "Stricker RB",
+        "Middelveen MJ"
+      ],
       "year": 2015,
       "journal_or_publisher": "Expert Review of Anti-infective Therapy",
       "doi": "10.1586/14787210.2015.1081056",
@@ -105,7 +136,9 @@
       "type": "book",
       "consensus_status": "mainstream",
       "title": "Congenital Syphilis (StatPearls)",
-      "authors": ["StatPearls Publishing"],
+      "authors": [
+        "StatPearls Publishing"
+      ],
       "year": 2024,
       "journal_or_publisher": "StatPearls / NCBI Bookshelf",
       "doi": null,
@@ -119,28 +152,35 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Perinatal transmission of Borrelia burgdorferi: advancing scientific and clinical understanding of Lyme disease in pregnancy",
-      "authors": ["(review authors)"],
+      "authors": [
+        "Banbury Center Lyme Disease in Pregnancy Working Group"
+      ],
       "year": 2026,
       "journal_or_publisher": "Frontiers in Medicine",
       "doi": "10.3389/fmed.2026.1794120",
       "pmid": null,
       "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1794120/full",
       "key_findings": "Reviews perinatal transmission of B. burgdorferi and argues for greater clinical and scientific attention to Lyme in pregnancy.",
-      "relevance_notes": "Recent minority-leaning push to advance the congenital-transmission science."
+      "relevance_notes": "Recent minority-leaning push to advance the congenital-transmission science.",
+      "verified": "2026-06 web-confirmed"
     },
     {
       "source_id": "T11-S010",
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Borrelia burgdorferi and autoimmune mechanisms: implications for mimicry, misdiagnosis, and mismanagement in Lyme disease and autoimmune disorders",
-      "authors": ["(review authors)"],
+      "authors": [
+        "Doskaliuk B",
+        "Zimba O"
+      ],
       "year": 2024,
-      "journal_or_publisher": "review (PMC)",
-      "doi": null,
+      "journal_or_publisher": "Rheumatology International",
+      "doi": "10.1007/s00296-024-05580-x",
       "pmid": null,
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11424747/",
       "key_findings": "Reviews how Borrelia can mimic and possibly trigger autoimmune disease (including MS-like presentations), and the resulting misdiagnosis risk.",
-      "relevance_notes": "Basis for the contested Lyme-MS mimicry/association invoked in familial-autoimmunity arguments."
+      "relevance_notes": "Basis for the contested Lyme-MS mimicry/association invoked in familial-autoimmunity arguments.",
+      "verified": "2026-06 web-confirmed"
     }
   ],
   "forum_excerpts": [
@@ -152,7 +192,10 @@
       "paraphrased_content": "Patients with Lyme symptoms and no recalled tick bite conclude they must have acquired it congenitally or sexually, treating the absent bite history as decisive.",
       "pattern_tag": "no-bite-implies-other-route",
       "corroborates_sources": [],
-      "contradicts_sources": ["T11-S001"]
+      "contradicts_sources": [
+        "T11-S001"
+      ],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T11-F002",
@@ -161,8 +204,12 @@
       "approximate_date": "2016-2024",
       "paraphrased_content": "Families where parent, child, and sometimes grandparent all have chronic-illness pictures interpret this as inherited/congenital Lyme and treat the whole family.",
       "pattern_tag": "multigenerational-hereditary-belief",
-      "corroborates_sources": ["T11-S002", "T11-S009"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T11-S002",
+        "T11-S009"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T11-F003",
@@ -171,8 +218,11 @@
       "approximate_date": "2017-2024",
       "paraphrased_content": "Mothers with Lyme describe anxiety about passing it in pregnancy or breastfeeding; some report children with matching symptoms, others were reassured by treatment during pregnancy and healthy children.",
       "pattern_tag": "maternal-transmission-anxiety",
-      "corroborates_sources": ["T11-S003"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T11-S003"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T11-F004",
@@ -181,8 +231,14 @@
       "approximate_date": "2014-2022",
       "paraphrased_content": "Partners who both test positive (often with shared outdoor/tick exposure) interpret this as sexual transmission and cite detection of Borrelia in genital secretions.",
       "pattern_tag": "couples-positive-sexual-belief",
-      "corroborates_sources": ["T11-S006", "T11-S007"],
-      "contradicts_sources": ["T11-S001"]
+      "corroborates_sources": [
+        "T11-S006",
+        "T11-S007"
+      ],
+      "contradicts_sources": [
+        "T11-S001"
+      ],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T11-F005",
@@ -191,8 +247,11 @@
       "approximate_date": "2018-2024",
       "paraphrased_content": "Patients point to a parent or grandparent with MS, lupus, or another autoimmune illness as evidence of an inherited Lyme lineage.",
       "pattern_tag": "relative-MS-as-hereditary-lyme",
-      "corroborates_sources": ["T11-S010"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T11-S010"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     }
   ]
 }

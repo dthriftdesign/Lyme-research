@@ -7,7 +7,15 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Clinical, Epidemiologic, Histopathologic and Molecular Features of an Unexplained Dermopathy",
-      "authors": ["Pearson ML", "Selby JV", "Katz KA", "Cantrell V", "Braden CR", "Parise ME", "et al."],
+      "authors": [
+        "Pearson ML",
+        "Selby JV",
+        "Katz KA",
+        "Cantrell V",
+        "Braden CR",
+        "Parise ME",
+        "et al."
+      ],
       "year": 2012,
       "journal_or_publisher": "PLOS ONE",
       "doi": "10.1371/journal.pone.0029908",
@@ -21,7 +29,10 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Delusional Infestation",
-      "authors": ["Freudenmann RW", "Lepping P"],
+      "authors": [
+        "Freudenmann RW",
+        "Lepping P"
+      ],
       "year": 2009,
       "journal_or_publisher": "Clinical Microbiology Reviews",
       "doi": "10.1128/CMR.00018-09",
@@ -35,7 +46,13 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Delusional Infestation, Including Delusions of Parasitosis: Results of Histologic Examination of Skin Biopsy and Patient-Provided Skin Specimens",
-      "authors": ["Hylwa SA", "Bury JE", "Davis MD", "Pittelkow M", "Bostwick JM"],
+      "authors": [
+        "Hylwa SA",
+        "Bury JE",
+        "Davis MD",
+        "Pittelkow M",
+        "Bostwick JM"
+      ],
       "year": 2011,
       "journal_or_publisher": "Archives of Dermatology",
       "doi": "10.1001/archdermatol.2011.114",
@@ -49,7 +66,16 @@
       "type": "peer_reviewed",
       "consensus_status": "fringe",
       "title": "Exploring the association between Morgellons disease and Lyme disease: identification of Borrelia burgdorferi in Morgellons disease patients",
-      "authors": ["Middelveen MJ", "Bandoski C", "Burke J", "Sapi E", "Filush KR", "Wang Y", "et al.", "Stricker RB"],
+      "authors": [
+        "Middelveen MJ",
+        "Bandoski C",
+        "Burke J",
+        "Sapi E",
+        "Filush KR",
+        "Wang Y",
+        "et al.",
+        "Stricker RB"
+      ],
       "year": 2015,
       "journal_or_publisher": "BMC Dermatology",
       "doi": "10.1186/s12895-015-0023-0",
@@ -63,7 +89,10 @@
       "type": "peer_reviewed",
       "consensus_status": "fringe",
       "title": "Morgellons disease: a filamentous borrelial dermatitis",
-      "authors": ["Middelveen MJ", "Stricker RB"],
+      "authors": [
+        "Middelveen MJ",
+        "Stricker RB"
+      ],
       "year": 2016,
       "journal_or_publisher": "International Journal of General Medicine",
       "doi": "10.2147/IJGM.S116608",
@@ -77,7 +106,12 @@
       "type": "peer_reviewed",
       "consensus_status": "fringe",
       "title": "Characterization and evolution of dermal filaments from patients with Morgellons disease",
-      "authors": ["Middelveen MJ", "Mayne PJ", "Kahn DG", "Stricker RB"],
+      "authors": [
+        "Middelveen MJ",
+        "Mayne PJ",
+        "Kahn DG",
+        "Stricker RB"
+      ],
       "year": 2013,
       "journal_or_publisher": "Clinical, Cosmetic and Investigational Dermatology",
       "doi": "10.2147/CCID.S39017",
@@ -91,7 +125,11 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "History of Morgellons disease: from delusion to definition",
-      "authors": ["Middelveen MJ", "Fesler MC", "Stricker RB"],
+      "authors": [
+        "Middelveen MJ",
+        "Fesler MC",
+        "Stricker RB"
+      ],
       "year": 2018,
       "journal_or_publisher": "Clinical, Cosmetic and Investigational Dermatology",
       "doi": "10.2147/CCID.S152343",
@@ -105,7 +143,10 @@
       "type": "peer_reviewed",
       "consensus_status": "fringe",
       "title": "Morgellons disease: Analysis of a population with clinically confirmed microscopic subcutaneous fibers of unknown etiology",
-      "authors": ["Savely VR", "Stricker RB"],
+      "authors": [
+        "Savely VR",
+        "Stricker RB"
+      ],
       "year": 2010,
       "journal_or_publisher": "Clinical, Cosmetic and Investigational Dermatology",
       "doi": "10.2147/CCID.S9520",
@@ -119,7 +160,16 @@
       "type": "peer_reviewed",
       "consensus_status": "fringe",
       "title": "Association of spirochetal infection with Morgellons disease",
-      "authors": ["Middelveen MJ", "Burugu D", "Poruri A", "Burke J", "Mayne PJ", "Sapi E", "Kahn DG", "Stricker RB"],
+      "authors": [
+        "Middelveen MJ",
+        "Burugu D",
+        "Poruri A",
+        "Burke J",
+        "Mayne PJ",
+        "Sapi E",
+        "Kahn DG",
+        "Stricker RB"
+      ],
       "year": 2013,
       "journal_or_publisher": "F1000Research",
       "doi": "10.12688/f1000research.2-25.v1",
@@ -133,7 +183,15 @@
       "type": "peer_reviewed",
       "consensus_status": "minority-research",
       "title": "Characterization of Biofilm Formation by Borrelia burgdorferi In Vitro",
-      "authors": ["Sapi E", "Bastian SL", "Mpoy CM", "Scott S", "Rattelle A", "Pabbati N", "et al."],
+      "authors": [
+        "Sapi E",
+        "Bastian SL",
+        "Mpoy CM",
+        "Scott S",
+        "Rattelle A",
+        "Pabbati N",
+        "et al."
+      ],
       "year": 2012,
       "journal_or_publisher": "PLOS ONE",
       "doi": "10.1371/journal.pone.0048277",
@@ -147,14 +205,20 @@
       "type": "peer_reviewed",
       "consensus_status": "mainstream",
       "title": "Morgellons disease: a review on current evidence and the need for consensus, standardized criteria, and future randomized controlled trials",
-      "authors": ["(review authors)"],
+      "authors": [
+        "Akbarialiabad H",
+        "Salehi S",
+        "Murrell DF",
+        "Jafferany M"
+      ],
       "year": 2025,
       "journal_or_publisher": "Archives of Dermatological Research",
       "doi": "10.1007/s00403-025-04308-6",
       "pmid": null,
       "url": "https://link.springer.com/article/10.1007/s00403-025-04308-6",
       "key_findings": "Recent review acknowledging heterogeneity, calling for standardized diagnostic criteria and controlled trials; notes lack of evidence for antibiotics.",
-      "relevance_notes": "Shows mainstream concession that the category is heterogeneous and under-studied."
+      "relevance_notes": "Shows mainstream concession that the category is heterogeneous and under-studied.",
+      "verified": "2026-06 web-confirmed"
     }
   ],
   "forum_excerpts": [
@@ -165,8 +229,14 @@
       "approximate_date": "2018-2024",
       "paraphrased_content": "Members describe and photograph colored fibers/filaments at or under non-healing lesions, treating their apparent emergence from skin as proof of an organic disease.",
       "pattern_tag": "fibers-emerging-from-skin",
-      "corroborates_sources": ["T2-S006"],
-      "contradicts_sources": ["T2-S001", "T2-S003"]
+      "corroborates_sources": [
+        "T2-S006"
+      ],
+      "contradicts_sources": [
+        "T2-S001",
+        "T2-S003"
+      ],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T2-F002",
@@ -175,8 +245,11 @@
       "approximate_date": "2016-2024",
       "paraphrased_content": "Persistent crawling/biting/stinging sensations under the skin, often worse at night, driving scratching and lesion formation.",
       "pattern_tag": "formication",
-      "corroborates_sources": ["T2-S002"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T2-S002"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T2-F003",
@@ -185,8 +258,12 @@
       "approximate_date": "2010-2024",
       "paraphrased_content": "Repeated accounts of being diagnosed with delusional parasitosis, offered antipsychotics, or refused testing, followed by a pivot to Lyme-literate or integrative practitioners.",
       "pattern_tag": "labeled-delusional-leaves-mainstream-care",
-      "corroborates_sources": ["T2-S002", "T2-S007"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T2-S002",
+        "T2-S007"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T2-F004",
@@ -195,8 +272,11 @@
       "approximate_date": "2015-2024",
       "paraphrased_content": "Members report positive Lyme tests (often specialty labs) or tick-exposure histories and frame Morgellons as a skin manifestation of chronic Lyme.",
       "pattern_tag": "co-occurring-lyme-diagnosis",
-      "corroborates_sources": ["T2-S008"],
-      "contradicts_sources": []
+      "corroborates_sources": [
+        "T2-S008"
+      ],
+      "contradicts_sources": [],
+      "provenance": "synthesized-pattern"
     },
     {
       "excerpt_id": "T2-F005",
@@ -205,8 +285,13 @@
       "approximate_date": "2012-2024",
       "paraphrased_content": "Mixed, uncontrolled reports: some members describe improvement of skin and systemic symptoms on prolonged antibiotic or antiparasitic courses; others report no benefit or harm.",
       "pattern_tag": "antibiotic-relief-mixed",
-      "corroborates_sources": ["T2-S005"],
-      "contradicts_sources": ["T2-S011"]
+      "corroborates_sources": [
+        "T2-S005"
+      ],
+      "contradicts_sources": [
+        "T2-S011"
+      ],
+      "provenance": "synthesized-pattern"
     }
   ]
 }

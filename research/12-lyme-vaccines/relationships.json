@@ -1,0 +1,37 @@
+{
+  "topic_id": 12,
+  "relationships": [
+    {
+      "relationship_id": "R045",
+      "to_topic_id": 1,
+      "type": "shared-mechanism",
+      "description": "The OspA/HLA-DR/LFA-1 molecular-mimicry axis is shared: the vaccine-autoimmunity worry and antibiotic-refractory Lyme arthritis run on the same mechanism.",
+      "evidence_sources": ["T12-S002", "T12-S010"],
+      "strength": "strong"
+    },
+    {
+      "relationship_id": "R046",
+      "to_topic_id": 10,
+      "type": "shared-mechanism",
+      "description": "Immune-activation flares of PTLDS and the long-COVID/PTLDS overlap connect vaccine/infection immune events to chronic-Lyme symptom worsening.",
+      "evidence_sources": ["T12-S009"],
+      "strength": "strong"
+    },
+    {
+      "relationship_id": "R047",
+      "to_topic_id": 8,
+      "type": "shared-mechanism",
+      "description": "Latent-pathogen reactivation (EBV after COVID) and immune dysregulation provide the substrate for post-immune-event flares.",
+      "evidence_sources": ["T12-S008"],
+      "strength": "moderate"
+    },
+    {
+      "relationship_id": "R048",
+      "to_topic_id": 6,
+      "type": "shared-mechanism",
+      "description": "Neuropsychiatric/mood flares attributed to immune events link to the neuroinflammation mechanisms of the suicide/mood topic.",
+      "evidence_sources": ["T12-S007"],
+      "strength": "weak"
+    }
+  ]
+}
